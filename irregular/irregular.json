@@ -1,24 +1,24 @@
 {
   "lines": {
     "am":{
-      "i50": {
+      "50": {
         "snd_url":"https://raw.githubusercontent.com/ellsworth-vinson/audio/master/irregular/am/irregular.am.50.mp3.json",
         "snd_example_url":"https://raw.githubusercontent.com/ellsworth-vinson/audio/master/irregular/am/irregular.am.50.example.mp3.json",
         "data_url":"https://raw.githubusercontent.com/ellsworth-vinson/audio/master/irregular/am/irregular.am.50.json"
       },
-      "i100": {
+      "100": {
         "snd_url":"https://raw.githubusercontent.com/ellsworth-vinson/audio/master/irregular/am/irregular.am.100.mp3.json",
         "snd_example_url":"https://raw.githubusercontent.com/ellsworth-vinson/audio/master/irregular/am/irregular.am.100.example.mp3.json",
         "data_url":"https://raw.githubusercontent.com/ellsworth-vinson/audio/master/irregular/am/irregular.am.100.json"
       }
     },
     "br":{
-      "i50": {
+      "50": {
         "snd_url":"https://raw.githubusercontent.com/ellsworth-vinson/audio/master/irregular/br/irregular.br.50.mp3.json",
         "snd_example_url":"https://raw.githubusercontent.com/ellsworth-vinson/audio/master/irregular/br/irregular.br.50.example.mp3.json",
         "data_url":"https://raw.githubusercontent.com/ellsworth-vinson/audio/master/irregular/br/irregular.br.50.json"
       },
-      "i100": {
+      "100": {
         "snd_url":"https://raw.githubusercontent.com/ellsworth-vinson/audio/master/irregular/br/irregular.br.100.mp3.json",
         "snd_example_url":"https://raw.githubusercontent.com/ellsworth-vinson/audio/master/irregular/br/irregular.br.100.example.mp3.json",
         "data_url":"https://raw.githubusercontent.com/ellsworth-vinson/audio/master/irregular/br/irregular.br.100.json"
