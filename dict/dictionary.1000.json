@@ -1,0 +1,89 @@
+{
+  "lines": [
+    {
+      "eng": "put",
+      "rus": "класть",
+      "examples": [
+        "He always puts his car in the garage.",
+        "I am putting the dishes into the dishwasher.",
+        "I put the package on his desk."
+      ]
+    },
+    {
+      "eng": "let",
+      "rus": "позволять"
+    },
+    {
+      "eng": "set",
+      "rus": "помещать ставить установить"
+    },
+    {
+      "eng": "read",
+      "rus": "читать"
+    },
+    {
+      "eng": "begin",
+      "rus": "начинать"
+    },
+    {
+      "eng": "find",
+      "rus": "находить"
+    },
+    {
+      "eng": "stand",
+      "rus": "стоять"
+    },
+    {
+      "eng": "understand",
+      "rus": "понимать"
+    },
+    {
+      "eng": "get",
+      "rus": "получать, становиться, добираться"
+    },
+    {
+      "eng": "win",
+      "rus": "выиграть, победить"
+    },
+    {
+      "eng": "sit",
+      "rus": "сидеть"
+    },
+    {
+      "eng": "meet",
+      "rus": "встречать"
+    },
+    {
+      "eng": "lead",
+      "rus": "вести"
+    },
+    {
+      "eng": "hold",
+      "rus": "держать"
+    },
+    {
+      "eng": "can",
+      "rus": "мочь, уметь"
+    },
+    {
+      "eng": "tell",
+      "rus": "рассказывать"
+    },
+    {
+      "eng": "hear",
+      "rus": "слышать, услышать"
+    },
+    {
+      "eng": "may",
+      "rus": "мочь, иметь, возможность"
+    },
+    {
+      "eng": "buy",
+      "rus": "купить"
+    },
+    {
+      "eng": "speak",
+      "rus": "говорить"
+    }
+  ]
+}
