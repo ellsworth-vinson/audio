@@ -52,12 +52,20 @@
             ]
         },
         {
+            "eng": "test",
+            "rus": "контрольная работа"
+        },
+        {
             "eng": "text",
             "rus": "текст",
             "examples": [
                 {
                     "eng": "i put the phone on the table7",
                     "rus": "Я положил телефон на стол7"
+                },
+                {
+                    "eng": "test",
+                    "rus": "контрольная работа"
                 }
             ]
         }
