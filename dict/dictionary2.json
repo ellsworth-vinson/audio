@@ -1,18 +1,18 @@
 {
   "lines": {
     "1000": {
-      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dict/{ph}/dictionary.{ph}.mp3.json",
-      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dict/{ph}/dictionary.{ph}.example.mp3.json",
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dict/full/dictionary.{ph}.mp3.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dict/full/dictionary.{ph}.example.mp3.json",
       "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dict/dictionary.1000.json"
     },
     "2000": {
-      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dict/{ph}/dictionary.{ph}.mp3.json",
-      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dict/{ph}/dictionary.{ph}.example.mp3.json",
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dict/full/dictionary.{ph}.mp3.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dict/full/dictionary.{ph}.example.mp3.json",
       "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dict/dictionary.1000.json"
     },
     "3000": {
-      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dict/{ph}/dictionary.{ph}.mp3.json",
-      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dict/{ph}/dictionary.{ph}.example.mp3.json",
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dict/full/dictionary.{ph}.mp3.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dict/full/dictionary.{ph}.example.mp3.json",
       "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dict/dictionary.1000.json"
     }
   }
