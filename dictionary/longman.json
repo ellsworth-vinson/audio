@@ -1,19 +1,54 @@
 {
   "lines": {
-    "1000": {
+    "S1000": {
       "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
       "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
-      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman.3000.json"
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman.S1000.json"
     },
-    "2000": {
+    "S2000": {
       "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
       "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
-      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman.3000.json"
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman.S2000.json"
+    },
+    "S3000": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman.S3000.json"
+    },
+    "W1000": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman.W1000.json"
+    },
+    "W2000": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman.W2000.json"
+    },
+    "W3000": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman.W3000.json"
     },
     "3000": {
       "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
       "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
       "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman.3000.json"
+    },
+    "Adjective": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman.Adjective.json"
+    },
+    "Adverb": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman.Adverb.json"
+    },
+    "Noun": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman.Noun.json"
     }
   }
 }

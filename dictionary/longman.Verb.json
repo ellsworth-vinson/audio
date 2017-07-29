@@ -1,0 +1,2869 @@
+
+{
+    "lines": [
+        {
+            "eng": "abandon",
+            "rus": "отказаться от"
+        },
+        {
+            "eng": "absorb",
+            "rus": "абсорбировать"
+        },
+        {
+            "eng": "accept",
+            "rus": "принимать"
+        },
+        {
+            "eng": "accompany",
+            "rus": "сопровождать"
+        },
+        {
+            "eng": "account",
+            "rus": "Счет"
+        },
+        {
+            "eng": "accuse",
+            "rus": "обвинять"
+        },
+        {
+            "eng": "achieve",
+            "rus": "достигать"
+        },
+        {
+            "eng": "acknowledge",
+            "rus": "признавать"
+        },
+        {
+            "eng": "acquire",
+            "rus": "приобретать"
+        },
+        {
+            "eng": "act",
+            "rus": "акт"
+        },
+        {
+            "eng": "adapt",
+            "rus": "адаптироваться"
+        },
+        {
+            "eng": "add",
+            "rus": "Добавить"
+        },
+        {
+            "eng": "address",
+            "rus": "адрес"
+        },
+        {
+            "eng": "adjust",
+            "rus": "регулировать"
+        },
+        {
+            "eng": "admire",
+            "rus": "восхищаться"
+        },
+        {
+            "eng": "admit",
+            "rus": "признавать"
+        },
+        {
+            "eng": "adopt",
+            "rus": "принять"
+        },
+        {
+            "eng": "advance",
+            "rus": "продвижение"
+        },
+        {
+            "eng": "advertise",
+            "rus": "рекламировать"
+        },
+        {
+            "eng": "advise",
+            "rus": "консультировать"
+        },
+        {
+            "eng": "affect",
+            "rus": "аффект"
+        },
+        {
+            "eng": "afford",
+            "rus": "позволить себе"
+        },
+        {
+            "eng": "agree",
+            "rus": "дать согласие"
+        },
+        {
+            "eng": "aim",
+            "rus": "цель"
+        },
+        {
+            "eng": "allow",
+            "rus": "позволять"
+        },
+        {
+            "eng": "alter",
+            "rus": "изменять"
+        },
+        {
+            "eng": "analyse",
+            "rus": "анализировать"
+        },
+        {
+            "eng": "announce",
+            "rus": "анонсировать"
+        },
+        {
+            "eng": "annoy",
+            "rus": "раздражать"
+        },
+        {
+            "eng": "answer",
+            "rus": "ответ"
+        },
+        {
+            "eng": "anticipate",
+            "rus": "предвидеть"
+        },
+        {
+            "eng": "apologize",
+            "rus": "принести извинения"
+        },
+        {
+            "eng": "appeal",
+            "rus": "обращение"
+        },
+        {
+            "eng": "appear",
+            "rus": "появиться"
+        },
+        {
+            "eng": "apply",
+            "rus": "подать заявление"
+        },
+        {
+            "eng": "appoint",
+            "rus": "назначать"
+        },
+        {
+            "eng": "appreciate",
+            "rus": "ценить"
+        },
+        {
+            "eng": "approach",
+            "rus": "подход"
+        },
+        {
+            "eng": "approve",
+            "rus": "одобрить"
+        },
+        {
+            "eng": "argue",
+            "rus": "спорить"
+        },
+        {
+            "eng": "arise",
+            "rus": "возникать"
+        },
+        {
+            "eng": "arrange",
+            "rus": "организовать"
+        },
+        {
+            "eng": "arrest",
+            "rus": "арестовывать"
+        },
+        {
+            "eng": "arrive",
+            "rus": "прибыть"
+        },
+        {
+            "eng": "ask",
+            "rus": "просить"
+        },
+        {
+            "eng": "assess",
+            "rus": "оценить"
+        },
+        {
+            "eng": "assist",
+            "rus": "помощь"
+        },
+        {
+            "eng": "associate",
+            "rus": "ассоциировать"
+        },
+        {
+            "eng": "assume",
+            "rus": "предполагать"
+        },
+        {
+            "eng": "assure",
+            "rus": "уверять"
+        },
+        {
+            "eng": "attach",
+            "rus": "прикреплять"
+        },
+        {
+            "eng": "attack",
+            "rus": "атака"
+        },
+        {
+            "eng": "attempt",
+            "rus": "попытка"
+        },
+        {
+            "eng": "attend",
+            "rus": "посещать"
+        },
+        {
+            "eng": "attract",
+            "rus": "привлекать"
+        },
+        {
+            "eng": "avoid",
+            "rus": "избежать"
+        },
+        {
+            "eng": "award",
+            "rus": "награда"
+        },
+        {
+            "eng": "back",
+            "rus": "назад"
+        },
+        {
+            "eng": "bake",
+            "rus": "выпекать"
+        },
+        {
+            "eng": "balance",
+            "rus": "баланс"
+        },
+        {
+            "eng": "bang",
+            "rus": "бах"
+        },
+        {
+            "eng": "base",
+            "rus": "база"
+        },
+        {
+            "eng": "be",
+            "rus": "быть"
+        },
+        {
+            "eng": "bear",
+            "rus": "медведь"
+        },
+        {
+            "eng": "beat",
+            "rus": "бить"
+        },
+        {
+            "eng": "become",
+            "rus": "стали"
+        },
+        {
+            "eng": "begin",
+            "rus": "начать"
+        },
+        {
+            "eng": "behave",
+            "rus": "вести себя"
+        },
+        {
+            "eng": "believe",
+            "rus": "верить"
+        },
+        {
+            "eng": "belong",
+            "rus": "принадлежать"
+        },
+        {
+            "eng": "bend",
+            "rus": "изгиб"
+        },
+        {
+            "eng": "benefit",
+            "rus": "выгода"
+        },
+        {
+            "eng": "bet",
+            "rus": "делать ставку"
+        },
+        {
+            "eng": "bite",
+            "rus": "укусить"
+        },
+        {
+            "eng": "blame",
+            "rus": "вина"
+        },
+        {
+            "eng": "bless",
+            "rus": "благословить"
+        },
+        {
+            "eng": "block",
+            "rus": "блок"
+        },
+        {
+            "eng": "blow",
+            "rus": "дуть"
+        },
+        {
+            "eng": "boil",
+            "rus": "кипятить"
+        },
+        {
+            "eng": "book",
+            "rus": "книга"
+        },
+        {
+            "eng": "born",
+            "rus": "Родился"
+        },
+        {
+            "eng": "borrow",
+            "rus": "заимствовать"
+        },
+        {
+            "eng": "bother",
+            "rus": "беспокоить"
+        },
+        {
+            "eng": "bounce",
+            "rus": "подпрыгивать"
+        },
+        {
+            "eng": "break",
+            "rus": "ломать"
+        },
+        {
+            "eng": "breathe",
+            "rus": "дышать"
+        },
+        {
+            "eng": "bring",
+            "rus": "приносить"
+        },
+        {
+            "eng": "brush",
+            "rus": "щетка"
+        },
+        {
+            "eng": "build",
+            "rus": "строить"
+        },
+        {
+            "eng": "bump",
+            "rus": "удар"
+        },
+        {
+            "eng": "burn",
+            "rus": "жечь"
+        },
+        {
+            "eng": "burst",
+            "rus": "взрыв"
+        },
+        {
+            "eng": "bury",
+            "rus": "закапывать"
+        },
+        {
+            "eng": "buy",
+            "rus": "купить"
+        },
+        {
+            "eng": "calculate",
+            "rus": "подсчитывать"
+        },
+        {
+            "eng": "call",
+            "rus": "вызов"
+        },
+        {
+            "eng": "cancel",
+            "rus": "Отмена"
+        },
+        {
+            "eng": "capture",
+            "rus": "захватить"
+        },
+        {
+            "eng": "care",
+            "rus": "забота"
+        },
+        {
+            "eng": "carry",
+            "rus": "нести"
+        },
+        {
+            "eng": "cash",
+            "rus": "денежные средства"
+        },
+        {
+            "eng": "cast",
+            "rus": "бросать"
+        },
+        {
+            "eng": "catch",
+            "rus": "поймать"
+        },
+        {
+            "eng": "cause",
+            "rus": "причина"
+        },
+        {
+            "eng": "cease",
+            "rus": "прекращение"
+        },
+        {
+            "eng": "celebrate",
+            "rus": "праздновать"
+        },
+        {
+            "eng": "challenge",
+            "rus": "вызов"
+        },
+        {
+            "eng": "change",
+            "rus": "изменение"
+        },
+        {
+            "eng": "characterize",
+            "rus": "охарактеризовать"
+        },
+        {
+            "eng": "charge",
+            "rus": "заряд"
+        },
+        {
+            "eng": "chase",
+            "rus": "гнаться"
+        },
+        {
+            "eng": "cheat",
+            "rus": "мошенничать"
+        },
+        {
+            "eng": "check",
+            "rus": "проверить"
+        },
+        {
+            "eng": "choose",
+            "rus": "выберите"
+        },
+        {
+            "eng": "chop",
+            "rus": "нарубить"
+        },
+        {
+            "eng": "chuck",
+            "rus": "зажимной патрон"
+        },
+        {
+            "eng": "claim",
+            "rus": "Запрос"
+        },
+        {
+            "eng": "clean",
+            "rus": "чистый"
+        },
+        {
+            "eng": "clear",
+            "rus": "Чисто"
+        },
+        {
+            "eng": "click",
+            "rus": "щелчок"
+        },
+        {
+            "eng": "climb",
+            "rus": "восхождение"
+        },
+        {
+            "eng": "close",
+            "rus": "Закрыть"
+        },
+        {
+            "eng": "collapse",
+            "rus": "коллапс"
+        },
+        {
+            "eng": "collect",
+            "rus": "собирать"
+        },
+        {
+            "eng": "combine",
+            "rus": "скомбинировать"
+        },
+        {
+            "eng": "come",
+            "rus": "приехать"
+        },
+        {
+            "eng": "comment",
+            "rus": "комментарий"
+        },
+        {
+            "eng": "commit",
+            "rus": "совершить"
+        },
+        {
+            "eng": "communicate",
+            "rus": "общаться"
+        },
+        {
+            "eng": "compare",
+            "rus": "сравнить"
+        },
+        {
+            "eng": "compete",
+            "rus": "конкурировать"
+        },
+        {
+            "eng": "complain",
+            "rus": "жаловаться"
+        },
+        {
+            "eng": "complete",
+            "rus": "полный"
+        },
+        {
+            "eng": "comprise",
+            "rus": "включать"
+        },
+        {
+            "eng": "concentrate",
+            "rus": "концентрат"
+        },
+        {
+            "eng": "concern",
+            "rus": "беспокойство"
+        },
+        {
+            "eng": "conclude",
+            "rus": "заключать"
+        },
+        {
+            "eng": "conduct",
+            "rus": "поведение"
+        },
+        {
+            "eng": "confine",
+            "rus": "ограничивать"
+        },
+        {
+            "eng": "confirm",
+            "rus": "подтвердить"
+        },
+        {
+            "eng": "connect",
+            "rus": "соединять"
+        },
+        {
+            "eng": "consider",
+            "rus": "рассматривать"
+        },
+        {
+            "eng": "consist",
+            "rus": "состоять"
+        },
+        {
+            "eng": "constitute",
+            "rus": "составлять"
+        },
+        {
+            "eng": "construct",
+            "rus": "сооружать"
+        },
+        {
+            "eng": "consult",
+            "rus": "советоваться"
+        },
+        {
+            "eng": "contact",
+            "rus": "контакт"
+        },
+        {
+            "eng": "contain",
+            "rus": "содержать"
+        },
+        {
+            "eng": "continue",
+            "rus": "Продолжать"
+        },
+        {
+            "eng": "contribute",
+            "rus": "делать вклад"
+        },
+        {
+            "eng": "control",
+            "rus": "контроль"
+        },
+        {
+            "eng": "convert",
+            "rus": "конвертировать"
+        },
+        {
+            "eng": "convince",
+            "rus": "убеждать"
+        },
+        {
+            "eng": "cook",
+            "rus": "готовить"
+        },
+        {
+            "eng": "cool",
+            "rus": "круто"
+        },
+        {
+            "eng": "cope",
+            "rus": "справиться"
+        },
+        {
+            "eng": "copy",
+            "rus": "копия"
+        },
+        {
+            "eng": "correct",
+            "rus": "верный"
+        },
+        {
+            "eng": "cost",
+            "rus": "Стоимость"
+        },
+        {
+            "eng": "count",
+            "rus": "подсчитывать"
+        },
+        {
+            "eng": "cover",
+            "rus": "обложка"
+        },
+        {
+            "eng": "crack",
+            "rus": "трещина"
+        },
+        {
+            "eng": "create",
+            "rus": "Создайте"
+        },
+        {
+            "eng": "criticize",
+            "rus": "критиковать"
+        },
+        {
+            "eng": "cross",
+            "rus": "пересекать"
+        },
+        {
+            "eng": "cry",
+            "rus": "плакать"
+        },
+        {
+            "eng": "cut",
+            "rus": "порез"
+        },
+        {
+            "eng": "damage",
+            "rus": "наносить ущерб"
+        },
+        {
+            "eng": "dance",
+            "rus": "танец"
+        },
+        {
+            "eng": "dare",
+            "rus": "сметь"
+        },
+        {
+            "eng": "date",
+            "rus": "Дата"
+        },
+        {
+            "eng": "deal",
+            "rus": "по рукам"
+        },
+        {
+            "eng": "decide",
+            "rus": "принимать решение"
+        },
+        {
+            "eng": "declare",
+            "rus": "объявлять"
+        },
+        {
+            "eng": "decline",
+            "rus": "снижение"
+        },
+        {
+            "eng": "defeat",
+            "rus": "поражение"
+        },
+        {
+            "eng": "defend",
+            "rus": "защищать"
+        },
+        {
+            "eng": "define",
+            "rus": "определять"
+        },
+        {
+            "eng": "delay",
+            "rus": "задержка"
+        },
+        {
+            "eng": "deliver",
+            "rus": "доставить"
+        },
+        {
+            "eng": "demand",
+            "rus": "спрос"
+        },
+        {
+            "eng": "demonstrate",
+            "rus": "демонстрировать"
+        },
+        {
+            "eng": "deny",
+            "rus": "Отрицать"
+        },
+        {
+            "eng": "depend",
+            "rus": "зависеть"
+        },
+        {
+            "eng": "derive",
+            "rus": "выводить"
+        },
+        {
+            "eng": "describe",
+            "rus": "описывать"
+        },
+        {
+            "eng": "deserve",
+            "rus": "заслуживать"
+        },
+        {
+            "eng": "design",
+            "rus": "дизайн"
+        },
+        {
+            "eng": "destroy",
+            "rus": "уничтожить"
+        },
+        {
+            "eng": "detect",
+            "rus": "обнаружить"
+        },
+        {
+            "eng": "determine",
+            "rus": "определить"
+        },
+        {
+            "eng": "develop",
+            "rus": "развивать"
+        },
+        {
+            "eng": "die",
+            "rus": "умереть"
+        },
+        {
+            "eng": "differ",
+            "rus": "отличаться"
+        },
+        {
+            "eng": "dig",
+            "rus": "копать"
+        },
+        {
+            "eng": "direct",
+            "rus": "непосредственный"
+        },
+        {
+            "eng": "disagree",
+            "rus": "не соглашаться"
+        },
+        {
+            "eng": "disappear",
+            "rus": "исчезать"
+        },
+        {
+            "eng": "disappoint",
+            "rus": "разочаровывать"
+        },
+        {
+            "eng": "discover",
+            "rus": "обнаружить"
+        },
+        {
+            "eng": "discuss",
+            "rus": "обсуждать"
+        },
+        {
+            "eng": "dismiss",
+            "rus": "отклонять"
+        },
+        {
+            "eng": "display",
+            "rus": "дисплей"
+        },
+        {
+            "eng": "distinguish",
+            "rus": "выделить"
+        },
+        {
+            "eng": "distribute",
+            "rus": "распространять"
+        },
+        {
+            "eng": "disturb",
+            "rus": "беспокоить"
+        },
+        {
+            "eng": "divide",
+            "rus": "делить"
+        },
+        {
+            "eng": "do",
+            "rus": "делать"
+        },
+        {
+            "eng": "dominate",
+            "rus": "доминировать"
+        },
+        {
+            "eng": "double",
+            "rus": "двойной"
+        },
+        {
+            "eng": "doubt",
+            "rus": "сомнение"
+        },
+        {
+            "eng": "drag",
+            "rus": "бремя"
+        },
+        {
+            "eng": "draw",
+            "rus": "привлечь"
+        },
+        {
+            "eng": "dream",
+            "rus": "мечта"
+        },
+        {
+            "eng": "dress",
+            "rus": "платье"
+        },
+        {
+            "eng": "drink",
+            "rus": "напиток"
+        },
+        {
+            "eng": "drive",
+            "rus": "водить машину"
+        },
+        {
+            "eng": "drop",
+            "rus": "падение"
+        },
+        {
+            "eng": "dry",
+            "rus": "сухой"
+        },
+        {
+            "eng": "dump",
+            "rus": "свалка"
+        },
+        {
+            "eng": "earn",
+            "rus": "зарабатывать"
+        },
+        {
+            "eng": "ease",
+            "rus": "легкость"
+        },
+        {
+            "eng": "eat",
+            "rus": "есть"
+        },
+        {
+            "eng": "elect",
+            "rus": "избранные"
+        },
+        {
+            "eng": "email",
+            "rus": "Эл. адрес"
+        },
+        {
+            "eng": "emerge",
+            "rus": "всплывать"
+        },
+        {
+            "eng": "emphasize",
+            "rus": "подчеркивать"
+        },
+        {
+            "eng": "employ",
+            "rus": "использовать"
+        },
+        {
+            "eng": "enable",
+            "rus": "включить"
+        },
+        {
+            "eng": "encounter",
+            "rus": "столкновение"
+        },
+        {
+            "eng": "encourage",
+            "rus": "поощрять"
+        },
+        {
+            "eng": "end",
+            "rus": "конец"
+        },
+        {
+            "eng": "engage",
+            "rus": "заниматься"
+        },
+        {
+            "eng": "enhance",
+            "rus": "усилить"
+        },
+        {
+            "eng": "enjoy",
+            "rus": "наслаждаться"
+        },
+        {
+            "eng": "ensure",
+            "rus": "обеспечивать"
+        },
+        {
+            "eng": "enter",
+            "rus": "войти"
+        },
+        {
+            "eng": "entitle",
+            "rus": "давать право"
+        },
+        {
+            "eng": "equal",
+            "rus": "равный"
+        },
+        {
+            "eng": "escape",
+            "rus": "побег"
+        },
+        {
+            "eng": "establish",
+            "rus": "установить"
+        },
+        {
+            "eng": "estimate",
+            "rus": "оценить"
+        },
+        {
+            "eng": "examine",
+            "rus": "исследовать"
+        },
+        {
+            "eng": "exclude",
+            "rus": "исключать"
+        },
+        {
+            "eng": "excuse",
+            "rus": "оправдание"
+        },
+        {
+            "eng": "exercise",
+            "rus": "упражнение"
+        },
+        {
+            "eng": "exist",
+            "rus": "существовать"
+        },
+        {
+            "eng": "expand",
+            "rus": "расширять"
+        },
+        {
+            "eng": "expect",
+            "rus": "ожидать"
+        },
+        {
+            "eng": "experience",
+            "rus": "опыт"
+        },
+        {
+            "eng": "explain",
+            "rus": "объяснять"
+        },
+        {
+            "eng": "explore",
+            "rus": "исследовать"
+        },
+        {
+            "eng": "expose",
+            "rus": "разоблачать"
+        },
+        {
+            "eng": "express",
+            "rus": "экспресс"
+        },
+        {
+            "eng": "extend",
+            "rus": "простираться"
+        },
+        {
+            "eng": "face",
+            "rus": "лицо"
+        },
+        {
+            "eng": "fail",
+            "rus": "потерпеть неудачу"
+        },
+        {
+            "eng": "fall",
+            "rus": "падать"
+        },
+        {
+            "eng": "fancy",
+            "rus": "маскарадный"
+        },
+        {
+            "eng": "favour",
+            "rus": "благоприятствовать"
+        },
+        {
+            "eng": "fear",
+            "rus": "страх"
+        },
+        {
+            "eng": "feature",
+            "rus": "особенность"
+        },
+        {
+            "eng": "feed",
+            "rus": "корм"
+        },
+        {
+            "eng": "feel",
+            "rus": "Чувствовать"
+        },
+        {
+            "eng": "fetch",
+            "rus": "получать"
+        },
+        {
+            "eng": "fight",
+            "rus": "борьба"
+        },
+        {
+            "eng": "figure",
+            "rus": "фигура"
+        },
+        {
+            "eng": "file",
+            "rus": "файл"
+        },
+        {
+            "eng": "fill",
+            "rus": "заполнить"
+        },
+        {
+            "eng": "finance",
+            "rus": "финансы"
+        },
+        {
+            "eng": "find",
+            "rus": "найти"
+        },
+        {
+            "eng": "finish",
+            "rus": "Конец"
+        },
+        {
+            "eng": "fire",
+            "rus": "Огонь"
+        },
+        {
+            "eng": "fish",
+            "rus": "рыба"
+        },
+        {
+            "eng": "fit",
+            "rus": "поместиться"
+        },
+        {
+            "eng": "fix",
+            "rus": "фиксировать"
+        },
+        {
+            "eng": "flash",
+            "rus": "вспышка"
+        },
+        {
+            "eng": "flood",
+            "rus": "наводнение"
+        },
+        {
+            "eng": "flow",
+            "rus": "течь"
+        },
+        {
+            "eng": "fly",
+            "rus": "летать"
+        },
+        {
+            "eng": "focus",
+            "rus": "фокус"
+        },
+        {
+            "eng": "fold",
+            "rus": "складка"
+        },
+        {
+            "eng": "follow",
+            "rus": "следовать"
+        },
+        {
+            "eng": "force",
+            "rus": "сила"
+        },
+        {
+            "eng": "forget",
+            "rus": "забывать"
+        },
+        {
+            "eng": "forgive",
+            "rus": "прощать"
+        },
+        {
+            "eng": "form",
+            "rus": "форма"
+        },
+        {
+            "eng": "free",
+            "rus": "свободно"
+        },
+        {
+            "eng": "freeze",
+            "rus": "замерзать"
+        },
+        {
+            "eng": "fry",
+            "rus": "жарить"
+        },
+        {
+            "eng": "fulfil",
+            "rus": "выполнять"
+        },
+        {
+            "eng": "fund",
+            "rus": "фонд"
+        },
+        {
+            "eng": "gain",
+            "rus": "усиление"
+        },
+        {
+            "eng": "gather",
+            "rus": "собирать"
+        },
+        {
+            "eng": "generate",
+            "rus": "генерировать"
+        },
+        {
+            "eng": "get",
+            "rus": "получить"
+        },
+        {
+            "eng": "give",
+            "rus": "дайте"
+        },
+        {
+            "eng": "go",
+            "rus": "идти"
+        },
+        {
+            "eng": "govern",
+            "rus": "править"
+        },
+        {
+            "eng": "grab",
+            "rus": "грейфер"
+        },
+        {
+            "eng": "grant",
+            "rus": "даровать"
+        },
+        {
+            "eng": "grow",
+            "rus": "расти"
+        },
+        {
+            "eng": "guarantee",
+            "rus": "гарантия"
+        },
+        {
+            "eng": "guess",
+            "rus": "Угадай"
+        },
+        {
+            "eng": "guide",
+            "rus": "руководство"
+        },
+        {
+            "eng": "hand",
+            "rus": "рука"
+        },
+        {
+            "eng": "handle",
+            "rus": "ручка"
+        },
+        {
+            "eng": "hang",
+            "rus": "вешать"
+        },
+        {
+            "eng": "happen",
+            "rus": "случаться"
+        },
+        {
+            "eng": "hate",
+            "rus": "ненавидеть"
+        },
+        {
+            "eng": "have",
+            "rus": "иметь"
+        },
+        {
+            "eng": "head",
+            "rus": "глава"
+        },
+        {
+            "eng": "hear",
+            "rus": "заслушивать"
+        },
+        {
+            "eng": "heat",
+            "rus": "высокая температура"
+        },
+        {
+            "eng": "help",
+            "rus": "Помогите"
+        },
+        {
+            "eng": "hesitate",
+            "rus": "колебаться"
+        },
+        {
+            "eng": "hide",
+            "rus": "скрывать"
+        },
+        {
+            "eng": "highlight",
+            "rus": "основной момент"
+        },
+        {
+            "eng": "hire",
+            "rus": "Наем"
+        },
+        {
+            "eng": "hit",
+            "rus": "удар"
+        },
+        {
+            "eng": "hold",
+            "rus": "держать"
+        },
+        {
+            "eng": "hook",
+            "rus": "крюк"
+        },
+        {
+            "eng": "hope",
+            "rus": "надежда"
+        },
+        {
+            "eng": "hunt",
+            "rus": "охота"
+        },
+        {
+            "eng": "hurry",
+            "rus": "торопиться"
+        },
+        {
+            "eng": "hurt",
+            "rus": "причинить боль"
+        },
+        {
+            "eng": "identify",
+            "rus": "идентифицировать"
+        },
+        {
+            "eng": "ignore",
+            "rus": "игнорировать"
+        },
+        {
+            "eng": "illustrate",
+            "rus": "иллюстрировать"
+        },
+        {
+            "eng": "imagine",
+            "rus": "представить"
+        },
+        {
+            "eng": "implement",
+            "rus": "воплощать в жизнь"
+        },
+        {
+            "eng": "imply",
+            "rus": "подразумевать"
+        },
+        {
+            "eng": "impose",
+            "rus": "облагать"
+        },
+        {
+            "eng": "impress",
+            "rus": "впечатление"
+        },
+        {
+            "eng": "improve",
+            "rus": "улучшать"
+        },
+        {
+            "eng": "include",
+            "rus": "включают"
+        },
+        {
+            "eng": "incorporate",
+            "rus": "инкорпорировать"
+        },
+        {
+            "eng": "increase",
+            "rus": "увеличение"
+        },
+        {
+            "eng": "indicate",
+            "rus": "указывать"
+        },
+        {
+            "eng": "influence",
+            "rus": "влияние"
+        },
+        {
+            "eng": "inform",
+            "rus": "поставить в известность"
+        },
+        {
+            "eng": "injure",
+            "rus": "ранить"
+        },
+        {
+            "eng": "insist",
+            "rus": "настоять"
+        },
+        {
+            "eng": "install",
+            "rus": "устанавливать"
+        },
+        {
+            "eng": "intend",
+            "rus": "намереваться"
+        },
+        {
+            "eng": "interpret",
+            "rus": "интерпретировать"
+        },
+        {
+            "eng": "interview",
+            "rus": "интервью"
+        },
+        {
+            "eng": "introduce",
+            "rus": "вводить"
+        },
+        {
+            "eng": "invest",
+            "rus": "вкладывать деньги"
+        },
+        {
+            "eng": "investigate",
+            "rus": "исследовать"
+        },
+        {
+            "eng": "invite",
+            "rus": "приглашать"
+        },
+        {
+            "eng": "involve",
+            "rus": "включать"
+        },
+        {
+            "eng": "iron",
+            "rus": "железо"
+        },
+        {
+            "eng": "issue",
+            "rus": "вопрос"
+        },
+        {
+            "eng": "join",
+            "rus": "присоединиться"
+        },
+        {
+            "eng": "joke",
+            "rus": "шутка"
+        },
+        {
+            "eng": "judge",
+            "rus": "судья"
+        },
+        {
+            "eng": "jump",
+            "rus": "Прыгать"
+        },
+        {
+            "eng": "justify",
+            "rus": "обосновывать"
+        },
+        {
+            "eng": "keep",
+            "rus": "держать"
+        },
+        {
+            "eng": "kick",
+            "rus": "удар"
+        },
+        {
+            "eng": "kid",
+            "rus": "дитя"
+        },
+        {
+            "eng": "kill",
+            "rus": "убийство"
+        },
+        {
+            "eng": "kiss",
+            "rus": "поцелуй"
+        },
+        {
+            "eng": "knock",
+            "rus": "постучать"
+        },
+        {
+            "eng": "know",
+            "rus": "знать"
+        },
+        {
+            "eng": "lack",
+            "rus": "отсутствие"
+        },
+        {
+            "eng": "land",
+            "rus": "земельные участки"
+        },
+        {
+            "eng": "last",
+            "rus": "последний"
+        },
+        {
+            "eng": "laugh",
+            "rus": "смех"
+        },
+        {
+            "eng": "launch",
+            "rus": "запуск"
+        },
+        {
+            "eng": "lay",
+            "rus": "прокладывать"
+        },
+        {
+            "eng": "lead",
+            "rus": "вести"
+        },
+        {
+            "eng": "lean",
+            "rus": "опираться"
+        },
+        {
+            "eng": "learn",
+            "rus": "учить"
+        },
+        {
+            "eng": "leave",
+            "rus": "оставлять"
+        },
+        {
+            "eng": "lend",
+            "rus": "давать в долг"
+        },
+        {
+            "eng": "let",
+            "rus": "позволять"
+        },
+        {
+            "eng": "lick",
+            "rus": "облизывание"
+        },
+        {
+            "eng": "lie",
+            "rus": "ложь"
+        },
+        {
+            "eng": "lift",
+            "rus": "лифт"
+        },
+        {
+            "eng": "light",
+            "rus": "легкий"
+        },
+        {
+            "eng": "like",
+            "rus": "как"
+        },
+        {
+            "eng": "limit",
+            "rus": "предел"
+        },
+        {
+            "eng": "link",
+            "rus": "ссылка"
+        },
+        {
+            "eng": "list",
+            "rus": "список"
+        },
+        {
+            "eng": "listen",
+            "rus": "Слушать"
+        },
+        {
+            "eng": "live",
+            "rus": "жить"
+        },
+        {
+            "eng": "locate",
+            "rus": "разместить"
+        },
+        {
+            "eng": "lock",
+            "rus": "замок"
+        },
+        {
+            "eng": "look",
+            "rus": "смотреть"
+        },
+        {
+            "eng": "lose",
+            "rus": "потерять"
+        },
+        {
+            "eng": "love",
+            "rus": "люблю"
+        },
+        {
+            "eng": "lower",
+            "rus": "ниже"
+        },
+        {
+            "eng": "mail",
+            "rus": "почта"
+        },
+        {
+            "eng": "maintain",
+            "rus": "поддерживать"
+        },
+        {
+            "eng": "make",
+            "rus": "делать"
+        },
+        {
+            "eng": "manage",
+            "rus": "управлять"
+        },
+        {
+            "eng": "march",
+            "rus": "Март"
+        },
+        {
+            "eng": "mark",
+            "rus": "отметка"
+        },
+        {
+            "eng": "marry",
+            "rus": "выйти замуж"
+        },
+        {
+            "eng": "match",
+            "rus": "совпадение"
+        },
+        {
+            "eng": "matter",
+            "rus": "дело"
+        },
+        {
+            "eng": "mean",
+            "rus": "имею в виду"
+        },
+        {
+            "eng": "measure",
+            "rus": "измерение"
+        },
+        {
+            "eng": "meet",
+            "rus": "встретить"
+        },
+        {
+            "eng": "mention",
+            "rus": "упомянуть"
+        },
+        {
+            "eng": "mess",
+            "rus": "беспорядок"
+        },
+        {
+            "eng": "mind",
+            "rus": "разум"
+        },
+        {
+            "eng": "miss",
+            "rus": "Мисс"
+        },
+        {
+            "eng": "mix",
+            "rus": "смешивание"
+        },
+        {
+            "eng": "monitor",
+            "rus": "монитор"
+        },
+        {
+            "eng": "move",
+            "rus": "переехать"
+        },
+        {
+            "eng": "name",
+            "rus": "имя"
+        },
+        {
+            "eng": "need",
+            "rus": "необходимость"
+        },
+        {
+            "eng": "negotiate",
+            "rus": "вести переговоры"
+        },
+        {
+            "eng": "net",
+            "rus": "сеть"
+        },
+        {
+            "eng": "nod",
+            "rus": "кивать головой"
+        },
+        {
+            "eng": "note",
+            "rus": "заметка"
+        },
+        {
+            "eng": "notice",
+            "rus": "уведомление"
+        },
+        {
+            "eng": "object",
+            "rus": "объект"
+        },
+        {
+            "eng": "observe",
+            "rus": "наблюдать"
+        },
+        {
+            "eng": "obtain",
+            "rus": "получать"
+        },
+        {
+            "eng": "occupy",
+            "rus": "оккупировать"
+        },
+        {
+            "eng": "occur",
+            "rus": "происходить"
+        },
+        {
+            "eng": "offer",
+            "rus": "предлагает"
+        },
+        {
+            "eng": "open",
+            "rus": "открытый"
+        },
+        {
+            "eng": "operate",
+            "rus": "работать"
+        },
+        {
+            "eng": "oppose",
+            "rus": "оппонировать"
+        },
+        {
+            "eng": "order",
+            "rus": "заказ"
+        },
+        {
+            "eng": "organize",
+            "rus": "организовать"
+        },
+        {
+            "eng": "overcome",
+            "rus": "преодолеть"
+        },
+        {
+            "eng": "owe",
+            "rus": "задолжать"
+        },
+        {
+            "eng": "own",
+            "rus": "своя"
+        },
+        {
+            "eng": "pack",
+            "rus": "пак"
+        },
+        {
+            "eng": "paint",
+            "rus": "покрасить"
+        },
+        {
+            "eng": "park",
+            "rus": "парк"
+        },
+        {
+            "eng": "participate",
+            "rus": "принимать участие"
+        },
+        {
+            "eng": "pass",
+            "rus": "проходить"
+        },
+        {
+            "eng": "pause",
+            "rus": "Пауза"
+        },
+        {
+            "eng": "pay",
+            "rus": "платить"
+        },
+        {
+            "eng": "perceive",
+            "rus": "воспринимать"
+        },
+        {
+            "eng": "perform",
+            "rus": "выполнять"
+        },
+        {
+            "eng": "permit",
+            "rus": "разрешать"
+        },
+        {
+            "eng": "persuade",
+            "rus": "уговаривать"
+        },
+        {
+            "eng": "phone",
+            "rus": "Телефон"
+        },
+        {
+            "eng": "photocopy",
+            "rus": "фотокопия"
+        },
+        {
+            "eng": "pick",
+            "rus": "выбирать"
+        },
+        {
+            "eng": "place",
+            "rus": "место"
+        },
+        {
+            "eng": "plan",
+            "rus": "план"
+        },
+        {
+            "eng": "play",
+            "rus": "играть"
+        },
+        {
+            "eng": "please",
+            "rus": "пожалуйста"
+        },
+        {
+            "eng": "point",
+            "rus": "точка"
+        },
+        {
+            "eng": "pop",
+            "rus": "поп"
+        },
+        {
+            "eng": "pose",
+            "rus": "поза"
+        },
+        {
+            "eng": "possess",
+            "rus": "обладать"
+        },
+        {
+            "eng": "post",
+            "rus": "после"
+        },
+        {
+            "eng": "pour",
+            "rus": "наливать"
+        },
+        {
+            "eng": "practise",
+            "rus": "практика"
+        },
+        {
+            "eng": "pray",
+            "rus": "молиться"
+        },
+        {
+            "eng": "predict",
+            "rus": "прогнозировать"
+        },
+        {
+            "eng": "prefer",
+            "rus": "предпочитать"
+        },
+        {
+            "eng": "prepare",
+            "rus": "подготовить"
+        },
+        {
+            "eng": "present",
+            "rus": "настоящее время"
+        },
+        {
+            "eng": "preserve",
+            "rus": "сохранять"
+        },
+        {
+            "eng": "press",
+            "rus": "Нажмите"
+        },
+        {
+            "eng": "presume",
+            "rus": "предполагать"
+        },
+        {
+            "eng": "pretend",
+            "rus": "делать вид"
+        },
+        {
+            "eng": "prevent",
+            "rus": "не допустить"
+        },
+        {
+            "eng": "print",
+            "rus": "Распечатать"
+        },
+        {
+            "eng": "proceed",
+            "rus": "продолжить"
+        },
+        {
+            "eng": "produce",
+            "rus": "производить"
+        },
+        {
+            "eng": "promise",
+            "rus": "обещание"
+        },
+        {
+            "eng": "promote",
+            "rus": "содействовать"
+        },
+        {
+            "eng": "propose",
+            "rus": "предложить"
+        },
+        {
+            "eng": "protect",
+            "rus": "защищать"
+        },
+        {
+            "eng": "prove",
+            "rus": "доказывать"
+        },
+        {
+            "eng": "provide",
+            "rus": "предоставлять"
+        },
+        {
+            "eng": "publish",
+            "rus": "публиковать"
+        },
+        {
+            "eng": "pull",
+            "rus": "вытащить"
+        },
+        {
+            "eng": "punch",
+            "rus": "перфоратор"
+        },
+        {
+            "eng": "purchase",
+            "rus": "покупка"
+        },
+        {
+            "eng": "pursue",
+            "rus": "преследовать"
+        },
+        {
+            "eng": "push",
+            "rus": "От себя"
+        },
+        {
+            "eng": "put",
+            "rus": "положить"
+        },
+        {
+            "eng": "qualify",
+            "rus": "квалифицировать"
+        },
+        {
+            "eng": "question",
+            "rus": "вопрос"
+        },
+        {
+            "eng": "quit",
+            "rus": "уволиться"
+        },
+        {
+            "eng": "quote",
+            "rus": "котировка"
+        },
+        {
+            "eng": "rain",
+            "rus": "дождь"
+        },
+        {
+            "eng": "raise",
+            "rus": "повышение"
+        },
+        {
+            "eng": "range",
+            "rus": "ассортимент"
+        },
+        {
+            "eng": "reach",
+            "rus": "достичь"
+        },
+        {
+            "eng": "react",
+            "rus": "реагировать"
+        },
+        {
+            "eng": "read",
+            "rus": "читать"
+        },
+        {
+            "eng": "realize",
+            "rus": "понимать"
+        },
+        {
+            "eng": "recall",
+            "rus": "отзыв"
+        },
+        {
+            "eng": "receive",
+            "rus": "Получать"
+        },
+        {
+            "eng": "reckon",
+            "rus": "рассчитывать"
+        },
+        {
+            "eng": "recognize",
+            "rus": "признать"
+        },
+        {
+            "eng": "recommend",
+            "rus": "рекомендовать"
+        },
+        {
+            "eng": "record",
+            "rus": "запись"
+        },
+        {
+            "eng": "recover",
+            "rus": "оправляться"
+        },
+        {
+            "eng": "reduce",
+            "rus": "уменьшить"
+        },
+        {
+            "eng": "refer",
+            "rus": "обращаться"
+        },
+        {
+            "eng": "reflect",
+            "rus": "отражать"
+        },
+        {
+            "eng": "refuse",
+            "rus": "отказаться"
+        },
+        {
+            "eng": "regard",
+            "rus": "что касается"
+        },
+        {
+            "eng": "register",
+            "rus": "регистр"
+        },
+        {
+            "eng": "regret",
+            "rus": "сожаление"
+        },
+        {
+            "eng": "reinforce",
+            "rus": "усиливать"
+        },
+        {
+            "eng": "reject",
+            "rus": "отклонять"
+        },
+        {
+            "eng": "relate",
+            "rus": "иметь отношение"
+        },
+        {
+            "eng": "relax",
+            "rus": "расслабиться"
+        },
+        {
+            "eng": "release",
+            "rus": "выпуск"
+        },
+        {
+            "eng": "relieve",
+            "rus": "освобождать"
+        },
+        {
+            "eng": "rely",
+            "rus": "полагаться"
+        },
+        {
+            "eng": "remain",
+            "rus": "оставаться"
+        },
+        {
+            "eng": "remember",
+            "rus": "запомнить"
+        },
+        {
+            "eng": "remind",
+            "rus": "напоминать"
+        },
+        {
+            "eng": "remove",
+            "rus": "Удалить"
+        },
+        {
+            "eng": "rent",
+            "rus": "аренда"
+        },
+        {
+            "eng": "repair",
+            "rus": "ремонт"
+        },
+        {
+            "eng": "repeat",
+            "rus": "повторение"
+        },
+        {
+            "eng": "replace",
+            "rus": "замещать"
+        },
+        {
+            "eng": "reply",
+            "rus": "Ответить"
+        },
+        {
+            "eng": "report",
+            "rus": "доклад"
+        },
+        {
+            "eng": "represent",
+            "rus": "представлять"
+        },
+        {
+            "eng": "require",
+            "rus": "требовать"
+        },
+        {
+            "eng": "rescue",
+            "rus": "спасение"
+        },
+        {
+            "eng": "reserve",
+            "rus": "резерв"
+        },
+        {
+            "eng": "resign",
+            "rus": "в отставку"
+        },
+        {
+            "eng": "resist",
+            "rus": "оказывать сопротивление"
+        },
+        {
+            "eng": "resolve",
+            "rus": "разрешить"
+        },
+        {
+            "eng": "respond",
+            "rus": "отвечать"
+        },
+        {
+            "eng": "rest",
+            "rus": "отдых"
+        },
+        {
+            "eng": "restore",
+            "rus": "восстановить"
+        },
+        {
+            "eng": "restrict",
+            "rus": "ограничивать"
+        },
+        {
+            "eng": "result",
+            "rus": "результат"
+        },
+        {
+            "eng": "retain",
+            "rus": "сохранить"
+        },
+        {
+            "eng": "retire",
+            "rus": "выходить на пенсию"
+        },
+        {
+            "eng": "return",
+            "rus": "вернуть"
+        },
+        {
+            "eng": "reveal",
+            "rus": "выявить"
+        },
+        {
+            "eng": "reverse",
+            "rus": "задний ход"
+        },
+        {
+            "eng": "review",
+            "rus": "обзор"
+        },
+        {
+            "eng": "ride",
+            "rus": "поездка"
+        },
+        {
+            "eng": "ring",
+            "rus": "кольцо"
+        },
+        {
+            "eng": "rip",
+            "rus": "Покойся с миром"
+        },
+        {
+            "eng": "rise",
+            "rus": "подъем"
+        },
+        {
+            "eng": "rob",
+            "rus": "грабить"
+        },
+        {
+            "eng": "roll",
+            "rus": "рулон"
+        },
+        {
+            "eng": "rub",
+            "rus": "натирать"
+        },
+        {
+            "eng": "ruin",
+            "rus": "разорение"
+        },
+        {
+            "eng": "rule",
+            "rus": "правило"
+        },
+        {
+            "eng": "run",
+            "rus": "бег"
+        },
+        {
+            "eng": "rush",
+            "rus": "порыв"
+        },
+        {
+            "eng": "sail",
+            "rus": "паруса"
+        },
+        {
+            "eng": "satisfy",
+            "rus": "удовлетворять"
+        },
+        {
+            "eng": "save",
+            "rus": "спасти"
+        },
+        {
+            "eng": "say",
+            "rus": "сказать"
+        },
+        {
+            "eng": "schedule",
+            "rus": "график"
+        },
+        {
+            "eng": "score",
+            "rus": "Гол"
+        },
+        {
+            "eng": "scratch",
+            "rus": "царапина"
+        },
+        {
+            "eng": "scream",
+            "rus": "орать"
+        },
+        {
+            "eng": "search",
+            "rus": "поиск"
+        },
+        {
+            "eng": "secure",
+            "rus": "безопасный"
+        },
+        {
+            "eng": "see",
+            "rus": "видеть"
+        },
+        {
+            "eng": "seek",
+            "rus": "искать"
+        },
+        {
+            "eng": "seem",
+            "rus": "казаться"
+        },
+        {
+            "eng": "seize",
+            "rus": "воспользоваться"
+        },
+        {
+            "eng": "select",
+            "rus": "Выбрать"
+        },
+        {
+            "eng": "sell",
+            "rus": "продавать"
+        },
+        {
+            "eng": "send",
+            "rus": "Отправить"
+        },
+        {
+            "eng": "separate",
+            "rus": "отдельный"
+        },
+        {
+            "eng": "serve",
+            "rus": "обслуживать"
+        },
+        {
+            "eng": "set",
+            "rus": "задавать"
+        },
+        {
+            "eng": "settle",
+            "rus": "селиться"
+        },
+        {
+            "eng": "sew",
+            "rus": "шить"
+        },
+        {
+            "eng": "shake",
+            "rus": "встряхивать"
+        },
+        {
+            "eng": "share",
+            "rus": "доля"
+        },
+        {
+            "eng": "shave",
+            "rus": "брить"
+        },
+        {
+            "eng": "shift",
+            "rus": "сдвиг"
+        },
+        {
+            "eng": "shine",
+            "rus": "блеск"
+        },
+        {
+            "eng": "shoot",
+            "rus": "стрелять"
+        },
+        {
+            "eng": "shout",
+            "rus": "окрик"
+        },
+        {
+            "eng": "shove",
+            "rus": "совать"
+        },
+        {
+            "eng": "show",
+            "rus": "показать"
+        },
+        {
+            "eng": "shrug",
+            "rus": "пожимание плечами"
+        },
+        {
+            "eng": "shut",
+            "rus": "закрыть"
+        },
+        {
+            "eng": "sign",
+            "rus": "знак"
+        },
+        {
+            "eng": "sing",
+            "rus": "петь"
+        },
+        {
+            "eng": "sink",
+            "rus": "раковина"
+        },
+        {
+            "eng": "sit",
+            "rus": "сидеть"
+        },
+        {
+            "eng": "sleep",
+            "rus": "спать"
+        },
+        {
+            "eng": "slide",
+            "rus": "горка"
+        },
+        {
+            "eng": "slip",
+            "rus": "слип"
+        },
+        {
+            "eng": "slow",
+            "rus": "медленный"
+        },
+        {
+            "eng": "smell",
+            "rus": "запах"
+        },
+        {
+            "eng": "smile",
+            "rus": "улыбка"
+        },
+        {
+            "eng": "smoke",
+            "rus": "дым"
+        },
+        {
+            "eng": "snap",
+            "rus": "щелчок"
+        },
+        {
+            "eng": "solve",
+            "rus": "решать"
+        },
+        {
+            "eng": "sort",
+            "rus": "Сортировать"
+        },
+        {
+            "eng": "sound",
+            "rus": "звук"
+        },
+        {
+            "eng": "spare",
+            "rus": "запасной"
+        },
+        {
+            "eng": "speak",
+            "rus": "говорить"
+        },
+        {
+            "eng": "specify",
+            "rus": "указывать"
+        },
+        {
+            "eng": "spell",
+            "rus": "орфографии"
+        },
+        {
+            "eng": "spend",
+            "rus": "проводить"
+        },
+        {
+            "eng": "spill",
+            "rus": "проливать"
+        },
+        {
+            "eng": "spin",
+            "rus": "вращение"
+        },
+        {
+            "eng": "split",
+            "rus": "Трещина"
+        },
+        {
+            "eng": "spoil",
+            "rus": "портить"
+        },
+        {
+            "eng": "spot",
+            "rus": "место"
+        },
+        {
+            "eng": "spray",
+            "rus": "спрей"
+        },
+        {
+            "eng": "spread",
+            "rus": "распространение"
+        },
+        {
+            "eng": "squeeze",
+            "rus": "выжимать"
+        },
+        {
+            "eng": "stamp",
+            "rus": "печать"
+        },
+        {
+            "eng": "stand",
+            "rus": "стоять"
+        },
+        {
+            "eng": "stare",
+            "rus": "глазеть"
+        },
+        {
+            "eng": "start",
+            "rus": "Начало"
+        },
+        {
+            "eng": "starve",
+            "rus": "голодать"
+        },
+        {
+            "eng": "state",
+            "rus": "государство"
+        },
+        {
+            "eng": "stay",
+            "rus": "оставаться"
+        },
+        {
+            "eng": "steal",
+            "rus": "украсть"
+        },
+        {
+            "eng": "step",
+            "rus": "шаг"
+        },
+        {
+            "eng": "stick",
+            "rus": "придерживаться"
+        },
+        {
+            "eng": "stir",
+            "rus": "размешать"
+        },
+        {
+            "eng": "stop",
+            "rus": "стоп"
+        },
+        {
+            "eng": "store",
+            "rus": "магазин"
+        },
+        {
+            "eng": "strengthen",
+            "rus": "укреплять"
+        },
+        {
+            "eng": "stress",
+            "rus": "стресс"
+        },
+        {
+            "eng": "stretch",
+            "rus": "протяжение"
+        },
+        {
+            "eng": "strike",
+            "rus": "забастовка"
+        },
+        {
+            "eng": "struggle",
+            "rus": "борьба"
+        },
+        {
+            "eng": "study",
+            "rus": "изучение"
+        },
+        {
+            "eng": "submit",
+            "rus": "Отправить"
+        },
+        {
+            "eng": "succeed",
+            "rus": "добиться успеха"
+        },
+        {
+            "eng": "suck",
+            "rus": "сосать"
+        },
+        {
+            "eng": "suffer",
+            "rus": "страдать"
+        },
+        {
+            "eng": "suggest",
+            "rus": "предлагать"
+        },
+        {
+            "eng": "suit",
+            "rus": "костюм"
+        },
+        {
+            "eng": "supply",
+            "rus": "поставка"
+        },
+        {
+            "eng": "support",
+            "rus": "поддержка"
+        },
+        {
+            "eng": "suppose",
+            "rus": "предполагать"
+        },
+        {
+            "eng": "surround",
+            "rus": "окружать"
+        },
+        {
+            "eng": "survive",
+            "rus": "уцелеть"
+        },
+        {
+            "eng": "suspect",
+            "rus": "подозреваемый"
+        },
+        {
+            "eng": "sustain",
+            "rus": "поддерживать"
+        },
+        {
+            "eng": "swap",
+            "rus": "замена"
+        },
+        {
+            "eng": "swear",
+            "rus": "клянусь"
+        },
+        {
+            "eng": "sweep",
+            "rus": "подметать"
+        },
+        {
+            "eng": "swim",
+            "rus": "плавать"
+        },
+        {
+            "eng": "swing",
+            "rus": "свинг"
+        },
+        {
+            "eng": "switch",
+            "rus": "переключатель"
+        },
+        {
+            "eng": "tackle",
+            "rus": "снасти"
+        },
+        {
+            "eng": "take",
+            "rus": "принимать"
+        },
+        {
+            "eng": "talk",
+            "rus": "говорить"
+        },
+        {
+            "eng": "taste",
+            "rus": "вкус"
+        },
+        {
+            "eng": "teach",
+            "rus": "учат"
+        },
+        {
+            "eng": "tear",
+            "rus": "слеза"
+        },
+        {
+            "eng": "tell",
+            "rus": "рассказать"
+        },
+        {
+            "eng": "tend",
+            "rus": "иметь тенденцию"
+        },
+        {
+            "eng": "test",
+            "rus": "контрольная работа"
+        },
+        {
+            "eng": "text",
+            "rus": "текст"
+        },
+        {
+            "eng": "thank",
+            "rus": "спасибо"
+        },
+        {
+            "eng": "think",
+            "rus": "думать"
+        },
+        {
+            "eng": "threaten",
+            "rus": "угрожать"
+        },
+        {
+            "eng": "throw",
+            "rus": "бросать"
+        },
+        {
+            "eng": "tie",
+            "rus": "галстук"
+        },
+        {
+            "eng": "tip",
+            "rus": "наконечник"
+        },
+        {
+            "eng": "touch",
+            "rus": "потрогать"
+        },
+        {
+            "eng": "trade",
+            "rus": "сделка"
+        },
+        {
+            "eng": "train",
+            "rus": "поезд"
+        },
+        {
+            "eng": "transfer",
+            "rus": "перевод"
+        },
+        {
+            "eng": "transform",
+            "rus": "преобразование"
+        },
+        {
+            "eng": "translate",
+            "rus": "переведите"
+        },
+        {
+            "eng": "travel",
+            "rus": "путешествовать"
+        },
+        {
+            "eng": "treat",
+            "rus": "рассматривать"
+        },
+        {
+            "eng": "trust",
+            "rus": "доверять"
+        },
+        {
+            "eng": "try",
+            "rus": "пытаться"
+        },
+        {
+            "eng": "turn",
+            "rus": "очередь"
+        },
+        {
+            "eng": "twist",
+            "rus": "твист"
+        },
+        {
+            "eng": "understand",
+            "rus": "Понимаю"
+        },
+        {
+            "eng": "undertake",
+            "rus": "предпринимать"
+        },
+        {
+            "eng": "upset",
+            "rus": "рассториться"
+        },
+        {
+            "eng": "urge",
+            "rus": "побуждать"
+        },
+        {
+            "eng": "use",
+            "rus": "использование"
+        },
+        {
+            "eng": "vary",
+            "rus": "варьировать"
+        },
+        {
+            "eng": "visit",
+            "rus": "посещение"
+        },
+        {
+            "eng": "vote",
+            "rus": "голос"
+        },
+        {
+            "eng": "wait",
+            "rus": "Подождите"
+        },
+        {
+            "eng": "wake",
+            "rus": "будить"
+        },
+        {
+            "eng": "walk",
+            "rus": "ходить"
+        },
+        {
+            "eng": "wander",
+            "rus": "странствовать"
+        },
+        {
+            "eng": "want",
+            "rus": "хотеть"
+        },
+        {
+            "eng": "warn",
+            "rus": "предупреждать"
+        },
+        {
+            "eng": "wash",
+            "rus": "мыть"
+        },
+        {
+            "eng": "waste",
+            "rus": "отходы"
+        },
+        {
+            "eng": "watch",
+            "rus": "смотреть"
+        },
+        {
+            "eng": "wave",
+            "rus": "волна"
+        },
+        {
+            "eng": "wear",
+            "rus": "носить"
+        },
+        {
+            "eng": "weigh",
+            "rus": "взвешивать"
+        },
+        {
+            "eng": "welcome",
+            "rus": "добро пожаловать"
+        },
+        {
+            "eng": "whisper",
+            "rus": "шептать"
+        },
+        {
+            "eng": "win",
+            "rus": "выиграть"
+        },
+        {
+            "eng": "wind",
+            "rus": "ветер"
+        },
+        {
+            "eng": "wipe",
+            "rus": "протирать"
+        },
+        {
+            "eng": "wish",
+            "rus": "желание"
+        },
+        {
+            "eng": "withdraw",
+            "rus": "изымать"
+        },
+        {
+            "eng": "wonder",
+            "rus": "задаваться вопросом"
+        },
+        {
+            "eng": "work",
+            "rus": "Работа"
+        },
+        {
+            "eng": "worry",
+            "rus": "беспокоиться"
+        },
+        {
+            "eng": "wound",
+            "rus": "рана"
+        },
+        {
+            "eng": "wrap",
+            "rus": "заворачивать"
+        },
+        {
+            "eng": "write",
+            "rus": "записывать"
+        }
+    ]
+}
