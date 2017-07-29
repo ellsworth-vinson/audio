@@ -1,0 +1,7189 @@
+
+{
+    "lines": [
+        {
+            "eng": "CD",
+            "rus": "CD"
+        },
+        {
+            "eng": "DVD",
+            "rus": "DVD"
+        },
+        {
+            "eng": "TV",
+            "rus": "ТВ"
+        },
+        {
+            "eng": "ability",
+            "rus": "способность"
+        },
+        {
+            "eng": "absence",
+            "rus": "отсутствие"
+        },
+        {
+            "eng": "abuse",
+            "rus": "злоупотребление"
+        },
+        {
+            "eng": "access",
+            "rus": "доступ"
+        },
+        {
+            "eng": "accident",
+            "rus": "авария"
+        },
+        {
+            "eng": "accommodation",
+            "rus": "жилье"
+        },
+        {
+            "eng": "account",
+            "rus": "Счет"
+        },
+        {
+            "eng": "achievement",
+            "rus": "достижение"
+        },
+        {
+            "eng": "acid",
+            "rus": "кислота"
+        },
+        {
+            "eng": "act",
+            "rus": "акт"
+        },
+        {
+            "eng": "action",
+            "rus": "действие"
+        },
+        {
+            "eng": "activist",
+            "rus": "активист"
+        },
+        {
+            "eng": "activity",
+            "rus": "Мероприятия"
+        },
+        {
+            "eng": "actor",
+            "rus": "актер"
+        },
+        {
+            "eng": "ad",
+            "rus": "объявление"
+        },
+        {
+            "eng": "addition",
+            "rus": "прибавление"
+        },
+        {
+            "eng": "address",
+            "rus": "адрес"
+        },
+        {
+            "eng": "administration",
+            "rus": "администрация"
+        },
+        {
+            "eng": "admission",
+            "rus": "вход"
+        },
+        {
+            "eng": "adult",
+            "rus": "для взрослых"
+        },
+        {
+            "eng": "advance",
+            "rus": "продвижение"
+        },
+        {
+            "eng": "advantage",
+            "rus": "преимущество"
+        },
+        {
+            "eng": "advert",
+            "rus": "объявление"
+        },
+        {
+            "eng": "advertisement",
+            "rus": "Реклама"
+        },
+        {
+            "eng": "advertising",
+            "rus": "реклама"
+        },
+        {
+            "eng": "advice",
+            "rus": "совет"
+        },
+        {
+            "eng": "adviser",
+            "rus": "консультант"
+        },
+        {
+            "eng": "affair",
+            "rus": "дело"
+        },
+        {
+            "eng": "afternoon",
+            "rus": "после полудня"
+        },
+        {
+            "eng": "age",
+            "rus": "возраст"
+        },
+        {
+            "eng": "agency",
+            "rus": "агентство"
+        },
+        {
+            "eng": "agent",
+            "rus": "агент"
+        },
+        {
+            "eng": "agreement",
+            "rus": "соглашение"
+        },
+        {
+            "eng": "agriculture",
+            "rus": "сельское хозяйство"
+        },
+        {
+            "eng": "aid",
+            "rus": "помощь"
+        },
+        {
+            "eng": "aim",
+            "rus": "цель"
+        },
+        {
+            "eng": "air",
+            "rus": "воздух"
+        },
+        {
+            "eng": "aircraft",
+            "rus": "самолет"
+        },
+        {
+            "eng": "airline",
+            "rus": "авиакомпания"
+        },
+        {
+            "eng": "airport",
+            "rus": "аэропорт"
+        },
+        {
+            "eng": "alarm",
+            "rus": "аварийная сигнализация"
+        },
+        {
+            "eng": "album",
+            "rus": "альбом"
+        },
+        {
+            "eng": "alcohol",
+            "rus": "алкоголь"
+        },
+        {
+            "eng": "allowance",
+            "rus": "пособие"
+        },
+        {
+            "eng": "alternative",
+            "rus": "альтернатива"
+        },
+        {
+            "eng": "ambition",
+            "rus": "амбиция"
+        },
+        {
+            "eng": "ambulance",
+            "rus": "скорая помощь"
+        },
+        {
+            "eng": "amount",
+            "rus": "количество"
+        },
+        {
+            "eng": "analysis",
+            "rus": "анализ"
+        },
+        {
+            "eng": "analyst",
+            "rus": "аналитик"
+        },
+        {
+            "eng": "anger",
+            "rus": "гнев"
+        },
+        {
+            "eng": "angle",
+            "rus": "угол"
+        },
+        {
+            "eng": "animal",
+            "rus": "животное"
+        },
+        {
+            "eng": "announcement",
+            "rus": "объявление"
+        },
+        {
+            "eng": "answer",
+            "rus": "ответ"
+        },
+        {
+            "eng": "anxiety",
+            "rus": "тревожность"
+        },
+        {
+            "eng": "apartment",
+            "rus": "квартира"
+        },
+        {
+            "eng": "apology",
+            "rus": "апология"
+        },
+        {
+            "eng": "appeal",
+            "rus": "обращение"
+        },
+        {
+            "eng": "appearance",
+            "rus": "появление"
+        },
+        {
+            "eng": "apple",
+            "rus": "яблоко"
+        },
+        {
+            "eng": "application",
+            "rus": "заявление"
+        },
+        {
+            "eng": "appointment",
+            "rus": "деловое свидание, встреча"
+        },
+        {
+            "eng": "approach",
+            "rus": "подход"
+        },
+        {
+            "eng": "approval",
+            "rus": "утверждение"
+        },
+        {
+            "eng": "architect",
+            "rus": "архитектор"
+        },
+        {
+            "eng": "architecture",
+            "rus": "архитектура"
+        },
+        {
+            "eng": "area",
+            "rus": "площадь"
+        },
+        {
+            "eng": "argument",
+            "rus": "аргумент"
+        },
+        {
+            "eng": "arm",
+            "rus": "рука"
+        },
+        {
+            "eng": "army",
+            "rus": "армия"
+        },
+        {
+            "eng": "arrangement",
+            "rus": "договоренность"
+        },
+        {
+            "eng": "arrival",
+            "rus": "прибытие"
+        },
+        {
+            "eng": "art",
+            "rus": "Изобразительное искусство"
+        },
+        {
+            "eng": "article",
+            "rus": "статья"
+        },
+        {
+            "eng": "artist",
+            "rus": "художник"
+        },
+        {
+            "eng": "aspect",
+            "rus": "аспект"
+        },
+        {
+            "eng": "assessment",
+            "rus": "оценка"
+        },
+        {
+            "eng": "assignment",
+            "rus": "назначение"
+        },
+        {
+            "eng": "assistance",
+            "rus": "помощь"
+        },
+        {
+            "eng": "assistant",
+            "rus": "помощник"
+        },
+        {
+            "eng": "association",
+            "rus": "ассоциация"
+        },
+        {
+            "eng": "assumption",
+            "rus": "предположение"
+        },
+        {
+            "eng": "atmosphere",
+            "rus": "атмосфера"
+        },
+        {
+            "eng": "attack",
+            "rus": "атака"
+        },
+        {
+            "eng": "attempt",
+            "rus": "попытка"
+        },
+        {
+            "eng": "attention",
+            "rus": "внимание"
+        },
+        {
+            "eng": "attitude",
+            "rus": "отношение"
+        },
+        {
+            "eng": "attorney",
+            "rus": "адвокат"
+        },
+        {
+            "eng": "attraction",
+            "rus": "Привлечение"
+        },
+        {
+            "eng": "audience",
+            "rus": "аудитория"
+        },
+        {
+            "eng": "aunt",
+            "rus": "тетка"
+        },
+        {
+            "eng": "author",
+            "rus": "автор"
+        },
+        {
+            "eng": "authority",
+            "rus": "власть"
+        },
+        {
+            "eng": "autumn",
+            "rus": "осень"
+        },
+        {
+            "eng": "average",
+            "rus": "в среднем"
+        },
+        {
+            "eng": "award",
+            "rus": "награда"
+        },
+        {
+            "eng": "awareness",
+            "rus": "осознание"
+        },
+        {
+            "eng": "baby",
+            "rus": "детка"
+        },
+        {
+            "eng": "back",
+            "rus": "назад"
+        },
+        {
+            "eng": "background",
+            "rus": "задний план"
+        },
+        {
+            "eng": "bacon",
+            "rus": "бекон"
+        },
+        {
+            "eng": "bag",
+            "rus": "мешок"
+        },
+        {
+            "eng": "balance",
+            "rus": "баланс"
+        },
+        {
+            "eng": "ball",
+            "rus": "мяч"
+        },
+        {
+            "eng": "ban",
+            "rus": "запрет"
+        },
+        {
+            "eng": "band",
+            "rus": "группа"
+        },
+        {
+            "eng": "bang",
+            "rus": "бах"
+        },
+        {
+            "eng": "bank",
+            "rus": "банка"
+        },
+        {
+            "eng": "bar",
+            "rus": "бар"
+        },
+        {
+            "eng": "barrier",
+            "rus": "барьер"
+        },
+        {
+            "eng": "base",
+            "rus": "база"
+        },
+        {
+            "eng": "baseball",
+            "rus": "бейсбол"
+        },
+        {
+            "eng": "basis",
+            "rus": "основа"
+        },
+        {
+            "eng": "basket",
+            "rus": "корзина"
+        },
+        {
+            "eng": "bat",
+            "rus": "летучая мышь"
+        },
+        {
+            "eng": "bath",
+            "rus": "ванна"
+        },
+        {
+            "eng": "bathroom",
+            "rus": "ванная"
+        },
+        {
+            "eng": "battery",
+            "rus": "аккумулятор"
+        },
+        {
+            "eng": "battle",
+            "rus": "боевой"
+        },
+        {
+            "eng": "beach",
+            "rus": "пляж"
+        },
+        {
+            "eng": "bean",
+            "rus": "боб"
+        },
+        {
+            "eng": "beard",
+            "rus": "борода"
+        },
+        {
+            "eng": "beat",
+            "rus": "бить"
+        },
+        {
+            "eng": "beauty",
+            "rus": "красота"
+        },
+        {
+            "eng": "bed",
+            "rus": "постель"
+        },
+        {
+            "eng": "bedroom",
+            "rus": "Спальня"
+        },
+        {
+            "eng": "beef",
+            "rus": "говядина"
+        },
+        {
+            "eng": "beer",
+            "rus": "пиво"
+        },
+        {
+            "eng": "beginning",
+            "rus": "начало"
+        },
+        {
+            "eng": "behalf",
+            "rus": "от имени"
+        },
+        {
+            "eng": "behaviour",
+            "rus": "поведение"
+        },
+        {
+            "eng": "being",
+            "rus": "являющийся"
+        },
+        {
+            "eng": "belief",
+            "rus": "вера"
+        },
+        {
+            "eng": "bell",
+            "rus": "колокол"
+        },
+        {
+            "eng": "belt",
+            "rus": "ремень"
+        },
+        {
+            "eng": "bench",
+            "rus": "скамейка"
+        },
+        {
+            "eng": "benefit",
+            "rus": "выгода"
+        },
+        {
+            "eng": "bet",
+            "rus": "делать ставку"
+        },
+        {
+            "eng": "bicycle",
+            "rus": "велосипед"
+        },
+        {
+            "eng": "bid",
+            "rus": "предложение"
+        },
+        {
+            "eng": "bike",
+            "rus": "велосипед"
+        },
+        {
+            "eng": "bill",
+            "rus": "законопроект"
+        },
+        {
+            "eng": "bin",
+            "rus": "бункер"
+        },
+        {
+            "eng": "bird",
+            "rus": "птица"
+        },
+        {
+            "eng": "birth",
+            "rus": "рождение"
+        },
+        {
+            "eng": "birthday",
+            "rus": "день рождения"
+        },
+        {
+            "eng": "biscuit",
+            "rus": "бисквит"
+        },
+        {
+            "eng": "bit",
+            "rus": "немного"
+        },
+        {
+            "eng": "bite",
+            "rus": "укусить"
+        },
+        {
+            "eng": "blade",
+            "rus": "лопасть"
+        },
+        {
+            "eng": "block",
+            "rus": "блок"
+        },
+        {
+            "eng": "bloke",
+            "rus": "парень"
+        },
+        {
+            "eng": "blood",
+            "rus": "кровь"
+        },
+        {
+            "eng": "blow",
+            "rus": "дуть"
+        },
+        {
+            "eng": "board",
+            "rus": "доска"
+        },
+        {
+            "eng": "boat",
+            "rus": "лодка"
+        },
+        {
+            "eng": "body",
+            "rus": "тело"
+        },
+        {
+            "eng": "boiler",
+            "rus": "котел"
+        },
+        {
+            "eng": "bomb",
+            "rus": "бомбить"
+        },
+        {
+            "eng": "bone",
+            "rus": "кость"
+        },
+        {
+            "eng": "bonus",
+            "rus": "бонус"
+        },
+        {
+            "eng": "book",
+            "rus": "книга"
+        },
+        {
+            "eng": "boom",
+            "rus": "бум"
+        },
+        {
+            "eng": "boot",
+            "rus": "ботинок"
+        },
+        {
+            "eng": "border",
+            "rus": "граница"
+        },
+        {
+            "eng": "boss",
+            "rus": "босс"
+        },
+        {
+            "eng": "bottle",
+            "rus": "бутылка"
+        },
+        {
+            "eng": "bottom",
+            "rus": "дно"
+        },
+        {
+            "eng": "bowl",
+            "rus": "миска"
+        },
+        {
+            "eng": "box",
+            "rus": "коробка"
+        },
+        {
+            "eng": "boy",
+            "rus": "мальчик"
+        },
+        {
+            "eng": "boyfriend",
+            "rus": "дружок"
+        },
+        {
+            "eng": "brain",
+            "rus": "головной мозг"
+        },
+        {
+            "eng": "branch",
+            "rus": "филиал"
+        },
+        {
+            "eng": "bread",
+            "rus": "хлеб"
+        },
+        {
+            "eng": "break",
+            "rus": "ломать"
+        },
+        {
+            "eng": "breakfast",
+            "rus": "завтрак"
+        },
+        {
+            "eng": "breast",
+            "rus": "грудь"
+        },
+        {
+            "eng": "breath",
+            "rus": "дыхание"
+        },
+        {
+            "eng": "brick",
+            "rus": "кирпич"
+        },
+        {
+            "eng": "bridge",
+            "rus": "мост"
+        },
+        {
+            "eng": "brother",
+            "rus": "брат"
+        },
+        {
+            "eng": "brush",
+            "rus": "щетка"
+        },
+        {
+            "eng": "buck",
+            "rus": "доллар"
+        },
+        {
+            "eng": "bucket",
+            "rus": "ведро"
+        },
+        {
+            "eng": "buddy",
+            "rus": "дружище"
+        },
+        {
+            "eng": "budget",
+            "rus": "бюджет"
+        },
+        {
+            "eng": "bug",
+            "rus": "ошибка"
+        },
+        {
+            "eng": "builder",
+            "rus": "строитель"
+        },
+        {
+            "eng": "building",
+            "rus": "здание"
+        },
+        {
+            "eng": "bunch",
+            "rus": "гроздь"
+        },
+        {
+            "eng": "burn",
+            "rus": "жечь"
+        },
+        {
+            "eng": "bus",
+            "rus": "автобус"
+        },
+        {
+            "eng": "business",
+            "rus": "бизнес"
+        },
+        {
+            "eng": "butcher",
+            "rus": "мясник"
+        },
+        {
+            "eng": "butter",
+            "rus": "масло"
+        },
+        {
+            "eng": "button",
+            "rus": "кнопка"
+        },
+        {
+            "eng": "buyer",
+            "rus": "покупатель"
+        },
+        {
+            "eng": "bye",
+            "rus": "пока"
+        },
+        {
+            "eng": "cabinet",
+            "rus": "кабинет"
+        },
+        {
+            "eng": "cable",
+            "rus": "кабель"
+        },
+        {
+            "eng": "cake",
+            "rus": "кекс"
+        },
+        {
+            "eng": "calculation",
+            "rus": "расчет"
+        },
+        {
+            "eng": "calculator",
+            "rus": "калькулятор"
+        },
+        {
+            "eng": "calendar",
+            "rus": "календарь"
+        },
+        {
+            "eng": "call",
+            "rus": "вызов"
+        },
+        {
+            "eng": "camera",
+            "rus": "камера"
+        },
+        {
+            "eng": "camp",
+            "rus": "лагерь"
+        },
+        {
+            "eng": "campaign",
+            "rus": "кампания"
+        },
+        {
+            "eng": "can",
+            "rus": "Можно"
+        },
+        {
+            "eng": "cancer",
+            "rus": "рак"
+        },
+        {
+            "eng": "candidate",
+            "rus": "кандидат"
+        },
+        {
+            "eng": "candle",
+            "rus": "свеча"
+        },
+        {
+            "eng": "candy",
+            "rus": "конфеты"
+        },
+        {
+            "eng": "cap",
+            "rus": "кепка"
+        },
+        {
+            "eng": "capacity",
+            "rus": "вместимость"
+        },
+        {
+            "eng": "capital",
+            "rus": "столица"
+        },
+        {
+            "eng": "captain",
+            "rus": "капитан"
+        },
+        {
+            "eng": "car",
+            "rus": "автомобиль"
+        },
+        {
+            "eng": "card",
+            "rus": "карта"
+        },
+        {
+            "eng": "care",
+            "rus": "забота"
+        },
+        {
+            "eng": "career",
+            "rus": "карьера"
+        },
+        {
+            "eng": "carpet",
+            "rus": "ковер"
+        },
+        {
+            "eng": "carrot",
+            "rus": "морковь"
+        },
+        {
+            "eng": "cartoon",
+            "rus": "мультфильм"
+        },
+        {
+            "eng": "case",
+            "rus": "дело"
+        },
+        {
+            "eng": "cash",
+            "rus": "денежные средства"
+        },
+        {
+            "eng": "castle",
+            "rus": "замок"
+        },
+        {
+            "eng": "cat",
+            "rus": "Кот"
+        },
+        {
+            "eng": "catalogue",
+            "rus": "каталог"
+        },
+        {
+            "eng": "category",
+            "rus": "категория"
+        },
+        {
+            "eng": "cause",
+            "rus": "причина"
+        },
+        {
+            "eng": "ceiling",
+            "rus": "потолок"
+        },
+        {
+            "eng": "celebration",
+            "rus": "праздник"
+        },
+        {
+            "eng": "cell",
+            "rus": "клетка"
+        },
+        {
+            "eng": "cellphone",
+            "rus": "Сотовый телефон"
+        },
+        {
+            "eng": "cent",
+            "rus": "цент"
+        },
+        {
+            "eng": "centimetre",
+            "rus": "сантиметр"
+        },
+        {
+            "eng": "centre",
+            "rus": "центр"
+        },
+        {
+            "eng": "century",
+            "rus": "века"
+        },
+        {
+            "eng": "cereal",
+            "rus": "зерновой"
+        },
+        {
+            "eng": "certificate",
+            "rus": "сертификат"
+        },
+        {
+            "eng": "chain",
+            "rus": "цепь"
+        },
+        {
+            "eng": "chair",
+            "rus": "стул"
+        },
+        {
+            "eng": "chairman",
+            "rus": "председатель"
+        },
+        {
+            "eng": "challenge",
+            "rus": "вызов"
+        },
+        {
+            "eng": "champion",
+            "rus": "чемпион"
+        },
+        {
+            "eng": "championship",
+            "rus": "чемпионат"
+        },
+        {
+            "eng": "chance",
+            "rus": "шанс"
+        },
+        {
+            "eng": "change",
+            "rus": "изменение"
+        },
+        {
+            "eng": "channel",
+            "rus": "канал"
+        },
+        {
+            "eng": "chap",
+            "rus": "глава"
+        },
+        {
+            "eng": "chapter",
+            "rus": "глава"
+        },
+        {
+            "eng": "character",
+            "rus": "персонаж"
+        },
+        {
+            "eng": "characteristic",
+            "rus": "характеристика"
+        },
+        {
+            "eng": "charge",
+            "rus": "заряд"
+        },
+        {
+            "eng": "charity",
+            "rus": "благотворительная деятельность"
+        },
+        {
+            "eng": "chart",
+            "rus": "диаграмма"
+        },
+        {
+            "eng": "chat",
+            "rus": "чат"
+        },
+        {
+            "eng": "check",
+            "rus": "проверить"
+        },
+        {
+            "eng": "cheek",
+            "rus": "щека"
+        },
+        {
+            "eng": "cheese",
+            "rus": "сыр"
+        },
+        {
+            "eng": "chemical",
+            "rus": "химическая"
+        },
+        {
+            "eng": "chemist",
+            "rus": "химик"
+        },
+        {
+            "eng": "chemistry",
+            "rus": "химия"
+        },
+        {
+            "eng": "cheque",
+            "rus": "проверить"
+        },
+        {
+            "eng": "cherry",
+            "rus": "вишня"
+        },
+        {
+            "eng": "chest",
+            "rus": "грудь"
+        },
+        {
+            "eng": "chicken",
+            "rus": "курица"
+        },
+        {
+            "eng": "chief",
+            "rus": "главный"
+        },
+        {
+            "eng": "child",
+            "rus": "ребенок"
+        },
+        {
+            "eng": "childhood",
+            "rus": "детство"
+        },
+        {
+            "eng": "chip",
+            "rus": "чип"
+        },
+        {
+            "eng": "chocolate",
+            "rus": "шоколад"
+        },
+        {
+            "eng": "choice",
+            "rus": "выбор"
+        },
+        {
+            "eng": "church",
+            "rus": "церковь"
+        },
+        {
+            "eng": "cigarette",
+            "rus": "сигарета"
+        },
+        {
+            "eng": "cinema",
+            "rus": "кино"
+        },
+        {
+            "eng": "circle",
+            "rus": "круг"
+        },
+        {
+            "eng": "circuit",
+            "rus": "схема"
+        },
+        {
+            "eng": "circumstance",
+            "rus": "обстоятельство"
+        },
+        {
+            "eng": "citizen",
+            "rus": "гражданин"
+        },
+        {
+            "eng": "city",
+            "rus": "город"
+        },
+        {
+            "eng": "claim",
+            "rus": "Запрос"
+        },
+        {
+            "eng": "class",
+            "rus": "класс"
+        },
+        {
+            "eng": "classroom",
+            "rus": "класс"
+        },
+        {
+            "eng": "cleaner",
+            "rus": "очиститель"
+        },
+        {
+            "eng": "clerk",
+            "rus": "клерк"
+        },
+        {
+            "eng": "client",
+            "rus": "клиент"
+        },
+        {
+            "eng": "climate",
+            "rus": "климат"
+        },
+        {
+            "eng": "clock",
+            "rus": "Часы"
+        },
+        {
+            "eng": "closet",
+            "rus": "стенной шкаф"
+        },
+        {
+            "eng": "cloth",
+            "rus": "ткань"
+        },
+        {
+            "eng": "clothes",
+            "rus": "одежда"
+        },
+        {
+            "eng": "cloud",
+            "rus": "облако"
+        },
+        {
+            "eng": "club",
+            "rus": "клуб"
+        },
+        {
+            "eng": "clue",
+            "rus": "ключ к разгадке"
+        },
+        {
+            "eng": "coach",
+            "rus": "тренер"
+        },
+        {
+            "eng": "coal",
+            "rus": "каменный уголь"
+        },
+        {
+            "eng": "coast",
+            "rus": "берег"
+        },
+        {
+            "eng": "coat",
+            "rus": "Пальто"
+        },
+        {
+            "eng": "code",
+            "rus": "код"
+        },
+        {
+            "eng": "coffee",
+            "rus": "кофе"
+        },
+        {
+            "eng": "coin",
+            "rus": "монета"
+        },
+        {
+            "eng": "collar",
+            "rus": "воротник"
+        },
+        {
+            "eng": "colleague",
+            "rus": "коллега"
+        },
+        {
+            "eng": "collection",
+            "rus": "коллекция"
+        },
+        {
+            "eng": "college",
+            "rus": "колледж"
+        },
+        {
+            "eng": "colour",
+            "rus": "цвет"
+        },
+        {
+            "eng": "column",
+            "rus": "колонка"
+        },
+        {
+            "eng": "combination",
+            "rus": "сочетание"
+        },
+        {
+            "eng": "comfort",
+            "rus": "комфорт"
+        },
+        {
+            "eng": "command",
+            "rus": "команда"
+        },
+        {
+            "eng": "comment",
+            "rus": "комментарий"
+        },
+        {
+            "eng": "commission",
+            "rus": "комиссия"
+        },
+        {
+            "eng": "commitment",
+            "rus": "обязательство"
+        },
+        {
+            "eng": "committee",
+            "rus": "комитет"
+        },
+        {
+            "eng": "communication",
+            "rus": "связь"
+        },
+        {
+            "eng": "community",
+            "rus": "сообщество"
+        },
+        {
+            "eng": "company",
+            "rus": "Компания"
+        },
+        {
+            "eng": "comparison",
+            "rus": "сравнение"
+        },
+        {
+            "eng": "competition",
+            "rus": "соревнование"
+        },
+        {
+            "eng": "complaint",
+            "rus": "жалоба"
+        },
+        {
+            "eng": "component",
+            "rus": "компонент"
+        },
+        {
+            "eng": "computer",
+            "rus": "компьютер"
+        },
+        {
+            "eng": "concentration",
+            "rus": "концентрация"
+        },
+        {
+            "eng": "concept",
+            "rus": "концепция"
+        },
+        {
+            "eng": "concern",
+            "rus": "беспокойство"
+        },
+        {
+            "eng": "concert",
+            "rus": "концерт"
+        },
+        {
+            "eng": "conclusion",
+            "rus": "вывод"
+        },
+        {
+            "eng": "condition",
+            "rus": "состояние"
+        },
+        {
+            "eng": "conduct",
+            "rus": "поведение"
+        },
+        {
+            "eng": "conference",
+            "rus": "конференция"
+        },
+        {
+            "eng": "confidence",
+            "rus": "уверенность"
+        },
+        {
+            "eng": "conflict",
+            "rus": "конфликт"
+        },
+        {
+            "eng": "confusion",
+            "rus": "путаница"
+        },
+        {
+            "eng": "congratulation",
+            "rus": "поздравление"
+        },
+        {
+            "eng": "connection",
+            "rus": "соединение"
+        },
+        {
+            "eng": "consciousness",
+            "rus": "сознание"
+        },
+        {
+            "eng": "consent",
+            "rus": "согласие"
+        },
+        {
+            "eng": "consequence",
+            "rus": "следствие"
+        },
+        {
+            "eng": "consideration",
+            "rus": "рассмотрение"
+        },
+        {
+            "eng": "construction",
+            "rus": "строительство"
+        },
+        {
+            "eng": "consumer",
+            "rus": "потребитель"
+        },
+        {
+            "eng": "consumption",
+            "rus": "потребление"
+        },
+        {
+            "eng": "contact",
+            "rus": "контакт"
+        },
+        {
+            "eng": "content",
+            "rus": "содержание"
+        },
+        {
+            "eng": "contest",
+            "rus": "конкурс"
+        },
+        {
+            "eng": "context",
+            "rus": "контекст"
+        },
+        {
+            "eng": "contract",
+            "rus": "контракт"
+        },
+        {
+            "eng": "contrast",
+            "rus": "контрастировать"
+        },
+        {
+            "eng": "contribution",
+            "rus": "вклад"
+        },
+        {
+            "eng": "control",
+            "rus": "контроль"
+        },
+        {
+            "eng": "convention",
+            "rus": "условность"
+        },
+        {
+            "eng": "conversation",
+            "rus": "разговор"
+        },
+        {
+            "eng": "conviction",
+            "rus": "убеждение"
+        },
+        {
+            "eng": "cooker",
+            "rus": "плита"
+        },
+        {
+            "eng": "cookie",
+            "rus": "печенье"
+        },
+        {
+            "eng": "cooperation",
+            "rus": "сотрудничество"
+        },
+        {
+            "eng": "copy",
+            "rus": "копия"
+        },
+        {
+            "eng": "core",
+            "rus": "ядро"
+        },
+        {
+            "eng": "corn",
+            "rus": "кукуруза"
+        },
+        {
+            "eng": "corner",
+            "rus": "угол"
+        },
+        {
+            "eng": "corridor",
+            "rus": "коридор"
+        },
+        {
+            "eng": "cost",
+            "rus": "Стоимость"
+        },
+        {
+            "eng": "cottage",
+            "rus": "коттедж"
+        },
+        {
+            "eng": "cotton",
+            "rus": "хлопок"
+        },
+        {
+            "eng": "council",
+            "rus": "совет"
+        },
+        {
+            "eng": "counter",
+            "rus": "счетчик"
+        },
+        {
+            "eng": "country",
+            "rus": "страна"
+        },
+        {
+            "eng": "countryside",
+            "rus": "сельская местность"
+        },
+        {
+            "eng": "county",
+            "rus": "округ"
+        },
+        {
+            "eng": "couple",
+            "rus": "пара"
+        },
+        {
+            "eng": "courage",
+            "rus": "мужество"
+        },
+        {
+            "eng": "course",
+            "rus": "курс"
+        },
+        {
+            "eng": "court",
+            "rus": "суд"
+        },
+        {
+            "eng": "cousin",
+            "rus": "двоюродная сестра"
+        },
+        {
+            "eng": "cover",
+            "rus": "обложка"
+        },
+        {
+            "eng": "cow",
+            "rus": "корова"
+        },
+        {
+            "eng": "craft",
+            "rus": "ремесло"
+        },
+        {
+            "eng": "crash",
+            "rus": "авария"
+        },
+        {
+            "eng": "creation",
+            "rus": "создание"
+        },
+        {
+            "eng": "creature",
+            "rus": "существо"
+        },
+        {
+            "eng": "credit",
+            "rus": "кредит"
+        },
+        {
+            "eng": "credit card",
+            "rus": "кредитная карта"
+        },
+        {
+            "eng": "crew",
+            "rus": "экипаж"
+        },
+        {
+            "eng": "crime",
+            "rus": "преступление"
+        },
+        {
+            "eng": "crisis",
+            "rus": "кризис"
+        },
+        {
+            "eng": "criterion",
+            "rus": "критерий"
+        },
+        {
+            "eng": "critic",
+            "rus": "критик"
+        },
+        {
+            "eng": "criticism",
+            "rus": "критика"
+        },
+        {
+            "eng": "crop",
+            "rus": "культура"
+        },
+        {
+            "eng": "cross",
+            "rus": "пересекать"
+        },
+        {
+            "eng": "crowd",
+            "rus": "толпа"
+        },
+        {
+            "eng": "crown",
+            "rus": "корона"
+        },
+        {
+            "eng": "cry",
+            "rus": "плакать"
+        },
+        {
+            "eng": "culture",
+            "rus": "культура"
+        },
+        {
+            "eng": "cup",
+            "rus": "кружка"
+        },
+        {
+            "eng": "cupboard",
+            "rus": "шкаф"
+        },
+        {
+            "eng": "currency",
+            "rus": "валюта"
+        },
+        {
+            "eng": "current",
+            "rus": "текущий"
+        },
+        {
+            "eng": "curtain",
+            "rus": "занавес"
+        },
+        {
+            "eng": "curve",
+            "rus": "кривая"
+        },
+        {
+            "eng": "cushion",
+            "rus": "диванная подушка"
+        },
+        {
+            "eng": "custom",
+            "rus": "обычай"
+        },
+        {
+            "eng": "customer",
+            "rus": "клиент"
+        },
+        {
+            "eng": "cut",
+            "rus": "порез"
+        },
+        {
+            "eng": "cycle",
+            "rus": "цикл"
+        },
+        {
+            "eng": "dad",
+            "rus": "папа"
+        },
+        {
+            "eng": "daddy",
+            "rus": "папа"
+        },
+        {
+            "eng": "damage",
+            "rus": "наносить ущерб"
+        },
+        {
+            "eng": "dance",
+            "rus": "танец"
+        },
+        {
+            "eng": "danger",
+            "rus": "Опасность"
+        },
+        {
+            "eng": "darkness",
+            "rus": "темнота"
+        },
+        {
+            "eng": "darling",
+            "rus": "дорогой"
+        },
+        {
+            "eng": "data",
+            "rus": "данные"
+        },
+        {
+            "eng": "database",
+            "rus": "база данных"
+        },
+        {
+            "eng": "date",
+            "rus": "Дата"
+        },
+        {
+            "eng": "daughter",
+            "rus": "дочь"
+        },
+        {
+            "eng": "day",
+            "rus": "день"
+        },
+        {
+            "eng": "deal",
+            "rus": "по рукам"
+        },
+        {
+            "eng": "dealer",
+            "rus": "дилер"
+        },
+        {
+            "eng": "dear",
+            "rus": "Уважаемые"
+        },
+        {
+            "eng": "death",
+            "rus": "смерть"
+        },
+        {
+            "eng": "debate",
+            "rus": "обсуждение"
+        },
+        {
+            "eng": "debt",
+            "rus": "долг"
+        },
+        {
+            "eng": "decade",
+            "rus": "десятилетие"
+        },
+        {
+            "eng": "decision",
+            "rus": "решение"
+        },
+        {
+            "eng": "decline",
+            "rus": "снижение"
+        },
+        {
+            "eng": "defeat",
+            "rus": "поражение"
+        },
+        {
+            "eng": "defence",
+            "rus": "защита"
+        },
+        {
+            "eng": "definition",
+            "rus": "определение"
+        },
+        {
+            "eng": "degree",
+            "rus": "степень"
+        },
+        {
+            "eng": "delay",
+            "rus": "задержка"
+        },
+        {
+            "eng": "delivery",
+            "rus": "Доставка"
+        },
+        {
+            "eng": "demand",
+            "rus": "спрос"
+        },
+        {
+            "eng": "democracy",
+            "rus": "демократия"
+        },
+        {
+            "eng": "demonstration",
+            "rus": "демонстрация"
+        },
+        {
+            "eng": "dentist",
+            "rus": "Дантист"
+        },
+        {
+            "eng": "department",
+            "rus": "отдел"
+        },
+        {
+            "eng": "departure",
+            "rus": "Вылет из"
+        },
+        {
+            "eng": "deposit",
+            "rus": "депозит"
+        },
+        {
+            "eng": "depression",
+            "rus": "депрессия"
+        },
+        {
+            "eng": "depth",
+            "rus": "глубина"
+        },
+        {
+            "eng": "description",
+            "rus": "описание"
+        },
+        {
+            "eng": "desert",
+            "rus": "пустыня"
+        },
+        {
+            "eng": "design",
+            "rus": "дизайн"
+        },
+        {
+            "eng": "designer",
+            "rus": "дизайнер"
+        },
+        {
+            "eng": "desire",
+            "rus": "желание"
+        },
+        {
+            "eng": "desk",
+            "rus": "стол письменный"
+        },
+        {
+            "eng": "destruction",
+            "rus": "разрушение"
+        },
+        {
+            "eng": "detail",
+            "rus": "подробно"
+        },
+        {
+            "eng": "determination",
+            "rus": "определение"
+        },
+        {
+            "eng": "development",
+            "rus": "развитие"
+        },
+        {
+            "eng": "device",
+            "rus": "устройство"
+        },
+        {
+            "eng": "devil",
+            "rus": "дьявол"
+        },
+        {
+            "eng": "diagram",
+            "rus": "диаграмма"
+        },
+        {
+            "eng": "diamond",
+            "rus": "бриллиант"
+        },
+        {
+            "eng": "diary",
+            "rus": "дневник"
+        },
+        {
+            "eng": "diet",
+            "rus": "диета"
+        },
+        {
+            "eng": "difference",
+            "rus": "разница"
+        },
+        {
+            "eng": "difficulty",
+            "rus": "трудность"
+        },
+        {
+            "eng": "dimension",
+            "rus": "измерение"
+        },
+        {
+            "eng": "dinner",
+            "rus": "ужин"
+        },
+        {
+            "eng": "direction",
+            "rus": "направление"
+        },
+        {
+            "eng": "director",
+            "rus": "директор"
+        },
+        {
+            "eng": "directory",
+            "rus": "каталог"
+        },
+        {
+            "eng": "dirt",
+            "rus": "грязь"
+        },
+        {
+            "eng": "disaster",
+            "rus": "катастрофа"
+        },
+        {
+            "eng": "disc",
+            "rus": "диск"
+        },
+        {
+            "eng": "discipline",
+            "rus": "дисциплина"
+        },
+        {
+            "eng": "discount",
+            "rus": "скидка"
+        },
+        {
+            "eng": "discovery",
+            "rus": "открытие"
+        },
+        {
+            "eng": "discussion",
+            "rus": "обсуждение"
+        },
+        {
+            "eng": "disease",
+            "rus": "болезнь"
+        },
+        {
+            "eng": "dish",
+            "rus": "блюдо"
+        },
+        {
+            "eng": "disk",
+            "rus": "диск"
+        },
+        {
+            "eng": "display",
+            "rus": "дисплей"
+        },
+        {
+            "eng": "dispute",
+            "rus": "спор"
+        },
+        {
+            "eng": "distance",
+            "rus": "расстояние"
+        },
+        {
+            "eng": "distinction",
+            "rus": "различие"
+        },
+        {
+            "eng": "distribution",
+            "rus": "распределение"
+        },
+        {
+            "eng": "district",
+            "rus": "район"
+        },
+        {
+            "eng": "division",
+            "rus": "деление"
+        },
+        {
+            "eng": "divorce",
+            "rus": "развод"
+        },
+        {
+            "eng": "doctor",
+            "rus": "врач"
+        },
+        {
+            "eng": "document",
+            "rus": "документ"
+        },
+        {
+            "eng": "dog",
+            "rus": "собака"
+        },
+        {
+            "eng": "dollar",
+            "rus": "доллар"
+        },
+        {
+            "eng": "door",
+            "rus": "дверь"
+        },
+        {
+            "eng": "dot",
+            "rus": "точка"
+        },
+        {
+            "eng": "doubt",
+            "rus": "сомнение"
+        },
+        {
+            "eng": "draft",
+            "rus": "проект"
+        },
+        {
+            "eng": "drama",
+            "rus": "драма"
+        },
+        {
+            "eng": "draw",
+            "rus": "привлечь"
+        },
+        {
+            "eng": "drawer",
+            "rus": "выдвижной ящик"
+        },
+        {
+            "eng": "drawing",
+            "rus": "Рисование"
+        },
+        {
+            "eng": "dream",
+            "rus": "мечта"
+        },
+        {
+            "eng": "dress",
+            "rus": "платье"
+        },
+        {
+            "eng": "drink",
+            "rus": "напиток"
+        },
+        {
+            "eng": "drive",
+            "rus": "водить машину"
+        },
+        {
+            "eng": "driver",
+            "rus": "Водитель"
+        },
+        {
+            "eng": "drop",
+            "rus": "падение"
+        },
+        {
+            "eng": "drug",
+            "rus": "лекарственное средство"
+        },
+        {
+            "eng": "duck",
+            "rus": "утка"
+        },
+        {
+            "eng": "dude",
+            "rus": "чувак"
+        },
+        {
+            "eng": "dust",
+            "rus": "пыли"
+        },
+        {
+            "eng": "duty",
+            "rus": "обязанность"
+        },
+        {
+            "eng": "ear",
+            "rus": "ухо"
+        },
+        {
+            "eng": "earth",
+            "rus": "Земля"
+        },
+        {
+            "eng": "east",
+            "rus": "восток"
+        },
+        {
+            "eng": "economics",
+            "rus": "экономика"
+        },
+        {
+            "eng": "economy",
+            "rus": "экономика"
+        },
+        {
+            "eng": "edge",
+            "rus": "край"
+        },
+        {
+            "eng": "edition",
+            "rus": "издание"
+        },
+        {
+            "eng": "editor",
+            "rus": "редактор"
+        },
+        {
+            "eng": "education",
+            "rus": "образование"
+        },
+        {
+            "eng": "effect",
+            "rus": "эффект"
+        },
+        {
+            "eng": "efficiency",
+            "rus": "эффективность"
+        },
+        {
+            "eng": "effort",
+            "rus": "усилие"
+        },
+        {
+            "eng": "egg",
+            "rus": "яйцо"
+        },
+        {
+            "eng": "election",
+            "rus": "выборы"
+        },
+        {
+            "eng": "electricity",
+            "rus": "электричество"
+        },
+        {
+            "eng": "element",
+            "rus": "элемент"
+        },
+        {
+            "eng": "elevator",
+            "rus": "лифт"
+        },
+        {
+            "eng": "email",
+            "rus": "Эл. адрес"
+        },
+        {
+            "eng": "emergency",
+            "rus": "крайняя необходимость"
+        },
+        {
+            "eng": "emotion",
+            "rus": "эмоция"
+        },
+        {
+            "eng": "emphasis",
+            "rus": "акцент"
+        },
+        {
+            "eng": "empire",
+            "rus": "империя"
+        },
+        {
+            "eng": "employee",
+            "rus": "наемный рабочий"
+        },
+        {
+            "eng": "employer",
+            "rus": "работодатель"
+        },
+        {
+            "eng": "employment",
+            "rus": "занятость"
+        },
+        {
+            "eng": "end",
+            "rus": "конец"
+        },
+        {
+            "eng": "enemy",
+            "rus": "враг"
+        },
+        {
+            "eng": "energy",
+            "rus": "энергия"
+        },
+        {
+            "eng": "engine",
+            "rus": "двигатель"
+        },
+        {
+            "eng": "engineer",
+            "rus": "инженер"
+        },
+        {
+            "eng": "engineering",
+            "rus": "инжиниринг"
+        },
+        {
+            "eng": "enquiry",
+            "rus": "запрос"
+        },
+        {
+            "eng": "enterprise",
+            "rus": "предприятие"
+        },
+        {
+            "eng": "entertainment",
+            "rus": "развлекательная программа"
+        },
+        {
+            "eng": "enthusiasm",
+            "rus": "энтузиазм"
+        },
+        {
+            "eng": "entrance",
+            "rus": "вход"
+        },
+        {
+            "eng": "entry",
+            "rus": "запись"
+        },
+        {
+            "eng": "envelope",
+            "rus": "конверт"
+        },
+        {
+            "eng": "environment",
+            "rus": "Окружающая среда"
+        },
+        {
+            "eng": "equipment",
+            "rus": "оборудование"
+        },
+        {
+            "eng": "era",
+            "rus": "эпоха"
+        },
+        {
+            "eng": "error",
+            "rus": "ошибка"
+        },
+        {
+            "eng": "escape",
+            "rus": "побег"
+        },
+        {
+            "eng": "essay",
+            "rus": "сочинение"
+        },
+        {
+            "eng": "establishment",
+            "rus": "создание"
+        },
+        {
+            "eng": "estate",
+            "rus": "имущество"
+        },
+        {
+            "eng": "estimate",
+            "rus": "оценить"
+        },
+        {
+            "eng": "evening",
+            "rus": "вечер"
+        },
+        {
+            "eng": "event",
+            "rus": "мероприятие"
+        },
+        {
+            "eng": "evidence",
+            "rus": "доказательства"
+        },
+        {
+            "eng": "exam",
+            "rus": "экзамен"
+        },
+        {
+            "eng": "examination",
+            "rus": "экспертиза"
+        },
+        {
+            "eng": "example",
+            "rus": "пример"
+        },
+        {
+            "eng": "exception",
+            "rus": "исключение"
+        },
+        {
+            "eng": "exchange",
+            "rus": "обмен"
+        },
+        {
+            "eng": "excitement",
+            "rus": "волнение"
+        },
+        {
+            "eng": "excuse",
+            "rus": "оправдание"
+        },
+        {
+            "eng": "executive",
+            "rus": "должностное лицо"
+        },
+        {
+            "eng": "exercise",
+            "rus": "упражнение"
+        },
+        {
+            "eng": "exhibition",
+            "rus": "выставка"
+        },
+        {
+            "eng": "existence",
+            "rus": "существование"
+        },
+        {
+            "eng": "exit",
+            "rus": "Выход"
+        },
+        {
+            "eng": "expansion",
+            "rus": "расширение"
+        },
+        {
+            "eng": "expectation",
+            "rus": "ожидание"
+        },
+        {
+            "eng": "expenditure",
+            "rus": "расход"
+        },
+        {
+            "eng": "expense",
+            "rus": "расходы"
+        },
+        {
+            "eng": "experience",
+            "rus": "опыт"
+        },
+        {
+            "eng": "experiment",
+            "rus": "эксперимент"
+        },
+        {
+            "eng": "expert",
+            "rus": "эксперт"
+        },
+        {
+            "eng": "explanation",
+            "rus": "объяснение"
+        },
+        {
+            "eng": "explosion",
+            "rus": "взрыв"
+        },
+        {
+            "eng": "export",
+            "rus": "экспорт"
+        },
+        {
+            "eng": "expression",
+            "rus": "выражение"
+        },
+        {
+            "eng": "extension",
+            "rus": "расширение"
+        },
+        {
+            "eng": "extent",
+            "rus": "степень"
+        },
+        {
+            "eng": "eye",
+            "rus": "глаз"
+        },
+        {
+            "eng": "face",
+            "rus": "лицо"
+        },
+        {
+            "eng": "facility",
+            "rus": "объект"
+        },
+        {
+            "eng": "fact",
+            "rus": "факт"
+        },
+        {
+            "eng": "factor",
+            "rus": "фактор"
+        },
+        {
+            "eng": "factory",
+            "rus": "завод"
+        },
+        {
+            "eng": "failure",
+            "rus": "отказ"
+        },
+        {
+            "eng": "faith",
+            "rus": "вера"
+        },
+        {
+            "eng": "fall",
+            "rus": "падать"
+        },
+        {
+            "eng": "family",
+            "rus": "семья"
+        },
+        {
+            "eng": "fan",
+            "rus": "поклонник"
+        },
+        {
+            "eng": "farm",
+            "rus": "ферма"
+        },
+        {
+            "eng": "farmer",
+            "rus": "фермер"
+        },
+        {
+            "eng": "fashion",
+            "rus": "мода"
+        },
+        {
+            "eng": "father",
+            "rus": "отец"
+        },
+        {
+            "eng": "fault",
+            "rus": "придираться"
+        },
+        {
+            "eng": "favour",
+            "rus": "благоприятствовать"
+        },
+        {
+            "eng": "fear",
+            "rus": "страх"
+        },
+        {
+            "eng": "feature",
+            "rus": "особенность"
+        },
+        {
+            "eng": "fee",
+            "rus": "плата"
+        },
+        {
+            "eng": "feedback",
+            "rus": "Обратная связь"
+        },
+        {
+            "eng": "feeling",
+            "rus": "чувство"
+        },
+        {
+            "eng": "female",
+            "rus": "женский пол"
+        },
+        {
+            "eng": "fence",
+            "rus": "забор"
+        },
+        {
+            "eng": "festival",
+            "rus": "фестиваль"
+        },
+        {
+            "eng": "field",
+            "rus": "поле"
+        },
+        {
+            "eng": "fight",
+            "rus": "борьба"
+        },
+        {
+            "eng": "figure",
+            "rus": "фигура"
+        },
+        {
+            "eng": "file",
+            "rus": "файл"
+        },
+        {
+            "eng": "film",
+            "rus": "фильм"
+        },
+        {
+            "eng": "final",
+            "rus": "окончательный"
+        },
+        {
+            "eng": "finance",
+            "rus": "финансы"
+        },
+        {
+            "eng": "finding",
+            "rus": "обнаружение"
+        },
+        {
+            "eng": "finger",
+            "rus": "Палец"
+        },
+        {
+            "eng": "finish",
+            "rus": "Конец"
+        },
+        {
+            "eng": "fire",
+            "rus": "Огонь"
+        },
+        {
+            "eng": "firm",
+            "rus": "фирма"
+        },
+        {
+            "eng": "fish",
+            "rus": "рыба"
+        },
+        {
+            "eng": "fishing",
+            "rus": "ловит рыбу"
+        },
+        {
+            "eng": "flat",
+            "rus": "квартира"
+        },
+        {
+            "eng": "flavour",
+            "rus": "аромат"
+        },
+        {
+            "eng": "flesh",
+            "rus": "плоть"
+        },
+        {
+            "eng": "flight",
+            "rus": "рейс"
+        },
+        {
+            "eng": "floor",
+            "rus": "пол"
+        },
+        {
+            "eng": "flow",
+            "rus": "течь"
+        },
+        {
+            "eng": "flower",
+            "rus": "цветок"
+        },
+        {
+            "eng": "focus",
+            "rus": "фокус"
+        },
+        {
+            "eng": "folk",
+            "rus": "люди"
+        },
+        {
+            "eng": "food",
+            "rus": "питание"
+        },
+        {
+            "eng": "foot",
+            "rus": "фут"
+        },
+        {
+            "eng": "football",
+            "rus": "футбол"
+        },
+        {
+            "eng": "force",
+            "rus": "сила"
+        },
+        {
+            "eng": "forest",
+            "rus": "лес"
+        },
+        {
+            "eng": "fork",
+            "rus": "вилка"
+        },
+        {
+            "eng": "form",
+            "rus": "форма"
+        },
+        {
+            "eng": "formation",
+            "rus": "образование"
+        },
+        {
+            "eng": "formula",
+            "rus": "формула"
+        },
+        {
+            "eng": "fortnight",
+            "rus": "две недели"
+        },
+        {
+            "eng": "fortune",
+            "rus": "состояние"
+        },
+        {
+            "eng": "foundation",
+            "rus": "Фонд"
+        },
+        {
+            "eng": "frame",
+            "rus": "Рамка"
+        },
+        {
+            "eng": "freedom",
+            "rus": "свобода"
+        },
+        {
+            "eng": "freeway",
+            "rus": "Автострада"
+        },
+        {
+            "eng": "freezer",
+            "rus": "морозилка"
+        },
+        {
+            "eng": "fridge",
+            "rus": "холодильник"
+        },
+        {
+            "eng": "friend",
+            "rus": "друг"
+        },
+        {
+            "eng": "friendship",
+            "rus": "дружба"
+        },
+        {
+            "eng": "front",
+            "rus": "фронт"
+        },
+        {
+            "eng": "fruit",
+            "rus": "фрукты"
+        },
+        {
+            "eng": "fuel",
+            "rus": "топливо"
+        },
+        {
+            "eng": "fun",
+            "rus": "весело"
+        },
+        {
+            "eng": "function",
+            "rus": "функция"
+        },
+        {
+            "eng": "fund",
+            "rus": "фонд"
+        },
+        {
+            "eng": "funeral",
+            "rus": "похороны"
+        },
+        {
+            "eng": "furniture",
+            "rus": "мебель"
+        },
+        {
+            "eng": "fuss",
+            "rus": "суетиться"
+        },
+        {
+            "eng": "future",
+            "rus": "будущее"
+        },
+        {
+            "eng": "gain",
+            "rus": "усиление"
+        },
+        {
+            "eng": "gallery",
+            "rus": "галерея"
+        },
+        {
+            "eng": "game",
+            "rus": "игра"
+        },
+        {
+            "eng": "gang",
+            "rus": "банда"
+        },
+        {
+            "eng": "gap",
+            "rus": "разрыв"
+        },
+        {
+            "eng": "garage",
+            "rus": "гараж"
+        },
+        {
+            "eng": "garbage",
+            "rus": "мусор"
+        },
+        {
+            "eng": "garden",
+            "rus": "сад"
+        },
+        {
+            "eng": "garlic",
+            "rus": "чеснок"
+        },
+        {
+            "eng": "gas",
+            "rus": "газ"
+        },
+        {
+            "eng": "gasoline",
+            "rus": "бензин"
+        },
+        {
+            "eng": "gate",
+            "rus": "Ворота"
+        },
+        {
+            "eng": "gear",
+            "rus": "шестерня"
+        },
+        {
+            "eng": "gene",
+            "rus": "ген"
+        },
+        {
+            "eng": "generation",
+            "rus": "поколение"
+        },
+        {
+            "eng": "gentleman",
+            "rus": "джентльмен"
+        },
+        {
+            "eng": "gift",
+            "rus": "подарок"
+        },
+        {
+            "eng": "girl",
+            "rus": "девушка"
+        },
+        {
+            "eng": "girlfriend",
+            "rus": "Подруга"
+        },
+        {
+            "eng": "glance",
+            "rus": "взгляд"
+        },
+        {
+            "eng": "glass",
+            "rus": "стакан"
+        },
+        {
+            "eng": "glove",
+            "rus": "перчатка"
+        },
+        {
+            "eng": "go",
+            "rus": "идти"
+        },
+        {
+            "eng": "goal",
+            "rus": "Цель"
+        },
+        {
+            "eng": "god",
+            "rus": "Бог"
+        },
+        {
+            "eng": "gold",
+            "rus": "золото"
+        },
+        {
+            "eng": "golf",
+            "rus": "гольф"
+        },
+        {
+            "eng": "goodness",
+            "rus": "доброта"
+        },
+        {
+            "eng": "goods",
+            "rus": "товар"
+        },
+        {
+            "eng": "government",
+            "rus": "правительство"
+        },
+        {
+            "eng": "governor",
+            "rus": "губернатор"
+        },
+        {
+            "eng": "grade",
+            "rus": "класс"
+        },
+        {
+            "eng": "gram",
+            "rus": "грамм"
+        },
+        {
+            "eng": "grammar",
+            "rus": "грамматика"
+        },
+        {
+            "eng": "grandad",
+            "rus": "дедушку"
+        },
+        {
+            "eng": "grandfather",
+            "rus": "Дед"
+        },
+        {
+            "eng": "grandma",
+            "rus": "бабушка"
+        },
+        {
+            "eng": "grandmother",
+            "rus": "бабушка"
+        },
+        {
+            "eng": "grandpa",
+            "rus": "дедушка"
+        },
+        {
+            "eng": "granny",
+            "rus": "бабуля"
+        },
+        {
+            "eng": "grant",
+            "rus": "даровать"
+        },
+        {
+            "eng": "graph",
+            "rus": "график"
+        },
+        {
+            "eng": "grass",
+            "rus": "трава"
+        },
+        {
+            "eng": "green",
+            "rus": "зеленый"
+        },
+        {
+            "eng": "grocery",
+            "rus": "продуктовый"
+        },
+        {
+            "eng": "ground",
+            "rus": "земля"
+        },
+        {
+            "eng": "group",
+            "rus": "группа"
+        },
+        {
+            "eng": "growth",
+            "rus": "рост"
+        },
+        {
+            "eng": "guarantee",
+            "rus": "гарантия"
+        },
+        {
+            "eng": "guard",
+            "rus": "охрана"
+        },
+        {
+            "eng": "guess",
+            "rus": "Угадай"
+        },
+        {
+            "eng": "guest",
+            "rus": "гость"
+        },
+        {
+            "eng": "guidance",
+            "rus": "руководство"
+        },
+        {
+            "eng": "guide",
+            "rus": "руководство"
+        },
+        {
+            "eng": "guitar",
+            "rus": "гитара"
+        },
+        {
+            "eng": "gun",
+            "rus": "пистолет"
+        },
+        {
+            "eng": "guy",
+            "rus": "парень"
+        },
+        {
+            "eng": "habit",
+            "rus": "привычка"
+        },
+        {
+            "eng": "hair",
+            "rus": "волосы"
+        },
+        {
+            "eng": "half",
+            "rus": "половина"
+        },
+        {
+            "eng": "hall",
+            "rus": "зал"
+        },
+        {
+            "eng": "hand",
+            "rus": "рука"
+        },
+        {
+            "eng": "handbag",
+            "rus": "сумка"
+        },
+        {
+            "eng": "handle",
+            "rus": "ручка"
+        },
+        {
+            "eng": "harm",
+            "rus": "вред"
+        },
+        {
+            "eng": "hat",
+            "rus": "шапка"
+        },
+        {
+            "eng": "head",
+            "rus": "глава"
+        },
+        {
+            "eng": "headquarters",
+            "rus": "главное управление"
+        },
+        {
+            "eng": "health",
+            "rus": "здоровье"
+        },
+        {
+            "eng": "hearing",
+            "rus": "слух"
+        },
+        {
+            "eng": "heart",
+            "rus": "сердце"
+        },
+        {
+            "eng": "heat",
+            "rus": "высокая температура"
+        },
+        {
+            "eng": "heater",
+            "rus": "нагреватель"
+        },
+        {
+            "eng": "heating",
+            "rus": "обогрев"
+        },
+        {
+            "eng": "heaven",
+            "rus": "небо"
+        },
+        {
+            "eng": "height",
+            "rus": "высота"
+        },
+        {
+            "eng": "hell",
+            "rus": "ад"
+        },
+        {
+            "eng": "hello",
+            "rus": "Здравствуйте"
+        },
+        {
+            "eng": "help",
+            "rus": "Помогите"
+        },
+        {
+            "eng": "hero",
+            "rus": "герой"
+        },
+        {
+            "eng": "highway",
+            "rus": "шоссе"
+        },
+        {
+            "eng": "hill",
+            "rus": "холм"
+        },
+        {
+            "eng": "historian",
+            "rus": "историк"
+        },
+        {
+            "eng": "history",
+            "rus": "история"
+        },
+        {
+            "eng": "hit",
+            "rus": "удар"
+        },
+        {
+            "eng": "hold",
+            "rus": "держать"
+        },
+        {
+            "eng": "holder",
+            "rus": "держатель"
+        },
+        {
+            "eng": "holding",
+            "rus": "держа"
+        },
+        {
+            "eng": "hole",
+            "rus": "дыра"
+        },
+        {
+            "eng": "holiday",
+            "rus": "день отдыха"
+        },
+        {
+            "eng": "home",
+            "rus": "Главная"
+        },
+        {
+            "eng": "homework",
+            "rus": "домашнее задание"
+        },
+        {
+            "eng": "honey",
+            "rus": "мед"
+        },
+        {
+            "eng": "honour",
+            "rus": "честь"
+        },
+        {
+            "eng": "hook",
+            "rus": "крюк"
+        },
+        {
+            "eng": "hope",
+            "rus": "надежда"
+        },
+        {
+            "eng": "horror",
+            "rus": "ужастик"
+        },
+        {
+            "eng": "horse",
+            "rus": "лошадь"
+        },
+        {
+            "eng": "hospital",
+            "rus": "больница"
+        },
+        {
+            "eng": "host",
+            "rus": "хозяин"
+        },
+        {
+            "eng": "hotel",
+            "rus": "Гостиница"
+        },
+        {
+            "eng": "hour",
+            "rus": "час"
+        },
+        {
+            "eng": "house",
+            "rus": "дом"
+        },
+        {
+            "eng": "household",
+            "rus": "домашнее хозяйство"
+        },
+        {
+            "eng": "housing",
+            "rus": "Корпус"
+        },
+        {
+            "eng": "human",
+            "rus": "человек"
+        },
+        {
+            "eng": "hurry",
+            "rus": "торопиться"
+        },
+        {
+            "eng": "husband",
+            "rus": "муж"
+        },
+        {
+            "eng": "ice",
+            "rus": "лед"
+        },
+        {
+            "eng": "ice cream",
+            "rus": "мороженое"
+        },
+        {
+            "eng": "idea",
+            "rus": "идея"
+        },
+        {
+            "eng": "identity",
+            "rus": "идентичность"
+        },
+        {
+            "eng": "idiot",
+            "rus": "идиот"
+        },
+        {
+            "eng": "illness",
+            "rus": "болезнь"
+        },
+        {
+            "eng": "image",
+            "rus": "образ"
+        },
+        {
+            "eng": "imagination",
+            "rus": "воображение"
+        },
+        {
+            "eng": "impact",
+            "rus": "влияние"
+        },
+        {
+            "eng": "implication",
+            "rus": "импликация"
+        },
+        {
+            "eng": "import",
+            "rus": "Импортировать"
+        },
+        {
+            "eng": "importance",
+            "rus": "важность"
+        },
+        {
+            "eng": "impression",
+            "rus": "впечатление"
+        },
+        {
+            "eng": "improvement",
+            "rus": "улучшение"
+        },
+        {
+            "eng": "inch",
+            "rus": "дюймовый"
+        },
+        {
+            "eng": "incident",
+            "rus": "инцидент"
+        },
+        {
+            "eng": "income",
+            "rus": "доход"
+        },
+        {
+            "eng": "increase",
+            "rus": "увеличение"
+        },
+        {
+            "eng": "independence",
+            "rus": "независимость"
+        },
+        {
+            "eng": "index",
+            "rus": "индекс"
+        },
+        {
+            "eng": "indication",
+            "rus": "индикация"
+        },
+        {
+            "eng": "individual",
+            "rus": "индивидуальный"
+        },
+        {
+            "eng": "industry",
+            "rus": "промышленность"
+        },
+        {
+            "eng": "infant",
+            "rus": "младенец"
+        },
+        {
+            "eng": "infection",
+            "rus": "инфекционное заболевание"
+        },
+        {
+            "eng": "inflation",
+            "rus": "инфляция"
+        },
+        {
+            "eng": "influence",
+            "rus": "влияние"
+        },
+        {
+            "eng": "information",
+            "rus": "Информация"
+        },
+        {
+            "eng": "initiative",
+            "rus": "инициатива"
+        },
+        {
+            "eng": "injury",
+            "rus": "травма"
+        },
+        {
+            "eng": "innovation",
+            "rus": "инновация"
+        },
+        {
+            "eng": "input",
+            "rus": "вход"
+        },
+        {
+            "eng": "inquiry",
+            "rus": "запрос"
+        },
+        {
+            "eng": "insect",
+            "rus": "насекомое"
+        },
+        {
+            "eng": "inside",
+            "rus": "внутри"
+        },
+        {
+            "eng": "inspection",
+            "rus": "осмотр"
+        },
+        {
+            "eng": "inspector",
+            "rus": "инспектор"
+        },
+        {
+            "eng": "instance",
+            "rus": "пример"
+        },
+        {
+            "eng": "institute",
+            "rus": "институт"
+        },
+        {
+            "eng": "institution",
+            "rus": "учреждение"
+        },
+        {
+            "eng": "instruction",
+            "rus": "инструкция"
+        },
+        {
+            "eng": "instrument",
+            "rus": "инструмент"
+        },
+        {
+            "eng": "insurance",
+            "rus": "страхование"
+        },
+        {
+            "eng": "intelligence",
+            "rus": "интеллект"
+        },
+        {
+            "eng": "intention",
+            "rus": "намерение"
+        },
+        {
+            "eng": "interaction",
+            "rus": "взаимодействие"
+        },
+        {
+            "eng": "interest",
+            "rus": "интерес"
+        },
+        {
+            "eng": "internet",
+            "rus": "интернет"
+        },
+        {
+            "eng": "interpretation",
+            "rus": "интерпретация"
+        },
+        {
+            "eng": "interval",
+            "rus": "интервал"
+        },
+        {
+            "eng": "intervention",
+            "rus": "вмешательство"
+        },
+        {
+            "eng": "interview",
+            "rus": "интервью"
+        },
+        {
+            "eng": "introduction",
+            "rus": "введение"
+        },
+        {
+            "eng": "investigation",
+            "rus": "расследование"
+        },
+        {
+            "eng": "investment",
+            "rus": "инвестиции"
+        },
+        {
+            "eng": "involvement",
+            "rus": "участие"
+        },
+        {
+            "eng": "iron",
+            "rus": "железо"
+        },
+        {
+            "eng": "island",
+            "rus": "остров"
+        },
+        {
+            "eng": "issue",
+            "rus": "вопрос"
+        },
+        {
+            "eng": "item",
+            "rus": "пункт"
+        },
+        {
+            "eng": "jacket",
+            "rus": "куртка"
+        },
+        {
+            "eng": "jam",
+            "rus": "варенье"
+        },
+        {
+            "eng": "job",
+            "rus": "работа"
+        },
+        {
+            "eng": "joke",
+            "rus": "шутка"
+        },
+        {
+            "eng": "journalist",
+            "rus": "журналист"
+        },
+        {
+            "eng": "journey",
+            "rus": "поездка"
+        },
+        {
+            "eng": "joy",
+            "rus": "радость"
+        },
+        {
+            "eng": "judge",
+            "rus": "судья"
+        },
+        {
+            "eng": "judgment",
+            "rus": "суждение"
+        },
+        {
+            "eng": "juice",
+            "rus": "сок"
+        },
+        {
+            "eng": "jump",
+            "rus": "Прыгать"
+        },
+        {
+            "eng": "jumper",
+            "rus": "джемпер"
+        },
+        {
+            "eng": "jury",
+            "rus": "жюри"
+        },
+        {
+            "eng": "justice",
+            "rus": "справедливость"
+        },
+        {
+            "eng": "kettle",
+            "rus": "чайник"
+        },
+        {
+            "eng": "key",
+            "rus": "ключ"
+        },
+        {
+            "eng": "keyboard",
+            "rus": "клавиатура"
+        },
+        {
+            "eng": "kick",
+            "rus": "удар"
+        },
+        {
+            "eng": "kid",
+            "rus": "дитя"
+        },
+        {
+            "eng": "kilometre",
+            "rus": "километр"
+        },
+        {
+            "eng": "kind",
+            "rus": "своего рода"
+        },
+        {
+            "eng": "king",
+            "rus": "король"
+        },
+        {
+            "eng": "kit",
+            "rus": "Комплект"
+        },
+        {
+            "eng": "kitchen",
+            "rus": "кухня"
+        },
+        {
+            "eng": "knee",
+            "rus": "колено"
+        },
+        {
+            "eng": "knife",
+            "rus": "нож"
+        },
+        {
+            "eng": "knowledge",
+            "rus": "знание"
+        },
+        {
+            "eng": "lab",
+            "rus": "лаборатория"
+        },
+        {
+            "eng": "label",
+            "rus": "метка"
+        },
+        {
+            "eng": "laboratory",
+            "rus": "лаборатория"
+        },
+        {
+            "eng": "labour",
+            "rus": "труд, работа"
+        },
+        {
+            "eng": "lack",
+            "rus": "отсутствие"
+        },
+        {
+            "eng": "lad",
+            "rus": "парень"
+        },
+        {
+            "eng": "ladder",
+            "rus": "лестница"
+        },
+        {
+            "eng": "lady",
+            "rus": "леди"
+        },
+        {
+            "eng": "lake",
+            "rus": "озеро"
+        },
+        {
+            "eng": "lamb",
+            "rus": "ягненок"
+        },
+        {
+            "eng": "lamp",
+            "rus": "лампа"
+        },
+        {
+            "eng": "land",
+            "rus": "земельные участки"
+        },
+        {
+            "eng": "landlord",
+            "rus": "арендодатель"
+        },
+        {
+            "eng": "landscape",
+            "rus": "пейзаж"
+        },
+        {
+            "eng": "lane",
+            "rus": "полоса дороги"
+        },
+        {
+            "eng": "language",
+            "rus": "язык"
+        },
+        {
+            "eng": "last",
+            "rus": "последний"
+        },
+        {
+            "eng": "latter",
+            "rus": "последний"
+        },
+        {
+            "eng": "laugh",
+            "rus": "смех"
+        },
+        {
+            "eng": "law",
+            "rus": "закон"
+        },
+        {
+            "eng": "lawyer",
+            "rus": "адвокат"
+        },
+        {
+            "eng": "layer",
+            "rus": "слой"
+        },
+        {
+            "eng": "lead",
+            "rus": "вести"
+        },
+        {
+            "eng": "leader",
+            "rus": "лидер"
+        },
+        {
+            "eng": "leadership",
+            "rus": "руководство"
+        },
+        {
+            "eng": "leaf",
+            "rus": "лист"
+        },
+        {
+            "eng": "league",
+            "rus": "лига"
+        },
+        {
+            "eng": "leather",
+            "rus": "кожа"
+        },
+        {
+            "eng": "leave",
+            "rus": "оставлять"
+        },
+        {
+            "eng": "lecture",
+            "rus": "лекция"
+        },
+        {
+            "eng": "left",
+            "rus": "оставил"
+        },
+        {
+            "eng": "leg",
+            "rus": "ножка"
+        },
+        {
+            "eng": "legislation",
+            "rus": "законодательство"
+        },
+        {
+            "eng": "leisure",
+            "rus": "досуг"
+        },
+        {
+            "eng": "length",
+            "rus": "длина"
+        },
+        {
+            "eng": "lesson",
+            "rus": "урок"
+        },
+        {
+            "eng": "letter",
+            "rus": "письмо"
+        },
+        {
+            "eng": "level",
+            "rus": "уровень"
+        },
+        {
+            "eng": "library",
+            "rus": "библиотека"
+        },
+        {
+            "eng": "licence",
+            "rus": "лицензия"
+        },
+        {
+            "eng": "lid",
+            "rus": "крышка"
+        },
+        {
+            "eng": "lie",
+            "rus": "ложь"
+        },
+        {
+            "eng": "life",
+            "rus": "жизнь"
+        },
+        {
+            "eng": "lift",
+            "rus": "лифт"
+        },
+        {
+            "eng": "light",
+            "rus": "легкий"
+        },
+        {
+            "eng": "lighting",
+            "rus": "осветительные приборы"
+        },
+        {
+            "eng": "like",
+            "rus": "как"
+        },
+        {
+            "eng": "limit",
+            "rus": "предел"
+        },
+        {
+            "eng": "limitation",
+            "rus": "ограничение"
+        },
+        {
+            "eng": "line",
+            "rus": "линия"
+        },
+        {
+            "eng": "link",
+            "rus": "ссылка"
+        },
+        {
+            "eng": "lip",
+            "rus": "губа"
+        },
+        {
+            "eng": "liquid",
+            "rus": "жидкость"
+        },
+        {
+            "eng": "list",
+            "rus": "список"
+        },
+        {
+            "eng": "literature",
+            "rus": "литература"
+        },
+        {
+            "eng": "living",
+            "rus": "живой"
+        },
+        {
+            "eng": "load",
+            "rus": "нагрузка"
+        },
+        {
+            "eng": "loan",
+            "rus": "ссуда"
+        },
+        {
+            "eng": "location",
+            "rus": "место нахождения"
+        },
+        {
+            "eng": "lock",
+            "rus": "замок"
+        },
+        {
+            "eng": "log",
+            "rus": "журнал"
+        },
+        {
+            "eng": "look",
+            "rus": "смотреть"
+        },
+        {
+            "eng": "lord",
+            "rus": "господин"
+        },
+        {
+            "eng": "lorry",
+            "rus": "грузовой автомобиль"
+        },
+        {
+            "eng": "loss",
+            "rus": "потеря"
+        },
+        {
+            "eng": "lot",
+            "rus": "много"
+        },
+        {
+            "eng": "lounge",
+            "rus": "гостиная"
+        },
+        {
+            "eng": "love",
+            "rus": "люблю"
+        },
+        {
+            "eng": "lover",
+            "rus": "любовник"
+        },
+        {
+            "eng": "luck",
+            "rus": "везение"
+        },
+        {
+            "eng": "lump",
+            "rus": "кусковой"
+        },
+        {
+            "eng": "lunch",
+            "rus": "обед"
+        },
+        {
+            "eng": "lunchtime",
+            "rus": "время обеда"
+        },
+        {
+            "eng": "machine",
+            "rus": "машина"
+        },
+        {
+            "eng": "machinery",
+            "rus": "машины"
+        },
+        {
+            "eng": "madam",
+            "rus": "Госпожа"
+        },
+        {
+            "eng": "magazine",
+            "rus": "журнал"
+        },
+        {
+            "eng": "magic",
+            "rus": "магия"
+        },
+        {
+            "eng": "mail",
+            "rus": "почта"
+        },
+        {
+            "eng": "maintenance",
+            "rus": "поддержание"
+        },
+        {
+            "eng": "majority",
+            "rus": "большинство"
+        },
+        {
+            "eng": "male",
+            "rus": "мужской"
+        },
+        {
+            "eng": "mall",
+            "rus": "торговый центр"
+        },
+        {
+            "eng": "man",
+            "rus": "человек"
+        },
+        {
+            "eng": "management",
+            "rus": "управление"
+        },
+        {
+            "eng": "manager",
+            "rus": "менеджер"
+        },
+        {
+            "eng": "manner",
+            "rus": "манера"
+        },
+        {
+            "eng": "manufacturer",
+            "rus": "производитель"
+        },
+        {
+            "eng": "manufacturing",
+            "rus": "производство"
+        },
+        {
+            "eng": "map",
+            "rus": "карта"
+        },
+        {
+            "eng": "march",
+            "rus": "Март"
+        },
+        {
+            "eng": "margin",
+            "rus": "поле"
+        },
+        {
+            "eng": "mark",
+            "rus": "отметка"
+        },
+        {
+            "eng": "market",
+            "rus": "рынок"
+        },
+        {
+            "eng": "marketing",
+            "rus": "маркетинг"
+        },
+        {
+            "eng": "marriage",
+            "rus": "Брак, создание семьи"
+        },
+        {
+            "eng": "mass",
+            "rus": "масса"
+        },
+        {
+            "eng": "master",
+            "rus": "мастер"
+        },
+        {
+            "eng": "match",
+            "rus": "совпадение"
+        },
+        {
+            "eng": "mate",
+            "rus": "приятель"
+        },
+        {
+            "eng": "material",
+            "rus": "материал"
+        },
+        {
+            "eng": "math",
+            "rus": "математический"
+        },
+        {
+            "eng": "maths",
+            "rus": "математика"
+        },
+        {
+            "eng": "matter",
+            "rus": "дело"
+        },
+        {
+            "eng": "meal",
+            "rus": "еда"
+        },
+        {
+            "eng": "meaning",
+            "rus": "имея в виду"
+        },
+        {
+            "eng": "means",
+            "rus": "означает"
+        },
+        {
+            "eng": "measure",
+            "rus": "измерение"
+        },
+        {
+            "eng": "measurement",
+            "rus": "измерение"
+        },
+        {
+            "eng": "meat",
+            "rus": "мясо"
+        },
+        {
+            "eng": "mechanism",
+            "rus": "механизм"
+        },
+        {
+            "eng": "media",
+            "rus": "СМИ"
+        },
+        {
+            "eng": "medicine",
+            "rus": "лекарственное средство"
+        },
+        {
+            "eng": "meeting",
+            "rus": "встреча"
+        },
+        {
+            "eng": "member",
+            "rus": "член"
+        },
+        {
+            "eng": "membership",
+            "rus": "членство"
+        },
+        {
+            "eng": "memory",
+            "rus": "Память"
+        },
+        {
+            "eng": "menu",
+            "rus": "меню"
+        },
+        {
+            "eng": "mess",
+            "rus": "беспорядок"
+        },
+        {
+            "eng": "message",
+            "rus": "сообщение"
+        },
+        {
+            "eng": "metal",
+            "rus": "металл"
+        },
+        {
+            "eng": "method",
+            "rus": "метод"
+        },
+        {
+            "eng": "metre",
+            "rus": "метр"
+        },
+        {
+            "eng": "middle",
+            "rus": "средний"
+        },
+        {
+            "eng": "midnight",
+            "rus": "полночь"
+        },
+        {
+            "eng": "mile",
+            "rus": "мили"
+        },
+        {
+            "eng": "milk",
+            "rus": "молоко"
+        },
+        {
+            "eng": "millimetre",
+            "rus": "миллиметр"
+        },
+        {
+            "eng": "mind",
+            "rus": "разум"
+        },
+        {
+            "eng": "mine",
+            "rus": "мой"
+        },
+        {
+            "eng": "mineral",
+            "rus": "минеральная"
+        },
+        {
+            "eng": "minister",
+            "rus": "министр"
+        },
+        {
+            "eng": "ministry",
+            "rus": "министерство"
+        },
+        {
+            "eng": "minority",
+            "rus": "меньшинство"
+        },
+        {
+            "eng": "minute",
+            "rus": "минут"
+        },
+        {
+            "eng": "mirror",
+            "rus": "зеркало"
+        },
+        {
+            "eng": "misery",
+            "rus": "нищета"
+        },
+        {
+            "eng": "miss",
+            "rus": "Мисс"
+        },
+        {
+            "eng": "mission",
+            "rus": "миссия"
+        },
+        {
+            "eng": "mistake",
+            "rus": "ошибка"
+        },
+        {
+            "eng": "mixture",
+            "rus": "смесь"
+        },
+        {
+            "eng": "mobile",
+            "rus": "мобильный"
+        },
+        {
+            "eng": "mobile phone",
+            "rus": "мобильный телефон"
+        },
+        {
+            "eng": "mode",
+            "rus": "Режим"
+        },
+        {
+            "eng": "model",
+            "rus": "модель"
+        },
+        {
+            "eng": "mom",
+            "rus": "Мама"
+        },
+        {
+            "eng": "moment",
+            "rus": "момент"
+        },
+        {
+            "eng": "mommy",
+            "rus": "мамочка"
+        },
+        {
+            "eng": "money",
+            "rus": "Деньги"
+        },
+        {
+            "eng": "month",
+            "rus": "месяц"
+        },
+        {
+            "eng": "mood",
+            "rus": "настроение"
+        },
+        {
+            "eng": "moon",
+            "rus": "Луна"
+        },
+        {
+            "eng": "morning",
+            "rus": "утро"
+        },
+        {
+            "eng": "mortgage",
+            "rus": "ипотека"
+        },
+        {
+            "eng": "mother",
+            "rus": "мама"
+        },
+        {
+            "eng": "motion",
+            "rus": "движение"
+        },
+        {
+            "eng": "motor",
+            "rus": "двигатель"
+        },
+        {
+            "eng": "motorway",
+            "rus": "автомагистраль"
+        },
+        {
+            "eng": "mountain",
+            "rus": "гора"
+        },
+        {
+            "eng": "mouse",
+            "rus": "мышь"
+        },
+        {
+            "eng": "mouth",
+            "rus": "рот"
+        },
+        {
+            "eng": "move",
+            "rus": "переехать"
+        },
+        {
+            "eng": "movement",
+            "rus": "движение"
+        },
+        {
+            "eng": "movie",
+            "rus": "кино"
+        },
+        {
+            "eng": "mud",
+            "rus": "грязи"
+        },
+        {
+            "eng": "mum",
+            "rus": "мама"
+        },
+        {
+            "eng": "mummy",
+            "rus": "Мама"
+        },
+        {
+            "eng": "murder",
+            "rus": "убийство"
+        },
+        {
+            "eng": "muscle",
+            "rus": "мускул"
+        },
+        {
+            "eng": "museum",
+            "rus": "музей"
+        },
+        {
+            "eng": "mushroom",
+            "rus": "гриб"
+        },
+        {
+            "eng": "music",
+            "rus": "Музыка"
+        },
+        {
+            "eng": "mystery",
+            "rus": "тайна"
+        },
+        {
+            "eng": "nail",
+            "rus": "гвоздь"
+        },
+        {
+            "eng": "name",
+            "rus": "имя"
+        },
+        {
+            "eng": "nation",
+            "rus": "нация"
+        },
+        {
+            "eng": "nature",
+            "rus": "природа"
+        },
+        {
+            "eng": "neck",
+            "rus": "шея"
+        },
+        {
+            "eng": "need",
+            "rus": "необходимость"
+        },
+        {
+            "eng": "negotiation",
+            "rus": "Переговоры"
+        },
+        {
+            "eng": "neighbour",
+            "rus": "сосед"
+        },
+        {
+            "eng": "neighbourhood",
+            "rus": "окрестности"
+        },
+        {
+            "eng": "nerve",
+            "rus": "нерв"
+        },
+        {
+            "eng": "net",
+            "rus": "сеть"
+        },
+        {
+            "eng": "network",
+            "rus": "сеть"
+        },
+        {
+            "eng": "news",
+            "rus": "Новости"
+        },
+        {
+            "eng": "newspaper",
+            "rus": "газета"
+        },
+        {
+            "eng": "night",
+            "rus": "ночь"
+        },
+        {
+            "eng": "nil",
+            "rus": "ноль"
+        },
+        {
+            "eng": "noise",
+            "rus": "шум"
+        },
+        {
+            "eng": "nonsense",
+            "rus": "бред какой то"
+        },
+        {
+            "eng": "north",
+            "rus": "север"
+        },
+        {
+            "eng": "nose",
+            "rus": "нос"
+        },
+        {
+            "eng": "note",
+            "rus": "заметка"
+        },
+        {
+            "eng": "notice",
+            "rus": "уведомление"
+        },
+        {
+            "eng": "notion",
+            "rus": "понятие"
+        },
+        {
+            "eng": "novel",
+            "rus": "роман"
+        },
+        {
+            "eng": "nuisance",
+            "rus": "неприятность"
+        },
+        {
+            "eng": "number",
+            "rus": "номер"
+        },
+        {
+            "eng": "nurse",
+            "rus": "медсестра"
+        },
+        {
+            "eng": "nut",
+            "rus": "орех"
+        },
+        {
+            "eng": "object",
+            "rus": "объект"
+        },
+        {
+            "eng": "objection",
+            "rus": "возражение"
+        },
+        {
+            "eng": "objective",
+            "rus": "задача"
+        },
+        {
+            "eng": "obligation",
+            "rus": "обязательство"
+        },
+        {
+            "eng": "observation",
+            "rus": "наблюдение"
+        },
+        {
+            "eng": "occasion",
+            "rus": "повод"
+        },
+        {
+            "eng": "occupation",
+            "rus": "занятие"
+        },
+        {
+            "eng": "ocean",
+            "rus": "океан"
+        },
+        {
+            "eng": "odds",
+            "rus": "шансы"
+        },
+        {
+            "eng": "offence",
+            "rus": "преступление"
+        },
+        {
+            "eng": "offer",
+            "rus": "предлагает"
+        },
+        {
+            "eng": "office",
+            "rus": "офис"
+        },
+        {
+            "eng": "officer",
+            "rus": "сотрудник"
+        },
+        {
+            "eng": "official",
+            "rus": "официальный"
+        },
+        {
+            "eng": "oil",
+            "rus": "масло"
+        },
+        {
+            "eng": "onion",
+            "rus": "лук"
+        },
+        {
+            "eng": "opening",
+            "rus": "открытие"
+        },
+        {
+            "eng": "operation",
+            "rus": "операция"
+        },
+        {
+            "eng": "operator",
+            "rus": "оператор"
+        },
+        {
+            "eng": "opinion",
+            "rus": "мнение"
+        },
+        {
+            "eng": "opponent",
+            "rus": "противник"
+        },
+        {
+            "eng": "opportunity",
+            "rus": "возможность"
+        },
+        {
+            "eng": "opposition",
+            "rus": "оппозиция"
+        },
+        {
+            "eng": "option",
+            "rus": "вариант"
+        },
+        {
+            "eng": "orange",
+            "rus": "оранжевый"
+        },
+        {
+            "eng": "order",
+            "rus": "заказ"
+        },
+        {
+            "eng": "organ",
+            "rus": "орган"
+        },
+        {
+            "eng": "organization",
+            "rus": "организация"
+        },
+        {
+            "eng": "origin",
+            "rus": "происхождения"
+        },
+        {
+            "eng": "ounce",
+            "rus": "унция"
+        },
+        {
+            "eng": "outcome",
+            "rus": "исход"
+        },
+        {
+            "eng": "output",
+            "rus": "вывод"
+        },
+        {
+            "eng": "outside",
+            "rus": "за пределами"
+        },
+        {
+            "eng": "oven",
+            "rus": "духовой шкаф"
+        },
+        {
+            "eng": "overtime",
+            "rus": "со временем"
+        },
+        {
+            "eng": "owner",
+            "rus": "владелец"
+        },
+        {
+            "eng": "ownership",
+            "rus": "владение"
+        },
+        {
+            "eng": "pace",
+            "rus": "темп"
+        },
+        {
+            "eng": "pack",
+            "rus": "пак"
+        },
+        {
+            "eng": "package",
+            "rus": "пакет"
+        },
+        {
+            "eng": "packet",
+            "rus": "пакет"
+        },
+        {
+            "eng": "pad",
+            "rus": "подушечка"
+        },
+        {
+            "eng": "page",
+            "rus": "страница"
+        },
+        {
+            "eng": "pain",
+            "rus": "боль"
+        },
+        {
+            "eng": "paint",
+            "rus": "покрасить"
+        },
+        {
+            "eng": "painting",
+            "rus": "картина"
+        },
+        {
+            "eng": "pair",
+            "rus": "пара"
+        },
+        {
+            "eng": "palace",
+            "rus": "дворец"
+        },
+        {
+            "eng": "pan",
+            "rus": "кастрюля"
+        },
+        {
+            "eng": "panel",
+            "rus": "панель"
+        },
+        {
+            "eng": "panic",
+            "rus": "паника"
+        },
+        {
+            "eng": "pants",
+            "rus": "брюки"
+        },
+        {
+            "eng": "paper",
+            "rus": "бумага"
+        },
+        {
+            "eng": "parcel",
+            "rus": "пакет"
+        },
+        {
+            "eng": "parent",
+            "rus": "родитель"
+        },
+        {
+            "eng": "park",
+            "rus": "парк"
+        },
+        {
+            "eng": "parking",
+            "rus": "стоянка"
+        },
+        {
+            "eng": "parliament",
+            "rus": "парламент"
+        },
+        {
+            "eng": "part",
+            "rus": "часть"
+        },
+        {
+            "eng": "partner",
+            "rus": "партнер"
+        },
+        {
+            "eng": "partnership",
+            "rus": "партнерство"
+        },
+        {
+            "eng": "party",
+            "rus": "вечеринка"
+        },
+        {
+            "eng": "pass",
+            "rus": "проходить"
+        },
+        {
+            "eng": "passage",
+            "rus": "прохождение"
+        },
+        {
+            "eng": "passenger",
+            "rus": "пассажир"
+        },
+        {
+            "eng": "passion",
+            "rus": "страсть"
+        },
+        {
+            "eng": "past",
+            "rus": "мимо"
+        },
+        {
+            "eng": "path",
+            "rus": "дорожка"
+        },
+        {
+            "eng": "patience",
+            "rus": "терпение"
+        },
+        {
+            "eng": "patient",
+            "rus": "пациент"
+        },
+        {
+            "eng": "pattern",
+            "rus": "шаблон"
+        },
+        {
+            "eng": "pay",
+            "rus": "платить"
+        },
+        {
+            "eng": "payment",
+            "rus": "оплата"
+        },
+        {
+            "eng": "peace",
+            "rus": "мир"
+        },
+        {
+            "eng": "peak",
+            "rus": "вершина горы"
+        },
+        {
+            "eng": "pen",
+            "rus": "ручка"
+        },
+        {
+            "eng": "penalty",
+            "rus": "штраф"
+        },
+        {
+            "eng": "pencil",
+            "rus": "карандаш"
+        },
+        {
+            "eng": "penny",
+            "rus": "пенни"
+        },
+        {
+            "eng": "pension",
+            "rus": "пенсия"
+        },
+        {
+            "eng": "people",
+            "rus": "люди"
+        },
+        {
+            "eng": "pepper",
+            "rus": "перец"
+        },
+        {
+            "eng": "percent",
+            "rus": "процент"
+        },
+        {
+            "eng": "percentage",
+            "rus": "процент"
+        },
+        {
+            "eng": "perception",
+            "rus": "восприятие"
+        },
+        {
+            "eng": "performance",
+            "rus": "представление"
+        },
+        {
+            "eng": "period",
+            "rus": "период"
+        },
+        {
+            "eng": "permission",
+            "rus": "разрешение"
+        },
+        {
+            "eng": "person",
+            "rus": "человек"
+        },
+        {
+            "eng": "personality",
+            "rus": "личность"
+        },
+        {
+            "eng": "personnel",
+            "rus": "персонал"
+        },
+        {
+            "eng": "perspective",
+            "rus": "перспективы"
+        },
+        {
+            "eng": "petrol",
+            "rus": "бензин"
+        },
+        {
+            "eng": "phase",
+            "rus": "фаза"
+        },
+        {
+            "eng": "philosophy",
+            "rus": "философия"
+        },
+        {
+            "eng": "phone",
+            "rus": "Телефон"
+        },
+        {
+            "eng": "photo",
+            "rus": "Фото"
+        },
+        {
+            "eng": "photocopy",
+            "rus": "фотокопия"
+        },
+        {
+            "eng": "photograph",
+            "rus": "фотография"
+        },
+        {
+            "eng": "phrase",
+            "rus": "фраза"
+        },
+        {
+            "eng": "physics",
+            "rus": "физика"
+        },
+        {
+            "eng": "piano",
+            "rus": "пианино"
+        },
+        {
+            "eng": "picture",
+            "rus": "картина"
+        },
+        {
+            "eng": "pie",
+            "rus": "пирог"
+        },
+        {
+            "eng": "piece",
+            "rus": "кусок"
+        },
+        {
+            "eng": "pig",
+            "rus": "свинья"
+        },
+        {
+            "eng": "pile",
+            "rus": "свая"
+        },
+        {
+            "eng": "pill",
+            "rus": "пилюля"
+        },
+        {
+            "eng": "pilot",
+            "rus": "пилот"
+        },
+        {
+            "eng": "pin",
+            "rus": "штырь"
+        },
+        {
+            "eng": "pint",
+            "rus": "пинта"
+        },
+        {
+            "eng": "pipe",
+            "rus": "труба"
+        },
+        {
+            "eng": "pitch",
+            "rus": "подача"
+        },
+        {
+            "eng": "pity",
+            "rus": "жалость"
+        },
+        {
+            "eng": "pizza",
+            "rus": "пицца"
+        },
+        {
+            "eng": "place",
+            "rus": "место"
+        },
+        {
+            "eng": "plan",
+            "rus": "план"
+        },
+        {
+            "eng": "plane",
+            "rus": "самолет"
+        },
+        {
+            "eng": "planet",
+            "rus": "планета"
+        },
+        {
+            "eng": "plant",
+            "rus": "растение"
+        },
+        {
+            "eng": "plastic",
+            "rus": "пластик"
+        },
+        {
+            "eng": "plate",
+            "rus": "пластина"
+        },
+        {
+            "eng": "platform",
+            "rus": "Платформа"
+        },
+        {
+            "eng": "play",
+            "rus": "играть"
+        },
+        {
+            "eng": "player",
+            "rus": "игрок"
+        },
+        {
+            "eng": "pleasure",
+            "rus": "удовольствие"
+        },
+        {
+            "eng": "plot",
+            "rus": "сюжет"
+        },
+        {
+            "eng": "plug",
+            "rus": "штепсель"
+        },
+        {
+            "eng": "pocket",
+            "rus": "карман"
+        },
+        {
+            "eng": "poem",
+            "rus": "стих"
+        },
+        {
+            "eng": "poet",
+            "rus": "поэт"
+        },
+        {
+            "eng": "poetry",
+            "rus": "поэзия"
+        },
+        {
+            "eng": "point",
+            "rus": "точка"
+        },
+        {
+            "eng": "pole",
+            "rus": "столб"
+        },
+        {
+            "eng": "police",
+            "rus": "полиция"
+        },
+        {
+            "eng": "policeman",
+            "rus": "полицейский"
+        },
+        {
+            "eng": "policy",
+            "rus": "политика"
+        },
+        {
+            "eng": "politician",
+            "rus": "политик"
+        },
+        {
+            "eng": "politics",
+            "rus": "политика"
+        },
+        {
+            "eng": "poll",
+            "rus": "голосование"
+        },
+        {
+            "eng": "pollution",
+            "rus": "загрязнение"
+        },
+        {
+            "eng": "pond",
+            "rus": "пруд"
+        },
+        {
+            "eng": "pool",
+            "rus": "бассейн"
+        },
+        {
+            "eng": "pop",
+            "rus": "поп"
+        },
+        {
+            "eng": "population",
+            "rus": "Население"
+        },
+        {
+            "eng": "port",
+            "rus": "порт"
+        },
+        {
+            "eng": "position",
+            "rus": "должность"
+        },
+        {
+            "eng": "possession",
+            "rus": "владение"
+        },
+        {
+            "eng": "possibility",
+            "rus": "возможность"
+        },
+        {
+            "eng": "post",
+            "rus": "после"
+        },
+        {
+            "eng": "post office",
+            "rus": "Почта"
+        },
+        {
+            "eng": "poster",
+            "rus": "плакат"
+        },
+        {
+            "eng": "pot",
+            "rus": "горшок"
+        },
+        {
+            "eng": "potato",
+            "rus": "картошка"
+        },
+        {
+            "eng": "potential",
+            "rus": "потенциал"
+        },
+        {
+            "eng": "pound",
+            "rus": "фунт"
+        },
+        {
+            "eng": "poverty",
+            "rus": "бедность"
+        },
+        {
+            "eng": "power",
+            "rus": "мощность"
+        },
+        {
+            "eng": "practice",
+            "rus": "практика"
+        },
+        {
+            "eng": "praise",
+            "rus": "хвалить"
+        },
+        {
+            "eng": "prayer",
+            "rus": "молитва"
+        },
+        {
+            "eng": "preference",
+            "rus": "предпочтение"
+        },
+        {
+            "eng": "premise",
+            "rus": "предпосылка"
+        },
+        {
+            "eng": "preparation",
+            "rus": "подготовка"
+        },
+        {
+            "eng": "presence",
+            "rus": "присутствие"
+        },
+        {
+            "eng": "present",
+            "rus": "настоящее время"
+        },
+        {
+            "eng": "presentation",
+            "rus": "презентация"
+        },
+        {
+            "eng": "president",
+            "rus": "президент"
+        },
+        {
+            "eng": "press",
+            "rus": "Нажмите"
+        },
+        {
+            "eng": "pressure",
+            "rus": "давление"
+        },
+        {
+            "eng": "price",
+            "rus": "цена"
+        },
+        {
+            "eng": "pride",
+            "rus": "гордость"
+        },
+        {
+            "eng": "priest",
+            "rus": "священник"
+        },
+        {
+            "eng": "prince",
+            "rus": "принц"
+        },
+        {
+            "eng": "princess",
+            "rus": "принцесса"
+        },
+        {
+            "eng": "principle",
+            "rus": "принцип"
+        },
+        {
+            "eng": "print",
+            "rus": "Распечатать"
+        },
+        {
+            "eng": "printer",
+            "rus": "принтер"
+        },
+        {
+            "eng": "priority",
+            "rus": "приоритет"
+        },
+        {
+            "eng": "prison",
+            "rus": "тюрьма"
+        },
+        {
+            "eng": "prisoner",
+            "rus": "заключенный"
+        },
+        {
+            "eng": "privilege",
+            "rus": "привилегия"
+        },
+        {
+            "eng": "prize",
+            "rus": "приз"
+        },
+        {
+            "eng": "problem",
+            "rus": "проблема"
+        },
+        {
+            "eng": "procedure",
+            "rus": "процедура"
+        },
+        {
+            "eng": "proceeding",
+            "rus": "судопроизводство"
+        },
+        {
+            "eng": "process",
+            "rus": "обработать"
+        },
+        {
+            "eng": "producer",
+            "rus": "режиссер"
+        },
+        {
+            "eng": "product",
+            "rus": "продукт"
+        },
+        {
+            "eng": "production",
+            "rus": "производство"
+        },
+        {
+            "eng": "profession",
+            "rus": "профессия"
+        },
+        {
+            "eng": "professional",
+            "rus": "профессиональный"
+        },
+        {
+            "eng": "professor",
+            "rus": "профессор"
+        },
+        {
+            "eng": "profile",
+            "rus": "профиль"
+        },
+        {
+            "eng": "profit",
+            "rus": "прибыль"
+        },
+        {
+            "eng": "program",
+            "rus": "программа"
+        },
+        {
+            "eng": "programme",
+            "rus": "программа"
+        },
+        {
+            "eng": "progress",
+            "rus": "прогресс"
+        },
+        {
+            "eng": "project",
+            "rus": "проект"
+        },
+        {
+            "eng": "promise",
+            "rus": "обещание"
+        },
+        {
+            "eng": "promotion",
+            "rus": "продвижение"
+        },
+        {
+            "eng": "proof",
+            "rus": "доказательство"
+        },
+        {
+            "eng": "property",
+            "rus": "имущество"
+        },
+        {
+            "eng": "proportion",
+            "rus": "доля"
+        },
+        {
+            "eng": "proposal",
+            "rus": "предложение"
+        },
+        {
+            "eng": "prosecution",
+            "rus": "судебное преследование"
+        },
+        {
+            "eng": "prospect",
+            "rus": "перспектива"
+        },
+        {
+            "eng": "protection",
+            "rus": "защита"
+        },
+        {
+            "eng": "protest",
+            "rus": "акция протеста"
+        },
+        {
+            "eng": "provision",
+            "rus": "обеспечение"
+        },
+        {
+            "eng": "psychology",
+            "rus": "психология"
+        },
+        {
+            "eng": "pub",
+            "rus": "паб"
+        },
+        {
+            "eng": "public",
+            "rus": "общественности"
+        },
+        {
+            "eng": "publication",
+            "rus": "публикация"
+        },
+        {
+            "eng": "publicity",
+            "rus": "публичность"
+        },
+        {
+            "eng": "publisher",
+            "rus": "издатель"
+        },
+        {
+            "eng": "pudding",
+            "rus": "пудинг"
+        },
+        {
+            "eng": "punishment",
+            "rus": "наказание"
+        },
+        {
+            "eng": "pupil",
+            "rus": "ученик"
+        },
+        {
+            "eng": "purchase",
+            "rus": "покупка"
+        },
+        {
+            "eng": "purpose",
+            "rus": "цель"
+        },
+        {
+            "eng": "purse",
+            "rus": "кошелек"
+        },
+        {
+            "eng": "qualification",
+            "rus": "квалификация"
+        },
+        {
+            "eng": "quality",
+            "rus": "качественный"
+        },
+        {
+            "eng": "quantity",
+            "rus": "количество"
+        },
+        {
+            "eng": "quarter",
+            "rus": "четверть"
+        },
+        {
+            "eng": "queen",
+            "rus": "Королева"
+        },
+        {
+            "eng": "question",
+            "rus": "вопрос"
+        },
+        {
+            "eng": "queue",
+            "rus": "очередь"
+        },
+        {
+            "eng": "quid",
+            "rus": "Quid"
+        },
+        {
+            "eng": "quote",
+            "rus": "котировка"
+        },
+        {
+            "eng": "race",
+            "rus": "раса"
+        },
+        {
+            "eng": "racing",
+            "rus": "гоночный"
+        },
+        {
+            "eng": "radio",
+            "rus": "радио"
+        },
+        {
+            "eng": "rail",
+            "rus": "рельс"
+        },
+        {
+            "eng": "railway",
+            "rus": "Железнодорожный"
+        },
+        {
+            "eng": "rain",
+            "rus": "дождь"
+        },
+        {
+            "eng": "range",
+            "rus": "ассортимент"
+        },
+        {
+            "eng": "rank",
+            "rus": "ранг"
+        },
+        {
+            "eng": "rate",
+            "rus": "ставка"
+        },
+        {
+            "eng": "ratio",
+            "rus": "соотношение"
+        },
+        {
+            "eng": "reaction",
+            "rus": "реакция"
+        },
+        {
+            "eng": "reader",
+            "rus": "читатель"
+        },
+        {
+            "eng": "reading",
+            "rus": "чтение"
+        },
+        {
+            "eng": "reality",
+            "rus": "реальность"
+        },
+        {
+            "eng": "reason",
+            "rus": "причина"
+        },
+        {
+            "eng": "receipt",
+            "rus": "квитанция"
+        },
+        {
+            "eng": "reception",
+            "rus": "прием"
+        },
+        {
+            "eng": "recipe",
+            "rus": "рецепт"
+        },
+        {
+            "eng": "recognition",
+            "rus": "признание"
+        },
+        {
+            "eng": "recommendation",
+            "rus": "рекомендация"
+        },
+        {
+            "eng": "record",
+            "rus": "запись"
+        },
+        {
+            "eng": "recording",
+            "rus": "запись"
+        },
+        {
+            "eng": "recovery",
+            "rus": "восстановление"
+        },
+        {
+            "eng": "reduction",
+            "rus": "сокращение"
+        },
+        {
+            "eng": "reference",
+            "rus": "Справка"
+        },
+        {
+            "eng": "reflection",
+            "rus": "отражение"
+        },
+        {
+            "eng": "reform",
+            "rus": "реформа"
+        },
+        {
+            "eng": "refrigerator",
+            "rus": "холодильник"
+        },
+        {
+            "eng": "regard",
+            "rus": "что касается"
+        },
+        {
+            "eng": "regime",
+            "rus": "режим"
+        },
+        {
+            "eng": "region",
+            "rus": "область"
+        },
+        {
+            "eng": "registration",
+            "rus": "постановка на учет"
+        },
+        {
+            "eng": "regulation",
+            "rus": "регулирование"
+        },
+        {
+            "eng": "relation",
+            "rus": "связь"
+        },
+        {
+            "eng": "relationship",
+            "rus": "отношения"
+        },
+        {
+            "eng": "relative",
+            "rus": "относительный"
+        },
+        {
+            "eng": "release",
+            "rus": "выпуск"
+        },
+        {
+            "eng": "relief",
+            "rus": "облегчение"
+        },
+        {
+            "eng": "religion",
+            "rus": "религия"
+        },
+        {
+            "eng": "remains",
+            "rus": "остатки"
+        },
+        {
+            "eng": "remark",
+            "rus": "замечание"
+        },
+        {
+            "eng": "rent",
+            "rus": "аренда"
+        },
+        {
+            "eng": "repair",
+            "rus": "ремонт"
+        },
+        {
+            "eng": "replacement",
+            "rus": "замена"
+        },
+        {
+            "eng": "reply",
+            "rus": "Ответить"
+        },
+        {
+            "eng": "report",
+            "rus": "доклад"
+        },
+        {
+            "eng": "reporter",
+            "rus": "репортер"
+        },
+        {
+            "eng": "representation",
+            "rus": "представление"
+        },
+        {
+            "eng": "representative",
+            "rus": "представитель"
+        },
+        {
+            "eng": "republic",
+            "rus": "республика"
+        },
+        {
+            "eng": "reputation",
+            "rus": "репутации"
+        },
+        {
+            "eng": "request",
+            "rus": "запрос"
+        },
+        {
+            "eng": "requirement",
+            "rus": "требование"
+        },
+        {
+            "eng": "research",
+            "rus": "исследование"
+        },
+        {
+            "eng": "reserve",
+            "rus": "резерв"
+        },
+        {
+            "eng": "resident",
+            "rus": "резидент"
+        },
+        {
+            "eng": "resignation",
+            "rus": "отставка"
+        },
+        {
+            "eng": "resistance",
+            "rus": "сопротивление"
+        },
+        {
+            "eng": "resolution",
+            "rus": "разрешающая способность"
+        },
+        {
+            "eng": "resort",
+            "rus": "курорт"
+        },
+        {
+            "eng": "resource",
+            "rus": "ресурс"
+        },
+        {
+            "eng": "respect",
+            "rus": "уважение"
+        },
+        {
+            "eng": "response",
+            "rus": "ответ"
+        },
+        {
+            "eng": "responsibility",
+            "rus": "обязанность"
+        },
+        {
+            "eng": "rest",
+            "rus": "отдых"
+        },
+        {
+            "eng": "restaurant",
+            "rus": "ресторан"
+        },
+        {
+            "eng": "restriction",
+            "rus": "ограничение"
+        },
+        {
+            "eng": "result",
+            "rus": "результат"
+        },
+        {
+            "eng": "retirement",
+            "rus": "выход на пенсию"
+        },
+        {
+            "eng": "return",
+            "rus": "вернуть"
+        },
+        {
+            "eng": "revenue",
+            "rus": "доход"
+        },
+        {
+            "eng": "review",
+            "rus": "обзор"
+        },
+        {
+            "eng": "revolution",
+            "rus": "революция"
+        },
+        {
+            "eng": "reward",
+            "rus": "награда"
+        },
+        {
+            "eng": "rhythm",
+            "rus": "ритм"
+        },
+        {
+            "eng": "rice",
+            "rus": "рис"
+        },
+        {
+            "eng": "ride",
+            "rus": "поездка"
+        },
+        {
+            "eng": "right",
+            "rus": "правильно"
+        },
+        {
+            "eng": "ring",
+            "rus": "кольцо"
+        },
+        {
+            "eng": "rise",
+            "rus": "подъем"
+        },
+        {
+            "eng": "risk",
+            "rus": "риск"
+        },
+        {
+            "eng": "rival",
+            "rus": "соперник"
+        },
+        {
+            "eng": "river",
+            "rus": "река"
+        },
+        {
+            "eng": "road",
+            "rus": "Дорога"
+        },
+        {
+            "eng": "rock",
+            "rus": "камень"
+        },
+        {
+            "eng": "role",
+            "rus": "роль"
+        },
+        {
+            "eng": "roof",
+            "rus": "крыша"
+        },
+        {
+            "eng": "room",
+            "rus": "комната"
+        },
+        {
+            "eng": "root",
+            "rus": "корень"
+        },
+        {
+            "eng": "rope",
+            "rus": "веревка"
+        },
+        {
+            "eng": "round",
+            "rus": "круглый"
+        },
+        {
+            "eng": "route",
+            "rus": "маршрут"
+        },
+        {
+            "eng": "routine",
+            "rus": "рутинный"
+        },
+        {
+            "eng": "row",
+            "rus": "ряд"
+        },
+        {
+            "eng": "rubber",
+            "rus": "ластик"
+        },
+        {
+            "eng": "rubbish",
+            "rus": "мусор"
+        },
+        {
+            "eng": "rule",
+            "rus": "правило"
+        },
+        {
+            "eng": "sack",
+            "rus": "мешок"
+        },
+        {
+            "eng": "safety",
+            "rus": "безопасность"
+        },
+        {
+            "eng": "sake",
+            "rus": "ради"
+        },
+        {
+            "eng": "salad",
+            "rus": "салат"
+        },
+        {
+            "eng": "salary",
+            "rus": "зарплата"
+        },
+        {
+            "eng": "sale",
+            "rus": "продажа"
+        },
+        {
+            "eng": "salt",
+            "rus": "поваренная соль"
+        },
+        {
+            "eng": "sample",
+            "rus": "образец"
+        },
+        {
+            "eng": "sand",
+            "rus": "песок"
+        },
+        {
+            "eng": "sandwich",
+            "rus": "сэндвич"
+        },
+        {
+            "eng": "satellite",
+            "rus": "спутник"
+        },
+        {
+            "eng": "satisfaction",
+            "rus": "удовлетворение"
+        },
+        {
+            "eng": "sauce",
+            "rus": "соус"
+        },
+        {
+            "eng": "sausage",
+            "rus": "колбаса"
+        },
+        {
+            "eng": "saving",
+            "rus": "экономия"
+        },
+        {
+            "eng": "scale",
+            "rus": "масштаб"
+        },
+        {
+            "eng": "scene",
+            "rus": "место действия"
+        },
+        {
+            "eng": "schedule",
+            "rus": "график"
+        },
+        {
+            "eng": "scheme",
+            "rus": "схема"
+        },
+        {
+            "eng": "school",
+            "rus": "школа"
+        },
+        {
+            "eng": "science",
+            "rus": "наука"
+        },
+        {
+            "eng": "scientist",
+            "rus": "ученый"
+        },
+        {
+            "eng": "scope",
+            "rus": "объем"
+        },
+        {
+            "eng": "score",
+            "rus": "Гол"
+        },
+        {
+            "eng": "screen",
+            "rus": "экран"
+        },
+        {
+            "eng": "screw",
+            "rus": "винт"
+        },
+        {
+            "eng": "script",
+            "rus": "скрипт"
+        },
+        {
+            "eng": "sea",
+            "rus": "море"
+        },
+        {
+            "eng": "seal",
+            "rus": "печать"
+        },
+        {
+            "eng": "search",
+            "rus": "поиск"
+        },
+        {
+            "eng": "season",
+            "rus": "время года"
+        },
+        {
+            "eng": "seat",
+            "rus": "сиденье"
+        },
+        {
+            "eng": "second",
+            "rus": "второй"
+        },
+        {
+            "eng": "secret",
+            "rus": "секрет"
+        },
+        {
+            "eng": "secretary",
+            "rus": "секретарь"
+        },
+        {
+            "eng": "section",
+            "rus": "раздел"
+        },
+        {
+            "eng": "sector",
+            "rus": "сектор"
+        },
+        {
+            "eng": "security",
+            "rus": "безопасность"
+        },
+        {
+            "eng": "seed",
+            "rus": "семя"
+        },
+        {
+            "eng": "selection",
+            "rus": "выбор"
+        },
+        {
+            "eng": "self",
+            "rus": "сам"
+        },
+        {
+            "eng": "sense",
+            "rus": "смысл"
+        },
+        {
+            "eng": "sentence",
+            "rus": "предложение"
+        },
+        {
+            "eng": "sequence",
+            "rus": "последовательность"
+        },
+        {
+            "eng": "series",
+            "rus": "серии"
+        },
+        {
+            "eng": "servant",
+            "rus": "служащий"
+        },
+        {
+            "eng": "service",
+            "rus": "оказание услуг"
+        },
+        {
+            "eng": "session",
+            "rus": "сессия"
+        },
+        {
+            "eng": "set",
+            "rus": "задавать"
+        },
+        {
+            "eng": "setting",
+            "rus": "установка"
+        },
+        {
+            "eng": "settlement",
+            "rus": "поселок"
+        },
+        {
+            "eng": "sex",
+            "rus": "секс"
+        },
+        {
+            "eng": "shadow",
+            "rus": "тень"
+        },
+        {
+            "eng": "shame",
+            "rus": "позор"
+        },
+        {
+            "eng": "shape",
+            "rus": "форма"
+        },
+        {
+            "eng": "share",
+            "rus": "доля"
+        },
+        {
+            "eng": "shed",
+            "rus": "сарай"
+        },
+        {
+            "eng": "sheep",
+            "rus": "овца"
+        },
+        {
+            "eng": "sheet",
+            "rus": "лист"
+        },
+        {
+            "eng": "shelf",
+            "rus": "полка"
+        },
+        {
+            "eng": "shell",
+            "rus": "оболочка"
+        },
+        {
+            "eng": "shelter",
+            "rus": "укрытие"
+        },
+        {
+            "eng": "ship",
+            "rus": "корабль"
+        },
+        {
+            "eng": "shirt",
+            "rus": "Рубашка"
+        },
+        {
+            "eng": "shock",
+            "rus": "шок"
+        },
+        {
+            "eng": "shoe",
+            "rus": "башмак"
+        },
+        {
+            "eng": "shop",
+            "rus": "магазин"
+        },
+        {
+            "eng": "shopping",
+            "rus": "поход по магазинам"
+        },
+        {
+            "eng": "shot",
+            "rus": "выстрел"
+        },
+        {
+            "eng": "shoulder",
+            "rus": "плечо"
+        },
+        {
+            "eng": "show",
+            "rus": "показать"
+        },
+        {
+            "eng": "shower",
+            "rus": "душ"
+        },
+        {
+            "eng": "side",
+            "rus": "боковая сторона"
+        },
+        {
+            "eng": "sight",
+            "rus": "взгляд"
+        },
+        {
+            "eng": "sign",
+            "rus": "знак"
+        },
+        {
+            "eng": "signal",
+            "rus": "сигнал"
+        },
+        {
+            "eng": "signature",
+            "rus": "подпись"
+        },
+        {
+            "eng": "significance",
+            "rus": "значение"
+        },
+        {
+            "eng": "silence",
+            "rus": "тишина"
+        },
+        {
+            "eng": "silver",
+            "rus": "Серебряный"
+        },
+        {
+            "eng": "sin",
+            "rus": "грех"
+        },
+        {
+            "eng": "singer",
+            "rus": "певец"
+        },
+        {
+            "eng": "sink",
+            "rus": "раковина"
+        },
+        {
+            "eng": "sir",
+            "rus": "сэр"
+        },
+        {
+            "eng": "sister",
+            "rus": "сестра"
+        },
+        {
+            "eng": "site",
+            "rus": "сайт"
+        },
+        {
+            "eng": "situation",
+            "rus": "ситуация"
+        },
+        {
+            "eng": "size",
+            "rus": "размер"
+        },
+        {
+            "eng": "skill",
+            "rus": "умение"
+        },
+        {
+            "eng": "skin",
+            "rus": "кожа"
+        },
+        {
+            "eng": "skirt",
+            "rus": "юбка"
+        },
+        {
+            "eng": "sky",
+            "rus": "небо"
+        },
+        {
+            "eng": "sleep",
+            "rus": "спать"
+        },
+        {
+            "eng": "slice",
+            "rus": "кусочек"
+        },
+        {
+            "eng": "slide",
+            "rus": "горка"
+        },
+        {
+            "eng": "slip",
+            "rus": "слип"
+        },
+        {
+            "eng": "slope",
+            "rus": "скат"
+        },
+        {
+            "eng": "smell",
+            "rus": "запах"
+        },
+        {
+            "eng": "smile",
+            "rus": "улыбка"
+        },
+        {
+            "eng": "smoke",
+            "rus": "дым"
+        },
+        {
+            "eng": "smoking",
+            "rus": "курение"
+        },
+        {
+            "eng": "snow",
+            "rus": "снег"
+        },
+        {
+            "eng": "soap",
+            "rus": "мыло"
+        },
+        {
+            "eng": "society",
+            "rus": "общество"
+        },
+        {
+            "eng": "sock",
+            "rus": "носок"
+        },
+        {
+            "eng": "software",
+            "rus": "программного обеспечения"
+        },
+        {
+            "eng": "soil",
+            "rus": "почва"
+        },
+        {
+            "eng": "soldier",
+            "rus": "солдат"
+        },
+        {
+            "eng": "solicitor",
+            "rus": "стряпчий"
+        },
+        {
+            "eng": "solution",
+            "rus": "решение"
+        },
+        {
+            "eng": "son",
+            "rus": "сын"
+        },
+        {
+            "eng": "song",
+            "rus": "песня"
+        },
+        {
+            "eng": "sort",
+            "rus": "Сортировать"
+        },
+        {
+            "eng": "soul",
+            "rus": "душа"
+        },
+        {
+            "eng": "sound",
+            "rus": "звук"
+        },
+        {
+            "eng": "soup",
+            "rus": "суп"
+        },
+        {
+            "eng": "source",
+            "rus": "источник"
+        },
+        {
+            "eng": "south",
+            "rus": "юг"
+        },
+        {
+            "eng": "space",
+            "rus": "пространство"
+        },
+        {
+            "eng": "speaker",
+            "rus": "оратор"
+        },
+        {
+            "eng": "specialist",
+            "rus": "специалист"
+        },
+        {
+            "eng": "species",
+            "rus": "вид"
+        },
+        {
+            "eng": "speech",
+            "rus": "речь"
+        },
+        {
+            "eng": "speed",
+            "rus": "скорость"
+        },
+        {
+            "eng": "spelling",
+            "rus": "написание"
+        },
+        {
+            "eng": "spirit",
+            "rus": "дух"
+        },
+        {
+            "eng": "spite",
+            "rus": "озлобленность"
+        },
+        {
+            "eng": "spokesman",
+            "rus": "представитель"
+        },
+        {
+            "eng": "spoon",
+            "rus": "ложка"
+        },
+        {
+            "eng": "sport",
+            "rus": "спорт"
+        },
+        {
+            "eng": "spot",
+            "rus": "место"
+        },
+        {
+            "eng": "spring",
+            "rus": "весна"
+        },
+        {
+            "eng": "squad",
+            "rus": "команда"
+        },
+        {
+            "eng": "square",
+            "rus": "квадрат"
+        },
+        {
+            "eng": "staff",
+            "rus": "сотрудники"
+        },
+        {
+            "eng": "stage",
+            "rus": "сцена"
+        },
+        {
+            "eng": "stair",
+            "rus": "ступенька"
+        },
+        {
+            "eng": "stake",
+            "rus": "доля"
+        },
+        {
+            "eng": "stall",
+            "rus": "стойло"
+        },
+        {
+            "eng": "stamp",
+            "rus": "печать"
+        },
+        {
+            "eng": "standard",
+            "rus": "стандарт"
+        },
+        {
+            "eng": "star",
+            "rus": "звезда"
+        },
+        {
+            "eng": "start",
+            "rus": "Начало"
+        },
+        {
+            "eng": "state",
+            "rus": "государство"
+        },
+        {
+            "eng": "statement",
+            "rus": "заявление"
+        },
+        {
+            "eng": "station",
+            "rus": "станция"
+        },
+        {
+            "eng": "statistic",
+            "rus": "статистика"
+        },
+        {
+            "eng": "status",
+            "rus": "положение дел"
+        },
+        {
+            "eng": "stay",
+            "rus": "оставаться"
+        },
+        {
+            "eng": "steak",
+            "rus": "стейк"
+        },
+        {
+            "eng": "steam",
+            "rus": "Стим"
+        },
+        {
+            "eng": "steel",
+            "rus": "стали"
+        },
+        {
+            "eng": "step",
+            "rus": "шаг"
+        },
+        {
+            "eng": "stick",
+            "rus": "придерживаться"
+        },
+        {
+            "eng": "stock",
+            "rus": "акции"
+        },
+        {
+            "eng": "stomach",
+            "rus": "желудок"
+        },
+        {
+            "eng": "stone",
+            "rus": "камень"
+        },
+        {
+            "eng": "stop",
+            "rus": "стоп"
+        },
+        {
+            "eng": "storage",
+            "rus": "место хранения"
+        },
+        {
+            "eng": "store",
+            "rus": "магазин"
+        },
+        {
+            "eng": "storm",
+            "rus": "буря"
+        },
+        {
+            "eng": "story",
+            "rus": "история"
+        },
+        {
+            "eng": "strain",
+            "rus": "напряжение"
+        },
+        {
+            "eng": "stranger",
+            "rus": "незнакомец"
+        },
+        {
+            "eng": "strategy",
+            "rus": "стратегия"
+        },
+        {
+            "eng": "straw",
+            "rus": "солома"
+        },
+        {
+            "eng": "strawberry",
+            "rus": "клубника"
+        },
+        {
+            "eng": "stream",
+            "rus": "поток"
+        },
+        {
+            "eng": "street",
+            "rus": "улица"
+        },
+        {
+            "eng": "strength",
+            "rus": "прочность"
+        },
+        {
+            "eng": "stress",
+            "rus": "стресс"
+        },
+        {
+            "eng": "strike",
+            "rus": "забастовка"
+        },
+        {
+            "eng": "string",
+            "rus": "строка"
+        },
+        {
+            "eng": "strip",
+            "rus": "полоса"
+        },
+        {
+            "eng": "stroke",
+            "rus": "Инсульт"
+        },
+        {
+            "eng": "structure",
+            "rus": "состав"
+        },
+        {
+            "eng": "struggle",
+            "rus": "борьба"
+        },
+        {
+            "eng": "student",
+            "rus": "студент"
+        },
+        {
+            "eng": "studio",
+            "rus": "студия"
+        },
+        {
+            "eng": "study",
+            "rus": "изучение"
+        },
+        {
+            "eng": "stuff",
+            "rus": "материал"
+        },
+        {
+            "eng": "style",
+            "rus": "стиль"
+        },
+        {
+            "eng": "subject",
+            "rus": "предмет"
+        },
+        {
+            "eng": "substance",
+            "rus": "вещество"
+        },
+        {
+            "eng": "success",
+            "rus": "успех"
+        },
+        {
+            "eng": "sugar",
+            "rus": "сахар"
+        },
+        {
+            "eng": "suggestion",
+            "rus": "предложение"
+        },
+        {
+            "eng": "suit",
+            "rus": "костюм"
+        },
+        {
+            "eng": "sum",
+            "rus": "сумма"
+        },
+        {
+            "eng": "summer",
+            "rus": "лето"
+        },
+        {
+            "eng": "sun",
+            "rus": "солнце"
+        },
+        {
+            "eng": "supermarket",
+            "rus": "супермаркет"
+        },
+        {
+            "eng": "supper",
+            "rus": "ужин"
+        },
+        {
+            "eng": "supply",
+            "rus": "поставка"
+        },
+        {
+            "eng": "support",
+            "rus": "поддержка"
+        },
+        {
+            "eng": "supporter",
+            "rus": "сторонник"
+        },
+        {
+            "eng": "surface",
+            "rus": "поверхность"
+        },
+        {
+            "eng": "surgery",
+            "rus": "хирургия"
+        },
+        {
+            "eng": "surprise",
+            "rus": "сюрприз"
+        },
+        {
+            "eng": "survey",
+            "rus": "опрос"
+        },
+        {
+            "eng": "survival",
+            "rus": "выживание"
+        },
+        {
+            "eng": "suspicion",
+            "rus": "подозрение"
+        },
+        {
+            "eng": "sweet",
+            "rus": "милая"
+        },
+        {
+            "eng": "swimming",
+            "rus": "плавание"
+        },
+        {
+            "eng": "switch",
+            "rus": "переключатель"
+        },
+        {
+            "eng": "symbol",
+            "rus": "символ"
+        },
+        {
+            "eng": "sympathy",
+            "rus": "симпатия"
+        },
+        {
+            "eng": "system",
+            "rus": "система"
+        },
+        {
+            "eng": "table",
+            "rus": "Таблица"
+        },
+        {
+            "eng": "tablet",
+            "rus": "таблетка"
+        },
+        {
+            "eng": "tail",
+            "rus": "хвост"
+        },
+        {
+            "eng": "tale",
+            "rus": "рассказ"
+        },
+        {
+            "eng": "talent",
+            "rus": "талант"
+        },
+        {
+            "eng": "talk",
+            "rus": "говорить"
+        },
+        {
+            "eng": "tank",
+            "rus": "бак"
+        },
+        {
+            "eng": "tap",
+            "rus": "нажмите"
+        },
+        {
+            "eng": "tape",
+            "rus": "лента"
+        },
+        {
+            "eng": "target",
+            "rus": "цель"
+        },
+        {
+            "eng": "task",
+            "rus": "задача"
+        },
+        {
+            "eng": "taste",
+            "rus": "вкус"
+        },
+        {
+            "eng": "tax",
+            "rus": "налог"
+        },
+        {
+            "eng": "taxi",
+            "rus": "такси"
+        },
+        {
+            "eng": "tea",
+            "rus": "чай"
+        },
+        {
+            "eng": "teacher",
+            "rus": "учитель"
+        },
+        {
+            "eng": "teaching",
+            "rus": "обучение"
+        },
+        {
+            "eng": "team",
+            "rus": "команда"
+        },
+        {
+            "eng": "tear",
+            "rus": "слеза"
+        },
+        {
+            "eng": "technique",
+            "rus": "техника"
+        },
+        {
+            "eng": "technology",
+            "rus": "технологии"
+        },
+        {
+            "eng": "telephone",
+            "rus": "телефон"
+        },
+        {
+            "eng": "television",
+            "rus": "телевидение"
+        },
+        {
+            "eng": "telly",
+            "rus": "телевизор"
+        },
+        {
+            "eng": "temperature",
+            "rus": "температура"
+        },
+        {
+            "eng": "tendency",
+            "rus": "тенденция"
+        },
+        {
+            "eng": "tennis",
+            "rus": "большой теннис"
+        },
+        {
+            "eng": "tension",
+            "rus": "напряженность"
+        },
+        {
+            "eng": "tent",
+            "rus": "палатка"
+        },
+        {
+            "eng": "term",
+            "rus": "срок"
+        },
+        {
+            "eng": "territory",
+            "rus": "территория"
+        },
+        {
+            "eng": "terror",
+            "rus": "террор"
+        },
+        {
+            "eng": "terrorist",
+            "rus": "террорист"
+        },
+        {
+            "eng": "test",
+            "rus": "контрольная работа"
+        },
+        {
+            "eng": "text",
+            "rus": "текст"
+        },
+        {
+            "eng": "thanks",
+            "rus": "благодаря"
+        },
+        {
+            "eng": "theatre",
+            "rus": "театр"
+        },
+        {
+            "eng": "theme",
+            "rus": "тема"
+        },
+        {
+            "eng": "theory",
+            "rus": "теория"
+        },
+        {
+            "eng": "thing",
+            "rus": "вещь"
+        },
+        {
+            "eng": "thought",
+            "rus": "думал"
+        },
+        {
+            "eng": "threat",
+            "rus": "угроза"
+        },
+        {
+            "eng": "throat",
+            "rus": "горло"
+        },
+        {
+            "eng": "ticket",
+            "rus": "билет"
+        },
+        {
+            "eng": "tie",
+            "rus": "галстук"
+        },
+        {
+            "eng": "tile",
+            "rus": "кафельная плитка"
+        },
+        {
+            "eng": "time",
+            "rus": "время"
+        },
+        {
+            "eng": "tin",
+            "rus": "банка"
+        },
+        {
+            "eng": "tip",
+            "rus": "наконечник"
+        },
+        {
+            "eng": "title",
+            "rus": "заглавие"
+        },
+        {
+            "eng": "toast",
+            "rus": "тост"
+        },
+        {
+            "eng": "toe",
+            "rus": "палец"
+        },
+        {
+            "eng": "toilet",
+            "rus": "туалет"
+        },
+        {
+            "eng": "tomato",
+            "rus": "помидор"
+        },
+        {
+            "eng": "ton",
+            "rus": "тонна"
+        },
+        {
+            "eng": "tone",
+            "rus": "тон"
+        },
+        {
+            "eng": "tongue",
+            "rus": "язык"
+        },
+        {
+            "eng": "tool",
+            "rus": "инструмент"
+        },
+        {
+            "eng": "tooth",
+            "rus": "зуб"
+        },
+        {
+            "eng": "top",
+            "rus": "Вверх"
+        },
+        {
+            "eng": "topic",
+            "rus": "тема"
+        },
+        {
+            "eng": "total",
+            "rus": "Всего"
+        },
+        {
+            "eng": "touch",
+            "rus": "потрогать"
+        },
+        {
+            "eng": "tour",
+            "rus": "тур"
+        },
+        {
+            "eng": "tourist",
+            "rus": "турист"
+        },
+        {
+            "eng": "towel",
+            "rus": "полотенце"
+        },
+        {
+            "eng": "tower",
+            "rus": "башня"
+        },
+        {
+            "eng": "town",
+            "rus": "город"
+        },
+        {
+            "eng": "toy",
+            "rus": "игрушка"
+        },
+        {
+            "eng": "track",
+            "rus": "трек"
+        },
+        {
+            "eng": "trade",
+            "rus": "сделка"
+        },
+        {
+            "eng": "tradition",
+            "rus": "традиция"
+        },
+        {
+            "eng": "traffic",
+            "rus": "трафик"
+        },
+        {
+            "eng": "trailer",
+            "rus": "прицеп"
+        },
+        {
+            "eng": "train",
+            "rus": "поезд"
+        },
+        {
+            "eng": "trainer",
+            "rus": "тренер"
+        },
+        {
+            "eng": "training",
+            "rus": "обучение"
+        },
+        {
+            "eng": "transaction",
+            "rus": "сделка"
+        },
+        {
+            "eng": "transfer",
+            "rus": "перевод"
+        },
+        {
+            "eng": "transition",
+            "rus": "переход"
+        },
+        {
+            "eng": "transport",
+            "rus": "транспорт"
+        },
+        {
+            "eng": "transportation",
+            "rus": "транспорт"
+        },
+        {
+            "eng": "trash",
+            "rus": "мусор"
+        },
+        {
+            "eng": "travel",
+            "rus": "путешествовать"
+        },
+        {
+            "eng": "tray",
+            "rus": "лоток"
+        },
+        {
+            "eng": "treat",
+            "rus": "рассматривать"
+        },
+        {
+            "eng": "treatment",
+            "rus": "лечение"
+        },
+        {
+            "eng": "treaty",
+            "rus": "договор"
+        },
+        {
+            "eng": "tree",
+            "rus": "дерево"
+        },
+        {
+            "eng": "trend",
+            "rus": "тенденция"
+        },
+        {
+            "eng": "trial",
+            "rus": "испытание"
+        },
+        {
+            "eng": "trick",
+            "rus": "трюк"
+        },
+        {
+            "eng": "trip",
+            "rus": "поездка"
+        },
+        {
+            "eng": "troop",
+            "rus": "войска"
+        },
+        {
+            "eng": "trouble",
+            "rus": "беда"
+        },
+        {
+            "eng": "trousers",
+            "rus": "брюки"
+        },
+        {
+            "eng": "truck",
+            "rus": "грузовая машина"
+        },
+        {
+            "eng": "trust",
+            "rus": "доверять"
+        },
+        {
+            "eng": "truth",
+            "rus": "правда"
+        },
+        {
+            "eng": "try",
+            "rus": "пытаться"
+        },
+        {
+            "eng": "tube",
+            "rus": "трубка"
+        },
+        {
+            "eng": "tune",
+            "rus": "мелодия"
+        },
+        {
+            "eng": "tunnel",
+            "rus": "тоннель"
+        },
+        {
+            "eng": "turn",
+            "rus": "очередь"
+        },
+        {
+            "eng": "type",
+            "rus": "тип"
+        },
+        {
+            "eng": "tyre",
+            "rus": "шина"
+        },
+        {
+            "eng": "uncle",
+            "rus": "дядя"
+        },
+        {
+            "eng": "understanding",
+            "rus": "понимание"
+        },
+        {
+            "eng": "unemployment",
+            "rus": "безработица"
+        },
+        {
+            "eng": "uniform",
+            "rus": "единообразный"
+        },
+        {
+            "eng": "union",
+            "rus": "союз"
+        },
+        {
+            "eng": "unit",
+            "rus": "Ед. изм"
+        },
+        {
+            "eng": "unity",
+            "rus": "единство"
+        },
+        {
+            "eng": "universe",
+            "rus": "вселенная"
+        },
+        {
+            "eng": "university",
+            "rus": "Университет"
+        },
+        {
+            "eng": "use",
+            "rus": "использование"
+        },
+        {
+            "eng": "user",
+            "rus": "пользователь"
+        },
+        {
+            "eng": "vacation",
+            "rus": "отпуск"
+        },
+        {
+            "eng": "valley",
+            "rus": "долина"
+        },
+        {
+            "eng": "value",
+            "rus": "стоимость"
+        },
+        {
+            "eng": "van",
+            "rus": "фургон"
+        },
+        {
+            "eng": "variation",
+            "rus": "изменение"
+        },
+        {
+            "eng": "variety",
+            "rus": "разнообразие"
+        },
+        {
+            "eng": "vegetable",
+            "rus": "овощной"
+        },
+        {
+            "eng": "vehicle",
+            "rus": "средство передвижения"
+        },
+        {
+            "eng": "version",
+            "rus": "версия"
+        },
+        {
+            "eng": "vet",
+            "rus": "ветеринарный врач"
+        },
+        {
+            "eng": "victim",
+            "rus": "жертва"
+        },
+        {
+            "eng": "victory",
+            "rus": "победа"
+        },
+        {
+            "eng": "video",
+            "rus": "видео"
+        },
+        {
+            "eng": "view",
+            "rus": "Посмотреть"
+        },
+        {
+            "eng": "village",
+            "rus": "деревня"
+        },
+        {
+            "eng": "violence",
+            "rus": "насилие"
+        },
+        {
+            "eng": "virtue",
+            "rus": "добродетель"
+        },
+        {
+            "eng": "virus",
+            "rus": "вирус"
+        },
+        {
+            "eng": "vision",
+            "rus": "видение"
+        },
+        {
+            "eng": "visit",
+            "rus": "посещение"
+        },
+        {
+            "eng": "visitor",
+            "rus": "посетитель"
+        },
+        {
+            "eng": "voice",
+            "rus": "голос"
+        },
+        {
+            "eng": "volume",
+            "rus": "объем"
+        },
+        {
+            "eng": "vote",
+            "rus": "голос"
+        },
+        {
+            "eng": "wage",
+            "rus": "заработная плата"
+        },
+        {
+            "eng": "walk",
+            "rus": "ходить"
+        },
+        {
+            "eng": "wall",
+            "rus": "стена"
+        },
+        {
+            "eng": "war",
+            "rus": "война"
+        },
+        {
+            "eng": "ward",
+            "rus": "подопечный"
+        },
+        {
+            "eng": "wardrobe",
+            "rus": "гардероб"
+        },
+        {
+            "eng": "warning",
+            "rus": "предупреждение"
+        },
+        {
+            "eng": "washing",
+            "rus": "мойка"
+        },
+        {
+            "eng": "waste",
+            "rus": "отходы"
+        },
+        {
+            "eng": "watch",
+            "rus": "смотреть"
+        },
+        {
+            "eng": "water",
+            "rus": "воды"
+        },
+        {
+            "eng": "wave",
+            "rus": "волна"
+        },
+        {
+            "eng": "way",
+            "rus": "путь"
+        },
+        {
+            "eng": "weakness",
+            "rus": "слабое место"
+        },
+        {
+            "eng": "wealth",
+            "rus": "богатство"
+        },
+        {
+            "eng": "weapon",
+            "rus": "оружие"
+        },
+        {
+            "eng": "weather",
+            "rus": "Погода"
+        },
+        {
+            "eng": "web",
+            "rus": "Web"
+        },
+        {
+            "eng": "website",
+            "rus": "Веб-сайт"
+        },
+        {
+            "eng": "wedding",
+            "rus": "свадьба"
+        },
+        {
+            "eng": "week",
+            "rus": "неделю"
+        },
+        {
+            "eng": "weekend",
+            "rus": "выходные"
+        },
+        {
+            "eng": "weight",
+            "rus": "вес"
+        },
+        {
+            "eng": "welfare",
+            "rus": "благосостояние"
+        },
+        {
+            "eng": "west",
+            "rus": "запад"
+        },
+        {
+            "eng": "wheel",
+            "rus": "колесо"
+        },
+        {
+            "eng": "while",
+            "rus": "в то время как"
+        },
+        {
+            "eng": "whisky",
+            "rus": "виски"
+        },
+        {
+            "eng": "white",
+            "rus": "белый"
+        },
+        {
+            "eng": "whole",
+            "rus": "все"
+        },
+        {
+            "eng": "wife",
+            "rus": "жена"
+        },
+        {
+            "eng": "will",
+            "rus": "будем"
+        },
+        {
+            "eng": "win",
+            "rus": "выиграть"
+        },
+        {
+            "eng": "wind",
+            "rus": "ветер"
+        },
+        {
+            "eng": "window",
+            "rus": "окно"
+        },
+        {
+            "eng": "wine",
+            "rus": "вино"
+        },
+        {
+            "eng": "wing",
+            "rus": "крыло"
+        },
+        {
+            "eng": "winner",
+            "rus": "победитель"
+        },
+        {
+            "eng": "winter",
+            "rus": "зима"
+        },
+        {
+            "eng": "wire",
+            "rus": "провод"
+        },
+        {
+            "eng": "wish",
+            "rus": "желание"
+        },
+        {
+            "eng": "witness",
+            "rus": "свидетель"
+        },
+        {
+            "eng": "woman",
+            "rus": "женщина"
+        },
+        {
+            "eng": "wood",
+            "rus": "дерево"
+        },
+        {
+            "eng": "wool",
+            "rus": "шерсть"
+        },
+        {
+            "eng": "word",
+            "rus": "слово"
+        },
+        {
+            "eng": "work",
+            "rus": "Работа"
+        },
+        {
+            "eng": "worker",
+            "rus": "работник"
+        },
+        {
+            "eng": "workshop",
+            "rus": "мастерская"
+        },
+        {
+            "eng": "world",
+            "rus": "Мир"
+        },
+        {
+            "eng": "worry",
+            "rus": "беспокоиться"
+        },
+        {
+            "eng": "worth",
+            "rus": "стоимость"
+        },
+        {
+            "eng": "writer",
+            "rus": "писатель"
+        },
+        {
+            "eng": "writing",
+            "rus": "письмо"
+        },
+        {
+            "eng": "yard",
+            "rus": "двор"
+        },
+        {
+            "eng": "year",
+            "rus": "год"
+        },
+        {
+            "eng": "youngster",
+            "rus": "юнец"
+        },
+        {
+            "eng": "youth",
+            "rus": "молодежь"
+        },
+        {
+            "eng": "zone",
+            "rus": "зона"
+        }
+    ]
+}
