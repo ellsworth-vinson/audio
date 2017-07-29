@@ -1,0 +1,1181 @@
+
+{
+    "lines": [
+        {
+            "eng": "OK",
+            "rus": "ОК"
+        },
+        {
+            "eng": "about",
+            "rus": "около"
+        },
+        {
+            "eng": "above",
+            "rus": "выше"
+        },
+        {
+            "eng": "abroad",
+            "rus": "за границу"
+        },
+        {
+            "eng": "absolutely",
+            "rus": "абсолютно"
+        },
+        {
+            "eng": "across",
+            "rus": "через"
+        },
+        {
+            "eng": "actually",
+            "rus": "на самом деле"
+        },
+        {
+            "eng": "after",
+            "rus": "после"
+        },
+        {
+            "eng": "afterwards",
+            "rus": "впоследствии"
+        },
+        {
+            "eng": "again",
+            "rus": "еще раз"
+        },
+        {
+            "eng": "ago",
+            "rus": "тому назад"
+        },
+        {
+            "eng": "ahead",
+            "rus": "впереди"
+        },
+        {
+            "eng": "all",
+            "rus": "все"
+        },
+        {
+            "eng": "all right",
+            "rus": "отлично"
+        },
+        {
+            "eng": "almost",
+            "rus": "почти"
+        },
+        {
+            "eng": "alone",
+            "rus": "в одиночестве"
+        },
+        {
+            "eng": "along",
+            "rus": "вдоль"
+        },
+        {
+            "eng": "alongside",
+            "rus": "рядом"
+        },
+        {
+            "eng": "already",
+            "rus": "уже"
+        },
+        {
+            "eng": "also",
+            "rus": "также"
+        },
+        {
+            "eng": "altogether",
+            "rus": "в целом"
+        },
+        {
+            "eng": "always",
+            "rus": "всегда"
+        },
+        {
+            "eng": "any",
+            "rus": "Любые"
+        },
+        {
+            "eng": "anyhow",
+            "rus": "во всяком случае"
+        },
+        {
+            "eng": "anyway",
+            "rus": "так или иначе"
+        },
+        {
+            "eng": "anywhere",
+            "rus": "в любом месте"
+        },
+        {
+            "eng": "apart",
+            "rus": "Кроме"
+        },
+        {
+            "eng": "apparently",
+            "rus": "по всей видимости"
+        },
+        {
+            "eng": "around",
+            "rus": "вокруг"
+        },
+        {
+            "eng": "as",
+            "rus": "в виде"
+        },
+        {
+            "eng": "aside",
+            "rus": "в стороне"
+        },
+        {
+            "eng": "automatically",
+            "rus": "автоматически"
+        },
+        {
+            "eng": "away",
+            "rus": "далеко"
+        },
+        {
+            "eng": "back",
+            "rus": "назад"
+        },
+        {
+            "eng": "backwards",
+            "rus": "назад"
+        },
+        {
+            "eng": "badly",
+            "rus": "плохо"
+        },
+        {
+            "eng": "basically",
+            "rus": "в основном"
+        },
+        {
+            "eng": "before",
+            "rus": "до"
+        },
+        {
+            "eng": "beforehand",
+            "rus": "заранее"
+        },
+        {
+            "eng": "behind",
+            "rus": "за"
+        },
+        {
+            "eng": "below",
+            "rus": "ниже"
+        },
+        {
+            "eng": "beneath",
+            "rus": "под"
+        },
+        {
+            "eng": "best",
+            "rus": "Лучший"
+        },
+        {
+            "eng": "better",
+            "rus": "лучше"
+        },
+        {
+            "eng": "between",
+            "rus": "между"
+        },
+        {
+            "eng": "beyond",
+            "rus": "за"
+        },
+        {
+            "eng": "bit",
+            "rus": "немного"
+        },
+        {
+            "eng": "briefly",
+            "rus": "кратко"
+        },
+        {
+            "eng": "but",
+            "rus": "но"
+        },
+        {
+            "eng": "by",
+            "rus": "от"
+        },
+        {
+            "eng": "carefully",
+            "rus": "внимательно"
+        },
+        {
+            "eng": "certainly",
+            "rus": "безусловно"
+        },
+        {
+            "eng": "clearly",
+            "rus": "явно"
+        },
+        {
+            "eng": "close",
+            "rus": "Закрыть"
+        },
+        {
+            "eng": "closely",
+            "rus": "тесно"
+        },
+        {
+            "eng": "completely",
+            "rus": "полностью"
+        },
+        {
+            "eng": "considerably",
+            "rus": "значительно"
+        },
+        {
+            "eng": "constantly",
+            "rus": "постоянно"
+        },
+        {
+            "eng": "currently",
+            "rus": "В данный момент"
+        },
+        {
+            "eng": "dead",
+            "rus": "мертвый"
+        },
+        {
+            "eng": "deep",
+            "rus": "глубоко"
+        },
+        {
+            "eng": "deeply",
+            "rus": "глубоко"
+        },
+        {
+            "eng": "definitely",
+            "rus": "определенно"
+        },
+        {
+            "eng": "deliberately",
+            "rus": "сознательно"
+        },
+        {
+            "eng": "directly",
+            "rus": "непосредственно"
+        },
+        {
+            "eng": "down",
+            "rus": "вниз"
+        },
+        {
+            "eng": "downstairs",
+            "rus": "вниз по лестнице"
+        },
+        {
+            "eng": "downtown",
+            "rus": "в центре города"
+        },
+        {
+            "eng": "each",
+            "rus": "каждый"
+        },
+        {
+            "eng": "early",
+            "rus": "рано"
+        },
+        {
+            "eng": "easily",
+            "rus": "без труда"
+        },
+        {
+            "eng": "easy",
+            "rus": "легко"
+        },
+        {
+            "eng": "effectively",
+            "rus": "фактически"
+        },
+        {
+            "eng": "else",
+            "rus": "еще"
+        },
+        {
+            "eng": "elsewhere",
+            "rus": "в другом месте"
+        },
+        {
+            "eng": "enough",
+            "rus": "достаточно"
+        },
+        {
+            "eng": "entirely",
+            "rus": "полностью"
+        },
+        {
+            "eng": "equally",
+            "rus": "в равной степени"
+        },
+        {
+            "eng": "especially",
+            "rus": "особенно"
+        },
+        {
+            "eng": "essentially",
+            "rus": "по существу"
+        },
+        {
+            "eng": "even",
+            "rus": "даже"
+        },
+        {
+            "eng": "eventually",
+            "rus": "в итоге"
+        },
+        {
+            "eng": "ever",
+            "rus": "Когда-либо"
+        },
+        {
+            "eng": "everywhere",
+            "rus": "везде"
+        },
+        {
+            "eng": "exactly",
+            "rus": "в точку"
+        },
+        {
+            "eng": "extremely",
+            "rus": "очень"
+        },
+        {
+            "eng": "fair",
+            "rus": "Справедливая"
+        },
+        {
+            "eng": "fairly",
+            "rus": "довольно"
+        },
+        {
+            "eng": "far",
+            "rus": "далеко"
+        },
+        {
+            "eng": "fast",
+            "rus": "быстро"
+        },
+        {
+            "eng": "finally",
+            "rus": "в конце концов"
+        },
+        {
+            "eng": "fine",
+            "rus": "отлично"
+        },
+        {
+            "eng": "first",
+            "rus": "первый"
+        },
+        {
+            "eng": "firstly",
+            "rus": "в первую очередь"
+        },
+        {
+            "eng": "forever",
+            "rus": "навсегда"
+        },
+        {
+            "eng": "formally",
+            "rus": "формально"
+        },
+        {
+            "eng": "forth",
+            "rus": "вперед"
+        },
+        {
+            "eng": "forward",
+            "rus": "вперед"
+        },
+        {
+            "eng": "frankly",
+            "rus": "Откровенно"
+        },
+        {
+            "eng": "frequently",
+            "rus": "часто"
+        },
+        {
+            "eng": "fully",
+            "rus": "в полной мере"
+        },
+        {
+            "eng": "further",
+            "rus": "в дальнейшем"
+        },
+        {
+            "eng": "generally",
+            "rus": "в общем"
+        },
+        {
+            "eng": "gently",
+            "rus": "осторожно"
+        },
+        {
+            "eng": "gradually",
+            "rus": "постепенно"
+        },
+        {
+            "eng": "greatly",
+            "rus": "значительно"
+        },
+        {
+            "eng": "half",
+            "rus": "половина"
+        },
+        {
+            "eng": "halfway",
+            "rus": "наполовину"
+        },
+        {
+            "eng": "hard",
+            "rus": "жесткий"
+        },
+        {
+            "eng": "hardly",
+            "rus": "едва"
+        },
+        {
+            "eng": "heavily",
+            "rus": "сильно"
+        },
+        {
+            "eng": "hence",
+            "rus": "следовательно"
+        },
+        {
+            "eng": "here",
+            "rus": "Вот"
+        },
+        {
+            "eng": "high",
+            "rus": "высокая"
+        },
+        {
+            "eng": "highly",
+            "rus": "высоко"
+        },
+        {
+            "eng": "home",
+            "rus": "Главная"
+        },
+        {
+            "eng": "honestly",
+            "rus": "честно говоря"
+        },
+        {
+            "eng": "hopefully",
+            "rus": "с надеждой"
+        },
+        {
+            "eng": "how",
+            "rus": "как"
+        },
+        {
+            "eng": "however",
+            "rus": "Однако"
+        },
+        {
+            "eng": "ideally",
+            "rus": "Идеально"
+        },
+        {
+            "eng": "immediately",
+            "rus": "немедленно"
+        },
+        {
+            "eng": "in",
+            "rus": "в"
+        },
+        {
+            "eng": "increasingly",
+            "rus": "все больше и больше"
+        },
+        {
+            "eng": "incredibly",
+            "rus": "невероятно"
+        },
+        {
+            "eng": "indeed",
+            "rus": "в самом деле"
+        },
+        {
+            "eng": "inevitably",
+            "rus": "неизбежно"
+        },
+        {
+            "eng": "initially",
+            "rus": "первоначально"
+        },
+        {
+            "eng": "inside",
+            "rus": "внутри"
+        },
+        {
+            "eng": "instead",
+            "rus": "вместо"
+        },
+        {
+            "eng": "just",
+            "rus": "просто"
+        },
+        {
+            "eng": "largely",
+            "rus": "во многом"
+        },
+        {
+            "eng": "last",
+            "rus": "последний"
+        },
+        {
+            "eng": "late",
+            "rus": "поздно"
+        },
+        {
+            "eng": "later",
+            "rus": "позже"
+        },
+        {
+            "eng": "left",
+            "rus": "оставил"
+        },
+        {
+            "eng": "less",
+            "rus": "Меньше"
+        },
+        {
+            "eng": "like",
+            "rus": "как"
+        },
+        {
+            "eng": "literally",
+            "rus": "буквально"
+        },
+        {
+            "eng": "little",
+            "rus": "немного"
+        },
+        {
+            "eng": "long",
+            "rus": "длинный"
+        },
+        {
+            "eng": "lot",
+            "rus": "много"
+        },
+        {
+            "eng": "loud",
+            "rus": "громкий"
+        },
+        {
+            "eng": "luckily",
+            "rus": "к счастью"
+        },
+        {
+            "eng": "mainly",
+            "rus": "в основном"
+        },
+        {
+            "eng": "maybe",
+            "rus": "может быть"
+        },
+        {
+            "eng": "meanwhile",
+            "rus": "между тем"
+        },
+        {
+            "eng": "merely",
+            "rus": "просто"
+        },
+        {
+            "eng": "more",
+            "rus": "Больше"
+        },
+        {
+            "eng": "moreover",
+            "rus": "более того"
+        },
+        {
+            "eng": "most",
+            "rus": "большинство"
+        },
+        {
+            "eng": "mostly",
+            "rus": "в основном"
+        },
+        {
+            "eng": "much",
+            "rus": "много"
+        },
+        {
+            "eng": "naturally",
+            "rus": "естественно"
+        },
+        {
+            "eng": "near",
+            "rus": "возле"
+        },
+        {
+            "eng": "nearly",
+            "rus": "около"
+        },
+        {
+            "eng": "necessarily",
+            "rus": "обязательно"
+        },
+        {
+            "eng": "neither",
+            "rus": "ни"
+        },
+        {
+            "eng": "never",
+            "rus": "никогда"
+        },
+        {
+            "eng": "nevertheless",
+            "rus": "тем не менее"
+        },
+        {
+            "eng": "newly",
+            "rus": "вновь"
+        },
+        {
+            "eng": "next",
+            "rus": "следующий"
+        },
+        {
+            "eng": "nicely",
+            "rus": "мило"
+        },
+        {
+            "eng": "no",
+            "rus": "нет"
+        },
+        {
+            "eng": "no way",
+            "rus": "ни за что"
+        },
+        {
+            "eng": "nope",
+            "rus": "Неа"
+        },
+        {
+            "eng": "nor",
+            "rus": "ни"
+        },
+        {
+            "eng": "normally",
+            "rus": "как обычно"
+        },
+        {
+            "eng": "not",
+            "rus": "не"
+        },
+        {
+            "eng": "notably",
+            "rus": "особенно"
+        },
+        {
+            "eng": "now",
+            "rus": "Теперь"
+        },
+        {
+            "eng": "nowadays",
+            "rus": "В наше время"
+        },
+        {
+            "eng": "nowhere",
+            "rus": "нигде"
+        },
+        {
+            "eng": "obviously",
+            "rus": "очевидно"
+        },
+        {
+            "eng": "occasionally",
+            "rus": "время от времени"
+        },
+        {
+            "eng": "of course",
+            "rus": "конечно"
+        },
+        {
+            "eng": "off",
+            "rus": "от"
+        },
+        {
+            "eng": "often",
+            "rus": "довольно часто"
+        },
+        {
+            "eng": "on",
+            "rus": "на"
+        },
+        {
+            "eng": "once",
+            "rus": "один раз"
+        },
+        {
+            "eng": "only",
+            "rus": "только"
+        },
+        {
+            "eng": "originally",
+            "rus": "первоначально"
+        },
+        {
+            "eng": "otherwise",
+            "rus": "в противном случае"
+        },
+        {
+            "eng": "out",
+            "rus": "вне"
+        },
+        {
+            "eng": "outside",
+            "rus": "за пределами"
+        },
+        {
+            "eng": "over",
+            "rus": "над"
+        },
+        {
+            "eng": "overseas",
+            "rus": "за рубежом"
+        },
+        {
+            "eng": "particularly",
+            "rus": "в частности"
+        },
+        {
+            "eng": "partly",
+            "rus": "частично"
+        },
+        {
+            "eng": "past",
+            "rus": "мимо"
+        },
+        {
+            "eng": "perfectly",
+            "rus": "в совершенстве"
+        },
+        {
+            "eng": "perhaps",
+            "rus": "возможно"
+        },
+        {
+            "eng": "personally",
+            "rus": "лично"
+        },
+        {
+            "eng": "physically",
+            "rus": "физически"
+        },
+        {
+            "eng": "possibly",
+            "rus": "возможно"
+        },
+        {
+            "eng": "practically",
+            "rus": "практически"
+        },
+        {
+            "eng": "precisely",
+            "rus": "точно"
+        },
+        {
+            "eng": "presumably",
+            "rus": "предположительно"
+        },
+        {
+            "eng": "pretty",
+            "rus": "Симпатичная"
+        },
+        {
+            "eng": "previously",
+            "rus": "предварительно"
+        },
+        {
+            "eng": "primarily",
+            "rus": "в первую очередь"
+        },
+        {
+            "eng": "probably",
+            "rus": "вероятно"
+        },
+        {
+            "eng": "properly",
+            "rus": "должным образом"
+        },
+        {
+            "eng": "purely",
+            "rus": "чисто"
+        },
+        {
+            "eng": "quick",
+            "rus": "быстро"
+        },
+        {
+            "eng": "quickly",
+            "rus": "быстро"
+        },
+        {
+            "eng": "quietly",
+            "rus": "тихо"
+        },
+        {
+            "eng": "quite",
+            "rus": "довольно"
+        },
+        {
+            "eng": "rapidly",
+            "rus": "быстро"
+        },
+        {
+            "eng": "rarely",
+            "rus": "редко"
+        },
+        {
+            "eng": "rather",
+            "rus": "скорее"
+        },
+        {
+            "eng": "readily",
+            "rus": "легко"
+        },
+        {
+            "eng": "really",
+            "rus": "действительно"
+        },
+        {
+            "eng": "reasonably",
+            "rus": "разумно"
+        },
+        {
+            "eng": "recently",
+            "rus": "в последнее время"
+        },
+        {
+            "eng": "regularly",
+            "rus": "регулярно"
+        },
+        {
+            "eng": "relatively",
+            "rus": "относительно"
+        },
+        {
+            "eng": "respectively",
+            "rus": "соответственно"
+        },
+        {
+            "eng": "right",
+            "rus": "правильно"
+        },
+        {
+            "eng": "roughly",
+            "rus": "грубо"
+        },
+        {
+            "eng": "round",
+            "rus": "круглый"
+        },
+        {
+            "eng": "same",
+            "rus": "одна и та же"
+        },
+        {
+            "eng": "secondly",
+            "rus": "во-вторых"
+        },
+        {
+            "eng": "seriously",
+            "rus": "шутки в сторону"
+        },
+        {
+            "eng": "sharply",
+            "rus": "резко"
+        },
+        {
+            "eng": "shortly",
+            "rus": "вскоре"
+        },
+        {
+            "eng": "significantly",
+            "rus": "существенно"
+        },
+        {
+            "eng": "similarly",
+            "rus": "по аналогии"
+        },
+        {
+            "eng": "simply",
+            "rus": "просто"
+        },
+        {
+            "eng": "since",
+            "rus": "поскольку"
+        },
+        {
+            "eng": "slightly",
+            "rus": "немного"
+        },
+        {
+            "eng": "slowly",
+            "rus": "медленно"
+        },
+        {
+            "eng": "so",
+            "rus": "так"
+        },
+        {
+            "eng": "some",
+            "rus": "некоторые"
+        },
+        {
+            "eng": "somehow",
+            "rus": "как-то"
+        },
+        {
+            "eng": "sometimes",
+            "rus": "иногда"
+        },
+        {
+            "eng": "somewhat",
+            "rus": "в некотором роде"
+        },
+        {
+            "eng": "somewhere",
+            "rus": "где-то"
+        },
+        {
+            "eng": "soon",
+            "rus": "скоро"
+        },
+        {
+            "eng": "specifically",
+            "rus": "конкретно"
+        },
+        {
+            "eng": "still",
+            "rus": "все еще"
+        },
+        {
+            "eng": "straight",
+            "rus": "Прямо"
+        },
+        {
+            "eng": "strongly",
+            "rus": "сильно"
+        },
+        {
+            "eng": "subsequently",
+            "rus": "впоследствии"
+        },
+        {
+            "eng": "successfully",
+            "rus": "успешно"
+        },
+        {
+            "eng": "suddenly",
+            "rus": "вдруг, внезапно"
+        },
+        {
+            "eng": "sure",
+            "rus": "конечно"
+        },
+        {
+            "eng": "surely",
+            "rus": "конечно"
+        },
+        {
+            "eng": "surprisingly",
+            "rus": "как ни странно"
+        },
+        {
+            "eng": "terribly",
+            "rus": "ужасно"
+        },
+        {
+            "eng": "that",
+            "rus": "что"
+        },
+        {
+            "eng": "then",
+            "rus": "тогда"
+        },
+        {
+            "eng": "there",
+            "rus": "там"
+        },
+        {
+            "eng": "therefore",
+            "rus": "следовательно"
+        },
+        {
+            "eng": "though",
+            "rus": "хоть"
+        },
+        {
+            "eng": "through",
+            "rus": "через"
+        },
+        {
+            "eng": "throughout",
+            "rus": "на протяжении"
+        },
+        {
+            "eng": "thus",
+            "rus": "таким образом"
+        },
+        {
+            "eng": "today",
+            "rus": "Cегодня"
+        },
+        {
+            "eng": "together",
+            "rus": "вместе"
+        },
+        {
+            "eng": "tomorrow",
+            "rus": "завтра"
+        },
+        {
+            "eng": "tonight",
+            "rus": "сегодня ночью"
+        },
+        {
+            "eng": "too",
+            "rus": "слишком"
+        },
+        {
+            "eng": "totally",
+            "rus": "полностью"
+        },
+        {
+            "eng": "truly",
+            "rus": "действительно"
+        },
+        {
+            "eng": "twice",
+            "rus": "дважды"
+        },
+        {
+            "eng": "ultimately",
+            "rus": "в конечном счете"
+        },
+        {
+            "eng": "under",
+            "rus": "под"
+        },
+        {
+            "eng": "underneath",
+            "rus": "под"
+        },
+        {
+            "eng": "unfortunately",
+            "rus": "К сожалению"
+        },
+        {
+            "eng": "unknown",
+            "rus": "неизвестный"
+        },
+        {
+            "eng": "up",
+            "rus": "вверх"
+        },
+        {
+            "eng": "upstairs",
+            "rus": "вверх по лестнице"
+        },
+        {
+            "eng": "usually",
+            "rus": "как правило"
+        },
+        {
+            "eng": "very",
+            "rus": "очень"
+        },
+        {
+            "eng": "virtually",
+            "rus": "фактически"
+        },
+        {
+            "eng": "way",
+            "rus": "путь"
+        },
+        {
+            "eng": "well",
+            "rus": "Что ж"
+        },
+        {
+            "eng": "whatsoever",
+            "rus": "что бы ни"
+        },
+        {
+            "eng": "when",
+            "rus": "когда"
+        },
+        {
+            "eng": "whenever",
+            "rus": "всякий раз, когда"
+        },
+        {
+            "eng": "where",
+            "rus": "где"
+        },
+        {
+            "eng": "wherever",
+            "rus": "где бы"
+        },
+        {
+            "eng": "why",
+            "rus": "Зачем"
+        },
+        {
+            "eng": "wide",
+            "rus": "широкий"
+        },
+        {
+            "eng": "widely",
+            "rus": "широко"
+        },
+        {
+            "eng": "within",
+            "rus": "в"
+        },
+        {
+            "eng": "without",
+            "rus": "без"
+        },
+        {
+            "eng": "worse",
+            "rus": "хуже"
+        },
+        {
+            "eng": "wrong",
+            "rus": "неправильно"
+        },
+        {
+            "eng": "yeah",
+            "rus": "Да"
+        },
+        {
+            "eng": "yes",
+            "rus": "да"
+        },
+        {
+            "eng": "yesterday",
+            "rus": "вчера"
+        },
+        {
+            "eng": "yet",
+            "rus": "все же"
+        }
+    ]
+}
