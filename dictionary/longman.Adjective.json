@@ -1,0 +1,2461 @@
+
+{
+    "lines": [
+        {
+            "eng": "OK",
+            "rus": "ОК"
+        },
+        {
+            "eng": "able",
+            "rus": "в состоянии"
+        },
+        {
+            "eng": "above",
+            "rus": "выше"
+        },
+        {
+            "eng": "absolute",
+            "rus": "абсолютный"
+        },
+        {
+            "eng": "academic",
+            "rus": "академический"
+        },
+        {
+            "eng": "acceptable",
+            "rus": "приемлемо"
+        },
+        {
+            "eng": "accurate",
+            "rus": "точный"
+        },
+        {
+            "eng": "active",
+            "rus": "активный"
+        },
+        {
+            "eng": "actual",
+            "rus": "фактический"
+        },
+        {
+            "eng": "additional",
+            "rus": "дополнительный"
+        },
+        {
+            "eng": "adequate",
+            "rus": "адекватный"
+        },
+        {
+            "eng": "administrative",
+            "rus": "административный"
+        },
+        {
+            "eng": "adult",
+            "rus": "для взрослых"
+        },
+        {
+            "eng": "advanced",
+            "rus": "передовой"
+        },
+        {
+            "eng": "afraid",
+            "rus": "боюсь"
+        },
+        {
+            "eng": "aged",
+            "rus": "престарелый"
+        },
+        {
+            "eng": "aggressive",
+            "rus": "агрессивный"
+        },
+        {
+            "eng": "alive",
+            "rus": "в живых"
+        },
+        {
+            "eng": "all right",
+            "rus": "отлично"
+        },
+        {
+            "eng": "alone",
+            "rus": "в одиночестве"
+        },
+        {
+            "eng": "alternative",
+            "rus": "альтернатива"
+        },
+        {
+            "eng": "amazing",
+            "rus": "удивительно"
+        },
+        {
+            "eng": "ancient",
+            "rus": "древний"
+        },
+        {
+            "eng": "angry",
+            "rus": "сердитый"
+        },
+        {
+            "eng": "annual",
+            "rus": "годовой"
+        },
+        {
+            "eng": "anxious",
+            "rus": "озабоченный"
+        },
+        {
+            "eng": "apart",
+            "rus": "Кроме"
+        },
+        {
+            "eng": "apparent",
+            "rus": "очевидный"
+        },
+        {
+            "eng": "appropriate",
+            "rus": "подходящее"
+        },
+        {
+            "eng": "approximate",
+            "rus": "приближенный"
+        },
+        {
+            "eng": "armed",
+            "rus": "вооруженный"
+        },
+        {
+            "eng": "artificial",
+            "rus": "искусственный"
+        },
+        {
+            "eng": "ashamed",
+            "rus": "совестно"
+        },
+        {
+            "eng": "asleep",
+            "rus": "спящий"
+        },
+        {
+            "eng": "attractive",
+            "rus": "привлекательный"
+        },
+        {
+            "eng": "automatic",
+            "rus": "автоматический"
+        },
+        {
+            "eng": "available",
+            "rus": "доступный"
+        },
+        {
+            "eng": "average",
+            "rus": "в среднем"
+        },
+        {
+            "eng": "awake",
+            "rus": "бодрствующий"
+        },
+        {
+            "eng": "aware",
+            "rus": "знать"
+        },
+        {
+            "eng": "awful",
+            "rus": "ужасный"
+        },
+        {
+            "eng": "awkward",
+            "rus": "неловко"
+        },
+        {
+            "eng": "back",
+            "rus": "назад"
+        },
+        {
+            "eng": "bad",
+            "rus": "Плохо"
+        },
+        {
+            "eng": "basic",
+            "rus": "основной"
+        },
+        {
+            "eng": "beautiful",
+            "rus": "красивая"
+        },
+        {
+            "eng": "best",
+            "rus": "Лучший"
+        },
+        {
+            "eng": "better",
+            "rus": "лучше"
+        },
+        {
+            "eng": "big",
+            "rus": "большой"
+        },
+        {
+            "eng": "bitter",
+            "rus": "горький"
+        },
+        {
+            "eng": "black",
+            "rus": "черный"
+        },
+        {
+            "eng": "blank",
+            "rus": "пустой"
+        },
+        {
+            "eng": "blind",
+            "rus": "слепой"
+        },
+        {
+            "eng": "blonde",
+            "rus": "блондинка"
+        },
+        {
+            "eng": "blue",
+            "rus": "синий"
+        },
+        {
+            "eng": "boiling",
+            "rus": "кипение"
+        },
+        {
+            "eng": "bored",
+            "rus": "скучающий"
+        },
+        {
+            "eng": "boring",
+            "rus": "расточка"
+        },
+        {
+            "eng": "bottom",
+            "rus": "дно"
+        },
+        {
+            "eng": "bound",
+            "rus": "связанный"
+        },
+        {
+            "eng": "brave",
+            "rus": "Храбрый"
+        },
+        {
+            "eng": "brief",
+            "rus": "краткое"
+        },
+        {
+            "eng": "bright",
+            "rus": "яркий"
+        },
+        {
+            "eng": "brilliant",
+            "rus": "блестящий"
+        },
+        {
+            "eng": "broad",
+            "rus": "широкий"
+        },
+        {
+            "eng": "brown",
+            "rus": "коричневый"
+        },
+        {
+            "eng": "busy",
+            "rus": "занятый"
+        },
+        {
+            "eng": "calm",
+            "rus": "спокойный"
+        },
+        {
+            "eng": "capable",
+            "rus": "способный"
+        },
+        {
+            "eng": "capital",
+            "rus": "столица"
+        },
+        {
+            "eng": "careful",
+            "rus": "осторожный"
+        },
+        {
+            "eng": "central",
+            "rus": "центральный"
+        },
+        {
+            "eng": "certain",
+            "rus": "определенный"
+        },
+        {
+            "eng": "cheap",
+            "rus": "дешево"
+        },
+        {
+            "eng": "chemical",
+            "rus": "химическая"
+        },
+        {
+            "eng": "chief",
+            "rus": "главный"
+        },
+        {
+            "eng": "civil",
+            "rus": "гражданского"
+        },
+        {
+            "eng": "classic",
+            "rus": "классический"
+        },
+        {
+            "eng": "classical",
+            "rus": "классический"
+        },
+        {
+            "eng": "clean",
+            "rus": "чистый"
+        },
+        {
+            "eng": "clear",
+            "rus": "Чисто"
+        },
+        {
+            "eng": "clever",
+            "rus": "умная"
+        },
+        {
+            "eng": "close",
+            "rus": "Закрыть"
+        },
+        {
+            "eng": "closed",
+            "rus": "закрыто"
+        },
+        {
+            "eng": "cold",
+            "rus": "холодно"
+        },
+        {
+            "eng": "comfortable",
+            "rus": "удобный"
+        },
+        {
+            "eng": "commercial",
+            "rus": "коммерческая"
+        },
+        {
+            "eng": "common",
+            "rus": "общий"
+        },
+        {
+            "eng": "competitive",
+            "rus": "конкурентоспособный"
+        },
+        {
+            "eng": "complete",
+            "rus": "полный"
+        },
+        {
+            "eng": "complex",
+            "rus": "сложный"
+        },
+        {
+            "eng": "complicated",
+            "rus": "сложно"
+        },
+        {
+            "eng": "comprehensive",
+            "rus": "комплексный"
+        },
+        {
+            "eng": "concerned",
+            "rus": "обеспокоенный"
+        },
+        {
+            "eng": "confident",
+            "rus": "уверенная в себе"
+        },
+        {
+            "eng": "confused",
+            "rus": "смущенный"
+        },
+        {
+            "eng": "confusing",
+            "rus": "запутанным"
+        },
+        {
+            "eng": "conscious",
+            "rus": "сознательный"
+        },
+        {
+            "eng": "considerable",
+            "rus": "значительный"
+        },
+        {
+            "eng": "consistent",
+            "rus": "последовательный"
+        },
+        {
+            "eng": "constant",
+            "rus": "постоянная"
+        },
+        {
+            "eng": "contemporary",
+            "rus": "современный"
+        },
+        {
+            "eng": "continuous",
+            "rus": "непрерывный"
+        },
+        {
+            "eng": "convenient",
+            "rus": "удобный"
+        },
+        {
+            "eng": "conventional",
+            "rus": "обычный"
+        },
+        {
+            "eng": "cool",
+            "rus": "круто"
+        },
+        {
+            "eng": "correct",
+            "rus": "верный"
+        },
+        {
+            "eng": "crazy",
+            "rus": "псих"
+        },
+        {
+            "eng": "creative",
+            "rus": "творческий"
+        },
+        {
+            "eng": "criminal",
+            "rus": "преступник"
+        },
+        {
+            "eng": "critical",
+            "rus": "критический"
+        },
+        {
+            "eng": "cross",
+            "rus": "пересекать"
+        },
+        {
+            "eng": "crucial",
+            "rus": "ключевой"
+        },
+        {
+            "eng": "cruel",
+            "rus": "жестокий"
+        },
+        {
+            "eng": "cultural",
+            "rus": "культурный"
+        },
+        {
+            "eng": "curious",
+            "rus": "любопытный"
+        },
+        {
+            "eng": "current",
+            "rus": "текущий"
+        },
+        {
+            "eng": "cute",
+            "rus": "милый"
+        },
+        {
+            "eng": "daft",
+            "rus": "бесшабашный"
+        },
+        {
+            "eng": "daily",
+            "rus": "ежедневно"
+        },
+        {
+            "eng": "dangerous",
+            "rus": "опасно"
+        },
+        {
+            "eng": "dark",
+            "rus": "темно"
+        },
+        {
+            "eng": "dead",
+            "rus": "мертвый"
+        },
+        {
+            "eng": "deaf",
+            "rus": "глухой"
+        },
+        {
+            "eng": "dear",
+            "rus": "Уважаемые"
+        },
+        {
+            "eng": "decent",
+            "rus": "порядочный"
+        },
+        {
+            "eng": "deep",
+            "rus": "глубоко"
+        },
+        {
+            "eng": "definite",
+            "rus": "определенный"
+        },
+        {
+            "eng": "democratic",
+            "rus": "демократической"
+        },
+        {
+            "eng": "dependent",
+            "rus": "зависимый"
+        },
+        {
+            "eng": "desperate",
+            "rus": "отчаянный"
+        },
+        {
+            "eng": "detailed",
+            "rus": "подробный"
+        },
+        {
+            "eng": "determined",
+            "rus": "определенный"
+        },
+        {
+            "eng": "different",
+            "rus": "другой"
+        },
+        {
+            "eng": "difficult",
+            "rus": "сложно"
+        },
+        {
+            "eng": "direct",
+            "rus": "непосредственный"
+        },
+        {
+            "eng": "dirty",
+            "rus": "грязный"
+        },
+        {
+            "eng": "disabled",
+            "rus": "отключен"
+        },
+        {
+            "eng": "disappointed",
+            "rus": "разочарованный"
+        },
+        {
+            "eng": "disgusting",
+            "rus": "отвратительный"
+        },
+        {
+            "eng": "distant",
+            "rus": "отдаленный"
+        },
+        {
+            "eng": "distinct",
+            "rus": "отчетливый"
+        },
+        {
+            "eng": "domestic",
+            "rus": "внутренний"
+        },
+        {
+            "eng": "dominant",
+            "rus": "доминирующий"
+        },
+        {
+            "eng": "double",
+            "rus": "двойной"
+        },
+        {
+            "eng": "down",
+            "rus": "вниз"
+        },
+        {
+            "eng": "dramatic",
+            "rus": "драматичный"
+        },
+        {
+            "eng": "drunk",
+            "rus": "пьяный"
+        },
+        {
+            "eng": "dry",
+            "rus": "сухой"
+        },
+        {
+            "eng": "due",
+            "rus": "в связи"
+        },
+        {
+            "eng": "dull",
+            "rus": "скучный"
+        },
+        {
+            "eng": "dumb",
+            "rus": "тупой"
+        },
+        {
+            "eng": "early",
+            "rus": "рано"
+        },
+        {
+            "eng": "eastern",
+            "rus": "восточный"
+        },
+        {
+            "eng": "easy",
+            "rus": "легко"
+        },
+        {
+            "eng": "economic",
+            "rus": "экономической"
+        },
+        {
+            "eng": "educational",
+            "rus": "образования"
+        },
+        {
+            "eng": "effective",
+            "rus": "эффективный"
+        },
+        {
+            "eng": "efficient",
+            "rus": "эффективное"
+        },
+        {
+            "eng": "elderly",
+            "rus": "престарелые"
+        },
+        {
+            "eng": "electric",
+            "rus": "электрический"
+        },
+        {
+            "eng": "electrical",
+            "rus": "электрический"
+        },
+        {
+            "eng": "electronic",
+            "rus": "электронный"
+        },
+        {
+            "eng": "embarrassed",
+            "rus": "смущенный"
+        },
+        {
+            "eng": "emotional",
+            "rus": "эмоциональный"
+        },
+        {
+            "eng": "empty",
+            "rus": "пустой"
+        },
+        {
+            "eng": "encouraging",
+            "rus": "обнадеживающий"
+        },
+        {
+            "eng": "enjoyable",
+            "rus": "приятный"
+        },
+        {
+            "eng": "enormous",
+            "rus": "огромный"
+        },
+        {
+            "eng": "enthusiastic",
+            "rus": "восторженный"
+        },
+        {
+            "eng": "entire",
+            "rus": "все"
+        },
+        {
+            "eng": "environmental",
+            "rus": "экологическая"
+        },
+        {
+            "eng": "equal",
+            "rus": "равный"
+        },
+        {
+            "eng": "equivalent",
+            "rus": "эквивалент"
+        },
+        {
+            "eng": "essential",
+            "rus": "существенный"
+        },
+        {
+            "eng": "ethnic",
+            "rus": "этнической"
+        },
+        {
+            "eng": "evil",
+            "rus": "зло"
+        },
+        {
+            "eng": "exact",
+            "rus": "точный"
+        },
+        {
+            "eng": "excellent",
+            "rus": "отлично"
+        },
+        {
+            "eng": "exciting",
+            "rus": "захватывающе"
+        },
+        {
+            "eng": "executive",
+            "rus": "должностное лицо"
+        },
+        {
+            "eng": "existing",
+            "rus": "существующий"
+        },
+        {
+            "eng": "expensive",
+            "rus": "дорогая"
+        },
+        {
+            "eng": "experienced",
+            "rus": "опытный"
+        },
+        {
+            "eng": "experimental",
+            "rus": "экспериментальный"
+        },
+        {
+            "eng": "expert",
+            "rus": "эксперт"
+        },
+        {
+            "eng": "extensive",
+            "rus": "экстенсивный"
+        },
+        {
+            "eng": "external",
+            "rus": "внешний"
+        },
+        {
+            "eng": "extra",
+            "rus": "дополнительный"
+        },
+        {
+            "eng": "extraordinary",
+            "rus": "необычайный"
+        },
+        {
+            "eng": "extreme",
+            "rus": "экстремальный"
+        },
+        {
+            "eng": "fair",
+            "rus": "Справедливая"
+        },
+        {
+            "eng": "false",
+            "rus": "ложный"
+        },
+        {
+            "eng": "familiar",
+            "rus": "знакомые"
+        },
+        {
+            "eng": "famous",
+            "rus": "известный"
+        },
+        {
+            "eng": "fancy",
+            "rus": "маскарадный"
+        },
+        {
+            "eng": "fantastic",
+            "rus": "фантастика"
+        },
+        {
+            "eng": "far",
+            "rus": "далеко"
+        },
+        {
+            "eng": "fascinating",
+            "rus": "очаровательный"
+        },
+        {
+            "eng": "fast",
+            "rus": "быстро"
+        },
+        {
+            "eng": "fat",
+            "rus": "жир"
+        },
+        {
+            "eng": "favourite",
+            "rus": "любимый"
+        },
+        {
+            "eng": "federal",
+            "rus": "федеральный"
+        },
+        {
+            "eng": "fellow",
+            "rus": "человек"
+        },
+        {
+            "eng": "female",
+            "rus": "женский пол"
+        },
+        {
+            "eng": "few",
+            "rus": "мало"
+        },
+        {
+            "eng": "filthy",
+            "rus": "отвратительный"
+        },
+        {
+            "eng": "final",
+            "rus": "окончательный"
+        },
+        {
+            "eng": "financial",
+            "rus": "финансовый"
+        },
+        {
+            "eng": "fine",
+            "rus": "отлично"
+        },
+        {
+            "eng": "firm",
+            "rus": "фирма"
+        },
+        {
+            "eng": "first",
+            "rus": "первый"
+        },
+        {
+            "eng": "fit",
+            "rus": "поместиться"
+        },
+        {
+            "eng": "fixed",
+            "rus": "исправлено"
+        },
+        {
+            "eng": "flat",
+            "rus": "квартира"
+        },
+        {
+            "eng": "following",
+            "rus": "следующий"
+        },
+        {
+            "eng": "foreign",
+            "rus": "иностранные"
+        },
+        {
+            "eng": "formal",
+            "rus": "формальный"
+        },
+        {
+            "eng": "former",
+            "rus": "бывший"
+        },
+        {
+            "eng": "fortunate",
+            "rus": "удачливый"
+        },
+        {
+            "eng": "forward",
+            "rus": "вперед"
+        },
+        {
+            "eng": "free",
+            "rus": "свободно"
+        },
+        {
+            "eng": "frequent",
+            "rus": "частый"
+        },
+        {
+            "eng": "fresh",
+            "rus": "свежий"
+        },
+        {
+            "eng": "friendly",
+            "rus": "дружелюбный"
+        },
+        {
+            "eng": "frightened",
+            "rus": "испуганный"
+        },
+        {
+            "eng": "front",
+            "rus": "фронт"
+        },
+        {
+            "eng": "full",
+            "rus": "полный"
+        },
+        {
+            "eng": "fun",
+            "rus": "весело"
+        },
+        {
+            "eng": "fundamental",
+            "rus": "фундаментальный"
+        },
+        {
+            "eng": "funny",
+            "rus": "веселая"
+        },
+        {
+            "eng": "future",
+            "rus": "будущее"
+        },
+        {
+            "eng": "gay",
+            "rus": "гей"
+        },
+        {
+            "eng": "general",
+            "rus": "Генеральная"
+        },
+        {
+            "eng": "generous",
+            "rus": "великодушный"
+        },
+        {
+            "eng": "gentle",
+            "rus": "нежный"
+        },
+        {
+            "eng": "genuine",
+            "rus": "подлинный"
+        },
+        {
+            "eng": "giant",
+            "rus": "гигант"
+        },
+        {
+            "eng": "glad",
+            "rus": "довольный"
+        },
+        {
+            "eng": "global",
+            "rus": "Глобальный"
+        },
+        {
+            "eng": "gold",
+            "rus": "золото"
+        },
+        {
+            "eng": "golden",
+            "rus": "золотой"
+        },
+        {
+            "eng": "good",
+            "rus": "хорошо"
+        },
+        {
+            "eng": "gorgeous",
+            "rus": "безумно красивая"
+        },
+        {
+            "eng": "grand",
+            "rus": "большой"
+        },
+        {
+            "eng": "grateful",
+            "rus": "благодарный"
+        },
+        {
+            "eng": "great",
+            "rus": "Великий"
+        },
+        {
+            "eng": "green",
+            "rus": "зеленый"
+        },
+        {
+            "eng": "grey",
+            "rus": "серый"
+        },
+        {
+            "eng": "gross",
+            "rus": "валовой"
+        },
+        {
+            "eng": "guilty",
+            "rus": "виновный"
+        },
+        {
+            "eng": "halfway",
+            "rus": "наполовину"
+        },
+        {
+            "eng": "handy",
+            "rus": "удобный"
+        },
+        {
+            "eng": "happy",
+            "rus": "счастливый"
+        },
+        {
+            "eng": "hard",
+            "rus": "жесткий"
+        },
+        {
+            "eng": "healthy",
+            "rus": "здоровый"
+        },
+        {
+            "eng": "heavy",
+            "rus": "тяжелый"
+        },
+        {
+            "eng": "helpful",
+            "rus": "полезный"
+        },
+        {
+            "eng": "high",
+            "rus": "высокая"
+        },
+        {
+            "eng": "historical",
+            "rus": "исторический"
+        },
+        {
+            "eng": "holy",
+            "rus": "святой"
+        },
+        {
+            "eng": "honest",
+            "rus": "честный"
+        },
+        {
+            "eng": "hopeless",
+            "rus": "безнадежный"
+        },
+        {
+            "eng": "horrible",
+            "rus": "какой ужас"
+        },
+        {
+            "eng": "hot",
+            "rus": "горячий"
+        },
+        {
+            "eng": "huge",
+            "rus": "огромный"
+        },
+        {
+            "eng": "human",
+            "rus": "человек"
+        },
+        {
+            "eng": "hungry",
+            "rus": "голодный"
+        },
+        {
+            "eng": "ideal",
+            "rus": "идеальный"
+        },
+        {
+            "eng": "ill",
+            "rus": "больной"
+        },
+        {
+            "eng": "illegal",
+            "rus": "нелегальный"
+        },
+        {
+            "eng": "immediate",
+            "rus": "немедленный"
+        },
+        {
+            "eng": "important",
+            "rus": "важный"
+        },
+        {
+            "eng": "impossible",
+            "rus": "невозможно"
+        },
+        {
+            "eng": "impressive",
+            "rus": "впечатляющий"
+        },
+        {
+            "eng": "incredible",
+            "rus": "неимоверный"
+        },
+        {
+            "eng": "independent",
+            "rus": "независимый"
+        },
+        {
+            "eng": "individual",
+            "rus": "индивидуальный"
+        },
+        {
+            "eng": "industrial",
+            "rus": "промышленные"
+        },
+        {
+            "eng": "inevitable",
+            "rus": "неизбежный"
+        },
+        {
+            "eng": "informal",
+            "rus": "неофициальный"
+        },
+        {
+            "eng": "initial",
+            "rus": "начальная"
+        },
+        {
+            "eng": "inner",
+            "rus": "внутренний"
+        },
+        {
+            "eng": "innocent",
+            "rus": "невинный"
+        },
+        {
+            "eng": "instant",
+            "rus": "мгновенное"
+        },
+        {
+            "eng": "intellectual",
+            "rus": "интеллектуальной"
+        },
+        {
+            "eng": "intelligent",
+            "rus": "умный"
+        },
+        {
+            "eng": "intense",
+            "rus": "интенсивный"
+        },
+        {
+            "eng": "interested",
+            "rus": "заинтересованный"
+        },
+        {
+            "eng": "interesting",
+            "rus": "интересно"
+        },
+        {
+            "eng": "internal",
+            "rus": "внутренний"
+        },
+        {
+            "eng": "international",
+            "rus": "Международный"
+        },
+        {
+            "eng": "involved",
+            "rus": "участвует"
+        },
+        {
+            "eng": "joint",
+            "rus": "совместный"
+        },
+        {
+            "eng": "junior",
+            "rus": "младший"
+        },
+        {
+            "eng": "keen",
+            "rus": "острый"
+        },
+        {
+            "eng": "key",
+            "rus": "ключ"
+        },
+        {
+            "eng": "kind",
+            "rus": "своего рода"
+        },
+        {
+            "eng": "known",
+            "rus": "известен"
+        },
+        {
+            "eng": "large",
+            "rus": "большой"
+        },
+        {
+            "eng": "last",
+            "rus": "последний"
+        },
+        {
+            "eng": "late",
+            "rus": "поздно"
+        },
+        {
+            "eng": "lazy",
+            "rus": "ленивый"
+        },
+        {
+            "eng": "leading",
+            "rus": "ведущий"
+        },
+        {
+            "eng": "left",
+            "rus": "оставил"
+        },
+        {
+            "eng": "legal",
+            "rus": "правовой"
+        },
+        {
+            "eng": "level",
+            "rus": "уровень"
+        },
+        {
+            "eng": "liberal",
+            "rus": "либеральный"
+        },
+        {
+            "eng": "light",
+            "rus": "легкий"
+        },
+        {
+            "eng": "likely",
+            "rus": "вероятно"
+        },
+        {
+            "eng": "limited",
+            "rus": "ограниченное"
+        },
+        {
+            "eng": "literary",
+            "rus": "литературный"
+        },
+        {
+            "eng": "little",
+            "rus": "немного"
+        },
+        {
+            "eng": "live",
+            "rus": "жить"
+        },
+        {
+            "eng": "lively",
+            "rus": "оживленный"
+        },
+        {
+            "eng": "local",
+            "rus": "местный"
+        },
+        {
+            "eng": "logical",
+            "rus": "логический"
+        },
+        {
+            "eng": "lonely",
+            "rus": "Одинокий"
+        },
+        {
+            "eng": "long",
+            "rus": "длинный"
+        },
+        {
+            "eng": "loose",
+            "rus": "свободный"
+        },
+        {
+            "eng": "lost",
+            "rus": "потерял"
+        },
+        {
+            "eng": "loud",
+            "rus": "громкий"
+        },
+        {
+            "eng": "lovely",
+            "rus": "прекрасный"
+        },
+        {
+            "eng": "low",
+            "rus": "низкий"
+        },
+        {
+            "eng": "lower",
+            "rus": "ниже"
+        },
+        {
+            "eng": "lucky",
+            "rus": "везучий"
+        },
+        {
+            "eng": "mad",
+            "rus": "Сумасшедший"
+        },
+        {
+            "eng": "main",
+            "rus": "главный"
+        },
+        {
+            "eng": "major",
+            "rus": "главный"
+        },
+        {
+            "eng": "male",
+            "rus": "мужской"
+        },
+        {
+            "eng": "many",
+            "rus": "многие"
+        },
+        {
+            "eng": "married",
+            "rus": "в браке"
+        },
+        {
+            "eng": "marvellous",
+            "rus": "дивный"
+        },
+        {
+            "eng": "mass",
+            "rus": "масса"
+        },
+        {
+            "eng": "massive",
+            "rus": "массивный"
+        },
+        {
+            "eng": "material",
+            "rus": "материал"
+        },
+        {
+            "eng": "maximum",
+            "rus": "максимальная"
+        },
+        {
+            "eng": "medical",
+            "rus": "медицинская"
+        },
+        {
+            "eng": "medieval",
+            "rus": "средневековый"
+        },
+        {
+            "eng": "medium",
+            "rus": "средний"
+        },
+        {
+            "eng": "mental",
+            "rus": "умственный"
+        },
+        {
+            "eng": "mere",
+            "rus": "всего лишь"
+        },
+        {
+            "eng": "messy",
+            "rus": "беспорядочный"
+        },
+        {
+            "eng": "middle",
+            "rus": "средний"
+        },
+        {
+            "eng": "military",
+            "rus": "военные"
+        },
+        {
+            "eng": "minimum",
+            "rus": "минимальный"
+        },
+        {
+            "eng": "minor",
+            "rus": "незначительный"
+        },
+        {
+            "eng": "mixed",
+            "rus": "смешанный"
+        },
+        {
+            "eng": "modern",
+            "rus": "современное"
+        },
+        {
+            "eng": "moral",
+            "rus": "моральный"
+        },
+        {
+            "eng": "musical",
+            "rus": "музыкальный"
+        },
+        {
+            "eng": "naked",
+            "rus": "обнаженный"
+        },
+        {
+            "eng": "narrow",
+            "rus": "узкий"
+        },
+        {
+            "eng": "nasty",
+            "rus": "противный"
+        },
+        {
+            "eng": "national",
+            "rus": "национальный"
+        },
+        {
+            "eng": "native",
+            "rus": "родной"
+        },
+        {
+            "eng": "natural",
+            "rus": "натуральный"
+        },
+        {
+            "eng": "naughty",
+            "rus": "непослушный"
+        },
+        {
+            "eng": "near",
+            "rus": "возле"
+        },
+        {
+            "eng": "nearby",
+            "rus": "рядом, поблизости"
+        },
+        {
+            "eng": "neat",
+            "rus": "аккуратный"
+        },
+        {
+            "eng": "necessary",
+            "rus": "необходимо"
+        },
+        {
+            "eng": "negative",
+            "rus": "отрицательные"
+        },
+        {
+            "eng": "nervous",
+            "rus": "нервное"
+        },
+        {
+            "eng": "new",
+            "rus": "новый"
+        },
+        {
+            "eng": "next",
+            "rus": "следующий"
+        },
+        {
+            "eng": "nice",
+            "rus": "хороший"
+        },
+        {
+            "eng": "noisy",
+            "rus": "шумный"
+        },
+        {
+            "eng": "normal",
+            "rus": "нормальный"
+        },
+        {
+            "eng": "northern",
+            "rus": "северный"
+        },
+        {
+            "eng": "nuclear",
+            "rus": "ядерной"
+        },
+        {
+            "eng": "numerous",
+            "rus": "многочисленные"
+        },
+        {
+            "eng": "obvious",
+            "rus": "очевидный"
+        },
+        {
+            "eng": "occasional",
+            "rus": "случайный"
+        },
+        {
+            "eng": "odd",
+            "rus": "странный"
+        },
+        {
+            "eng": "off",
+            "rus": "от"
+        },
+        {
+            "eng": "official",
+            "rus": "официальный"
+        },
+        {
+            "eng": "old",
+            "rus": "старый"
+        },
+        {
+            "eng": "on",
+            "rus": "на"
+        },
+        {
+            "eng": "only",
+            "rus": "только"
+        },
+        {
+            "eng": "open",
+            "rus": "открытый"
+        },
+        {
+            "eng": "ordinary",
+            "rus": "обычный"
+        },
+        {
+            "eng": "organic",
+            "rus": "органический"
+        },
+        {
+            "eng": "organized",
+            "rus": "организованная"
+        },
+        {
+            "eng": "original",
+            "rus": "оригинал"
+        },
+        {
+            "eng": "other",
+            "rus": "Другие"
+        },
+        {
+            "eng": "outside",
+            "rus": "за пределами"
+        },
+        {
+            "eng": "outstanding",
+            "rus": "выдающийся"
+        },
+        {
+            "eng": "over",
+            "rus": "над"
+        },
+        {
+            "eng": "overall",
+            "rus": "в общем и целом"
+        },
+        {
+            "eng": "own",
+            "rus": "своя"
+        },
+        {
+            "eng": "pale",
+            "rus": "бледный"
+        },
+        {
+            "eng": "particular",
+            "rus": "конкретный"
+        },
+        {
+            "eng": "past",
+            "rus": "мимо"
+        },
+        {
+            "eng": "patient",
+            "rus": "пациент"
+        },
+        {
+            "eng": "peaceful",
+            "rus": "мирное"
+        },
+        {
+            "eng": "perfect",
+            "rus": "идеально"
+        },
+        {
+            "eng": "permanent",
+            "rus": "постоянный"
+        },
+        {
+            "eng": "personal",
+            "rus": "личный"
+        },
+        {
+            "eng": "physical",
+            "rus": "физическое"
+        },
+        {
+            "eng": "pink",
+            "rus": "розовый"
+        },
+        {
+            "eng": "plain",
+            "rus": "гладкий"
+        },
+        {
+            "eng": "pleasant",
+            "rus": "приятный"
+        },
+        {
+            "eng": "pleased",
+            "rus": "довольный"
+        },
+        {
+            "eng": "polite",
+            "rus": "вежливый"
+        },
+        {
+            "eng": "political",
+            "rus": "политическая"
+        },
+        {
+            "eng": "poor",
+            "rus": "бедные"
+        },
+        {
+            "eng": "popular",
+            "rus": "популярный"
+        },
+        {
+            "eng": "positive",
+            "rus": "положительный"
+        },
+        {
+            "eng": "possible",
+            "rus": "возможное"
+        },
+        {
+            "eng": "potential",
+            "rus": "потенциал"
+        },
+        {
+            "eng": "powerful",
+            "rus": "мощный"
+        },
+        {
+            "eng": "practical",
+            "rus": "практическое"
+        },
+        {
+            "eng": "precise",
+            "rus": "точный"
+        },
+        {
+            "eng": "pregnant",
+            "rus": "беременная"
+        },
+        {
+            "eng": "prepared",
+            "rus": "подготовленный"
+        },
+        {
+            "eng": "present",
+            "rus": "настоящее время"
+        },
+        {
+            "eng": "pretty",
+            "rus": "Симпатичная"
+        },
+        {
+            "eng": "previous",
+            "rus": "предыдущий"
+        },
+        {
+            "eng": "primary",
+            "rus": "первичный"
+        },
+        {
+            "eng": "principal",
+            "rus": "главный"
+        },
+        {
+            "eng": "prior",
+            "rus": "предшествующий"
+        },
+        {
+            "eng": "private",
+            "rus": "частный"
+        },
+        {
+            "eng": "professional",
+            "rus": "профессиональный"
+        },
+        {
+            "eng": "prompt",
+            "rus": "незамедлительный"
+        },
+        {
+            "eng": "proper",
+            "rus": "правильный"
+        },
+        {
+            "eng": "proposed",
+            "rus": "предложенный"
+        },
+        {
+            "eng": "proud",
+            "rus": "гордый"
+        },
+        {
+            "eng": "psychological",
+            "rus": "психологический"
+        },
+        {
+            "eng": "public",
+            "rus": "общественности"
+        },
+        {
+            "eng": "pure",
+            "rus": "чистый"
+        },
+        {
+            "eng": "purple",
+            "rus": "пурпурный"
+        },
+        {
+            "eng": "quick",
+            "rus": "быстро"
+        },
+        {
+            "eng": "quiet",
+            "rus": "тихо"
+        },
+        {
+            "eng": "radical",
+            "rus": "радикал"
+        },
+        {
+            "eng": "rapid",
+            "rus": "быстрый"
+        },
+        {
+            "eng": "rare",
+            "rus": "редкий"
+        },
+        {
+            "eng": "raw",
+            "rus": "сырье"
+        },
+        {
+            "eng": "ready",
+            "rus": "готов"
+        },
+        {
+            "eng": "real",
+            "rus": "реальный"
+        },
+        {
+            "eng": "realistic",
+            "rus": "реалистический"
+        },
+        {
+            "eng": "reasonable",
+            "rus": "разумный"
+        },
+        {
+            "eng": "recent",
+            "rus": "недавний"
+        },
+        {
+            "eng": "red",
+            "rus": "красный"
+        },
+        {
+            "eng": "regional",
+            "rus": "региональный"
+        },
+        {
+            "eng": "regular",
+            "rus": "регулярный"
+        },
+        {
+            "eng": "related",
+            "rus": "Связанный"
+        },
+        {
+            "eng": "relative",
+            "rus": "относительный"
+        },
+        {
+            "eng": "relevant",
+            "rus": "Соответствующий"
+        },
+        {
+            "eng": "religious",
+            "rus": "религиозная"
+        },
+        {
+            "eng": "remaining",
+            "rus": "осталось"
+        },
+        {
+            "eng": "remarkable",
+            "rus": "замечательный"
+        },
+        {
+            "eng": "remote",
+            "rus": "дистанционный пульт"
+        },
+        {
+            "eng": "residential",
+            "rus": "Жилой"
+        },
+        {
+            "eng": "responsible",
+            "rus": "ответственность"
+        },
+        {
+            "eng": "rich",
+            "rus": "богатые"
+        },
+        {
+            "eng": "rid",
+            "rus": "избавиться"
+        },
+        {
+            "eng": "ridiculous",
+            "rus": "смешной"
+        },
+        {
+            "eng": "right",
+            "rus": "правильно"
+        },
+        {
+            "eng": "rough",
+            "rus": "грубый"
+        },
+        {
+            "eng": "round",
+            "rus": "круглый"
+        },
+        {
+            "eng": "royal",
+            "rus": "королевский"
+        },
+        {
+            "eng": "rude",
+            "rus": "грубый"
+        },
+        {
+            "eng": "rural",
+            "rus": "сельская местность"
+        },
+        {
+            "eng": "sad",
+            "rus": "грустный"
+        },
+        {
+            "eng": "safe",
+            "rus": "безопасно"
+        },
+        {
+            "eng": "same",
+            "rus": "одна и та же"
+        },
+        {
+            "eng": "satisfied",
+            "rus": "доволен"
+        },
+        {
+            "eng": "scared",
+            "rus": "испуганный"
+        },
+        {
+            "eng": "scientific",
+            "rus": "научный"
+        },
+        {
+            "eng": "secondary",
+            "rus": "вторичный"
+        },
+        {
+            "eng": "secret",
+            "rus": "секрет"
+        },
+        {
+            "eng": "secure",
+            "rus": "безопасный"
+        },
+        {
+            "eng": "senior",
+            "rus": "старшая"
+        },
+        {
+            "eng": "sensible",
+            "rus": "здравомыслящий"
+        },
+        {
+            "eng": "sensitive",
+            "rus": "чувствительный"
+        },
+        {
+            "eng": "separate",
+            "rus": "отдельный"
+        },
+        {
+            "eng": "serious",
+            "rus": "серьезный"
+        },
+        {
+            "eng": "severe",
+            "rus": "серьезный"
+        },
+        {
+            "eng": "sexual",
+            "rus": "половой"
+        },
+        {
+            "eng": "sharp",
+            "rus": "острый"
+        },
+        {
+            "eng": "shocked",
+            "rus": "в шоке"
+        },
+        {
+            "eng": "shocking",
+            "rus": "отвратительный"
+        },
+        {
+            "eng": "short",
+            "rus": "короткая"
+        },
+        {
+            "eng": "sick",
+            "rus": "больной"
+        },
+        {
+            "eng": "significant",
+            "rus": "значительное"
+        },
+        {
+            "eng": "silent",
+            "rus": "бесшумный"
+        },
+        {
+            "eng": "silly",
+            "rus": "глупый"
+        },
+        {
+            "eng": "similar",
+            "rus": "аналогичный"
+        },
+        {
+            "eng": "simple",
+            "rus": "просто"
+        },
+        {
+            "eng": "single",
+            "rus": "Один"
+        },
+        {
+            "eng": "slight",
+            "rus": "незначительный"
+        },
+        {
+            "eng": "slim",
+            "rus": "стройное"
+        },
+        {
+            "eng": "slow",
+            "rus": "медленный"
+        },
+        {
+            "eng": "small",
+            "rus": "маленький"
+        },
+        {
+            "eng": "smart",
+            "rus": "умная"
+        },
+        {
+            "eng": "smooth",
+            "rus": "гладкий; плавный"
+        },
+        {
+            "eng": "social",
+            "rus": "Социальное"
+        },
+        {
+            "eng": "soft",
+            "rus": "мягкий"
+        },
+        {
+            "eng": "sole",
+            "rus": "единственный"
+        },
+        {
+            "eng": "solid",
+            "rus": "твердый"
+        },
+        {
+            "eng": "sore",
+            "rus": "воспаленный"
+        },
+        {
+            "eng": "sorry",
+            "rus": "Прости"
+        },
+        {
+            "eng": "sound",
+            "rus": "звук"
+        },
+        {
+            "eng": "southern",
+            "rus": "южный"
+        },
+        {
+            "eng": "spare",
+            "rus": "запасной"
+        },
+        {
+            "eng": "special",
+            "rus": "особый"
+        },
+        {
+            "eng": "specific",
+            "rus": "конкретный"
+        },
+        {
+            "eng": "spiritual",
+            "rus": "духовный"
+        },
+        {
+            "eng": "square",
+            "rus": "квадрат"
+        },
+        {
+            "eng": "stable",
+            "rus": "стабильный"
+        },
+        {
+            "eng": "standard",
+            "rus": "стандарт"
+        },
+        {
+            "eng": "steady",
+            "rus": "неуклонный"
+        },
+        {
+            "eng": "steep",
+            "rus": "крутой"
+        },
+        {
+            "eng": "stiff",
+            "rus": "жесткий"
+        },
+        {
+            "eng": "still",
+            "rus": "все еще"
+        },
+        {
+            "eng": "straight",
+            "rus": "Прямо"
+        },
+        {
+            "eng": "straightforward",
+            "rus": "простой"
+        },
+        {
+            "eng": "strange",
+            "rus": "странный"
+        },
+        {
+            "eng": "strategic",
+            "rus": "стратегический"
+        },
+        {
+            "eng": "strict",
+            "rus": "строгий"
+        },
+        {
+            "eng": "strong",
+            "rus": "сильный"
+        },
+        {
+            "eng": "stupid",
+            "rus": "глупый"
+        },
+        {
+            "eng": "subsequent",
+            "rus": "последующий"
+        },
+        {
+            "eng": "substantial",
+            "rus": "существенный"
+        },
+        {
+            "eng": "successful",
+            "rus": "успешный"
+        },
+        {
+            "eng": "sudden",
+            "rus": "внезапно"
+        },
+        {
+            "eng": "sufficient",
+            "rus": "достаточно"
+        },
+        {
+            "eng": "suitable",
+            "rus": "подходящее"
+        },
+        {
+            "eng": "super",
+            "rus": "супер"
+        },
+        {
+            "eng": "sure",
+            "rus": "конечно"
+        },
+        {
+            "eng": "surprised",
+            "rus": "удивленный"
+        },
+        {
+            "eng": "surprising",
+            "rus": "удивительный"
+        },
+        {
+            "eng": "suspicious",
+            "rus": "подозрительный"
+        },
+        {
+            "eng": "sweet",
+            "rus": "милая"
+        },
+        {
+            "eng": "tall",
+            "rus": "высокий"
+        },
+        {
+            "eng": "technical",
+            "rus": "технический"
+        },
+        {
+            "eng": "temporary",
+            "rus": "временный"
+        },
+        {
+            "eng": "terrible",
+            "rus": "ужасный"
+        },
+        {
+            "eng": "theoretical",
+            "rus": "теоретический"
+        },
+        {
+            "eng": "thick",
+            "rus": "толстый"
+        },
+        {
+            "eng": "thin",
+            "rus": "тонкий"
+        },
+        {
+            "eng": "tidy",
+            "rus": "аккуратный"
+        },
+        {
+            "eng": "tight",
+            "rus": "в обтяжку"
+        },
+        {
+            "eng": "tiny",
+            "rus": "крошечный"
+        },
+        {
+            "eng": "tired",
+            "rus": "устала"
+        },
+        {
+            "eng": "top",
+            "rus": "Вверх"
+        },
+        {
+            "eng": "total",
+            "rus": "Всего"
+        },
+        {
+            "eng": "tough",
+            "rus": "жесткий"
+        },
+        {
+            "eng": "traditional",
+            "rus": "традиционный"
+        },
+        {
+            "eng": "tremendous",
+            "rus": "огромный"
+        },
+        {
+            "eng": "tricky",
+            "rus": "запутанный"
+        },
+        {
+            "eng": "true",
+            "rus": "правда"
+        },
+        {
+            "eng": "typical",
+            "rus": "типичный"
+        },
+        {
+            "eng": "ugly",
+            "rus": "уродливый"
+        },
+        {
+            "eng": "ultimate",
+            "rus": "окончательный"
+        },
+        {
+            "eng": "unable",
+            "rus": "не в состоянии"
+        },
+        {
+            "eng": "unbelievable",
+            "rus": "невероятно"
+        },
+        {
+            "eng": "unemployed",
+            "rus": "безработные"
+        },
+        {
+            "eng": "unfair",
+            "rus": "недобросовестный"
+        },
+        {
+            "eng": "unfortunate",
+            "rus": "несчастный"
+        },
+        {
+            "eng": "unhappy",
+            "rus": "несчастный"
+        },
+        {
+            "eng": "unique",
+            "rus": "уникальный"
+        },
+        {
+            "eng": "united",
+            "rus": "единый"
+        },
+        {
+            "eng": "universal",
+            "rus": "универсальный"
+        },
+        {
+            "eng": "unknown",
+            "rus": "неизвестный"
+        },
+        {
+            "eng": "unlikely",
+            "rus": "вряд ли"
+        },
+        {
+            "eng": "unusual",
+            "rus": "необычный"
+        },
+        {
+            "eng": "up",
+            "rus": "вверх"
+        },
+        {
+            "eng": "upper",
+            "rus": "верхний"
+        },
+        {
+            "eng": "upset",
+            "rus": "рассториться"
+        },
+        {
+            "eng": "urban",
+            "rus": "городской"
+        },
+        {
+            "eng": "urgent",
+            "rus": "срочный"
+        },
+        {
+            "eng": "used",
+            "rus": "используемый"
+        },
+        {
+            "eng": "useful",
+            "rus": "полезным"
+        },
+        {
+            "eng": "usual",
+            "rus": "обычный"
+        },
+        {
+            "eng": "vague",
+            "rus": "расплывчатый"
+        },
+        {
+            "eng": "valuable",
+            "rus": "ценный"
+        },
+        {
+            "eng": "various",
+            "rus": "различный"
+        },
+        {
+            "eng": "vast",
+            "rus": "огромный"
+        },
+        {
+            "eng": "very",
+            "rus": "очень"
+        },
+        {
+            "eng": "violent",
+            "rus": "насильственный"
+        },
+        {
+            "eng": "visible",
+            "rus": "видимый"
+        },
+        {
+            "eng": "visual",
+            "rus": "визуальный"
+        },
+        {
+            "eng": "vital",
+            "rus": "жизненно важно"
+        },
+        {
+            "eng": "voluntary",
+            "rus": "добровольный"
+        },
+        {
+            "eng": "vulnerable",
+            "rus": "уязвимый"
+        },
+        {
+            "eng": "warm",
+            "rus": "тепло"
+        },
+        {
+            "eng": "waste",
+            "rus": "отходы"
+        },
+        {
+            "eng": "weak",
+            "rus": "слабый"
+        },
+        {
+            "eng": "weekly",
+            "rus": "еженедельно"
+        },
+        {
+            "eng": "weird",
+            "rus": "странный"
+        },
+        {
+            "eng": "welcome",
+            "rus": "добро пожаловать"
+        },
+        {
+            "eng": "well",
+            "rus": "Что ж"
+        },
+        {
+            "eng": "western",
+            "rus": "вестерн"
+        },
+        {
+            "eng": "wet",
+            "rus": "влажный"
+        },
+        {
+            "eng": "white",
+            "rus": "белый"
+        },
+        {
+            "eng": "whole",
+            "rus": "все"
+        },
+        {
+            "eng": "wicked",
+            "rus": "злой"
+        },
+        {
+            "eng": "wide",
+            "rus": "широкий"
+        },
+        {
+            "eng": "widespread",
+            "rus": "широко распространен"
+        },
+        {
+            "eng": "wild",
+            "rus": "дикий"
+        },
+        {
+            "eng": "willing",
+            "rus": "готовы"
+        },
+        {
+            "eng": "windy",
+            "rus": "ветреный"
+        },
+        {
+            "eng": "wise",
+            "rus": "мудрый"
+        },
+        {
+            "eng": "wonderful",
+            "rus": "замечательно"
+        },
+        {
+            "eng": "wooden",
+            "rus": "деревянный"
+        },
+        {
+            "eng": "working",
+            "rus": "за работой"
+        },
+        {
+            "eng": "worried",
+            "rus": "волновался"
+        },
+        {
+            "eng": "worrying",
+            "rus": "беспокойство"
+        },
+        {
+            "eng": "worse",
+            "rus": "хуже"
+        },
+        {
+            "eng": "wrong",
+            "rus": "неправильно"
+        },
+        {
+            "eng": "yellow",
+            "rus": "желтый"
+        },
+        {
+            "eng": "young",
+            "rus": "молодой"
+        }
+    ]
+}
