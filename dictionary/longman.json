@@ -1,18 +1,18 @@
 {
   "lines": {
     "1000": {
-      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.mp3.json",
-      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.mp3.json",
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
       "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman.3000.json"
     },
     "2000": {
-      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.mp3.json",
-      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.mp3.json",
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
       "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman.3000.json"
     },
     "3000": {
-      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.mp3.json",
-      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.mp3.json",
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman/longman.{ph}.aac.json",
       "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/longman.3000.json"
     }
   }
