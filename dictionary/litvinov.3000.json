@@ -1,0 +1,9 @@
+{
+  "lines": {
+    "VerbsOfStage": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/litvinov.3000/litvinov.3000.{ph}.aac.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/litvinov.3000/litvinov.3000.{ph}.aac.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/litvinov.VerbsOfStage.json"
+    }
+  }
+}
