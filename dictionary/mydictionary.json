@@ -1,0 +1,9 @@
+{
+  "lines": {
+    "1-25": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/mydictionary/mydictionary.{ph}.wav.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/mydictionary/mydictionary.{ph}.example.wav.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/mydictionary.25.json"
+    }
+  }
+}

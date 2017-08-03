@@ -1,0 +1,73 @@
+
+{
+    "lines": [
+        {
+            "eng": "java",
+            "rus": "Ява"
+        },
+        {
+            "eng": "leak",
+            "rus": "утечка",
+            "examples": [
+                {
+                    "eng": "i put the phone on the table3",
+                    "rus": "Я положил телефон на стол3"
+                },
+                {
+                    "eng": "i put the phone on the table4",
+                    "rus": "Я положил телефон на стол4"
+                }
+            ]
+        },
+        {
+            "eng": "prematurely",
+            "rus": "преждевременно"
+        },
+        {
+            "eng": "put",
+            "rus": "положить",
+            "examples": [
+                {
+                    "eng": "i put the phone on the table1",
+                    "rus": "Я положил телефон на стол1"
+                },
+                {
+                    "eng": "i put the phone on the table2",
+                    "rus": "Я положил телефон на стол2"
+                }
+            ]
+        },
+        {
+            "eng": "suitable",
+            "rus": "подходящее",
+            "examples": [
+                {
+                    "eng": "i put the phone on the table5",
+                    "rus": "Я положил телефон на стол5"
+                },
+                {
+                    "eng": "i put the phone on the table6",
+                    "rus": "Я положил телефон на стол6"
+                }
+            ]
+        },
+        {
+            "eng": "test",
+            "rus": "контрольная работа"
+        },
+        {
+            "eng": "text",
+            "rus": "текст",
+            "examples": [
+                {
+                    "eng": "i put the phone on the table7",
+                    "rus": "Я положил телефон на стол7"
+                },
+                {
+                    "eng": "test",
+                    "rus": "контрольная работа"
+                }
+            ]
+        }
+    ]
+}
