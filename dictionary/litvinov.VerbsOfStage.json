@@ -23,7 +23,13 @@
         },
         {
             "eng": "cease",
-            "rus": "прекращение"
+            "rus": "прекращение",
+            "examples": [
+                {
+                    "eng": "to work without cease",
+                    "rus": "работать не покладая рук"
+                }
+            ]
         },
         {
             "eng": "complete",
