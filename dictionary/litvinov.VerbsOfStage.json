@@ -2,72 +2,104 @@
 {
     "lines": [
         {
-            "eng": "java",
-            "rus": "Ява"
+            "eng": "appear",
+            "rus": "появиться"
         },
         {
-            "eng": "leak",
-            "rus": "утечка",
-            "examples": [
-                {
-                    "eng": "i put the phone on the table3",
-                    "rus": "Я положил телефон на стол3"
-                },
-                {
-                    "eng": "i put the phone on the table4",
-                    "rus": "Я положил телефон на стол4"
-                }
-            ]
+            "eng": "be late",
+            "rus": "опаздывать"
         },
         {
-            "eng": "prematurely",
-            "rus": "преждевременно"
+            "eng": "become",
+            "rus": "стали"
         },
         {
-            "eng": "put",
-            "rus": "положить",
-            "examples": [
-                {
-                    "eng": "i put the phone on the table1",
-                    "rus": "Я положил телефон на стол1"
-                },
-                {
-                    "eng": "i put the phone on the table2",
-                    "rus": "Я положил телефон на стол2"
-                }
-            ]
+            "eng": "begin",
+            "rus": "начать"
         },
         {
-            "eng": "suitable",
-            "rus": "подходящее",
-            "examples": [
-                {
-                    "eng": "i put the phone on the table5",
-                    "rus": "Я положил телефон на стол5"
-                },
-                {
-                    "eng": "i put the phone on the table6",
-                    "rus": "Я положил телефон на стол6"
-                }
-            ]
+            "eng": "break",
+            "rus": "ломать"
         },
         {
-            "eng": "test",
-            "rus": "контрольная работа"
+            "eng": "cease",
+            "rus": "прекращение"
         },
         {
-            "eng": "text",
-            "rus": "текст",
-            "examples": [
-                {
-                    "eng": "i put the phone on the table7",
-                    "rus": "Я положил телефон на стол7"
-                },
-                {
-                    "eng": "test",
-                    "rus": "контрольная работа"
-                }
-            ]
+            "eng": "complete",
+            "rus": "полный"
+        },
+        {
+            "eng": "continue",
+            "rus": "Продолжать"
+        },
+        {
+            "eng": "delay",
+            "rus": "задержка"
+        },
+        {
+            "eng": "end",
+            "rus": "конец"
+        },
+        {
+            "eng": "finish",
+            "rus": "Конец"
+        },
+        {
+            "eng": "get",
+            "rus": "получить,становиться"
+        },
+        {
+            "eng": "go on",
+            "rus": "продолжай"
+        },
+        {
+            "eng": "grow",
+            "rus": "расти"
+        },
+        {
+            "eng": "interrupt",
+            "rus": "прерывание"
+        },
+        {
+            "eng": "last",
+            "rus": "последний"
+        },
+        {
+            "eng": "postpone",
+            "rus": "откладывать"
+        },
+        {
+            "eng": "prepare",
+            "rus": "подготовить"
+        },
+        {
+            "eng": "put off",
+            "rus": "откладывать"
+        },
+        {
+            "eng": "repeat",
+            "rus": "повторение"
+        },
+        {
+            "eng": "resume",
+            "rus": "продолжить"
+        },
+        {
+            "eng": "start",
+            "rus": "Начало"
+        },
+        {
+            "eng": "stop",
+            "rus": "стоп"
+        },
+        {
+            "eng": "suspend",
+            "rus": "приостановить"
+        },
+        {
+            "eng": "take",
+            "rus": "принимать"
         }
     ]
 }
