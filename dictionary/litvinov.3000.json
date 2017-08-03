@@ -1,8 +1,8 @@
 {
   "lines": {
     "VerbsOfStage": {
-      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/litvinov.3000/litvinov.3000.{ph}.mp3.json",
-      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/litvinov.3000/litvinov.3000.{ph}.example.mp3.json",
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/litvinov.3000/litvinov.3000.{ph}.wav.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/litvinov.3000/litvinov.3000.{ph}.example.wav.json",
       "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/litvinov.VerbsOfStage.json"
     }
   }
