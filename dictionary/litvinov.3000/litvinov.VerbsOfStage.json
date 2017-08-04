@@ -1,0 +1,129 @@
+
+{
+    "lines": [
+        {
+            "eng": "appear",
+            "rus": "появиться"
+        },
+        {
+            "eng": "be late",
+            "rus": "опаздывать",
+            "examples": [
+                {
+                    "eng": "late",
+                    "rus": "поздно"
+                }
+            ]
+        },
+        {
+            "eng": "become",
+            "rus": "стали"
+        },
+        {
+            "eng": "begin",
+            "rus": "начать"
+        },
+        {
+            "eng": "break",
+            "rus": "ломать"
+        },
+        {
+            "eng": "cease",
+            "rus": "прекращение",
+            "examples": [
+                {
+                    "eng": "to work without cease",
+                    "rus": "работать не покладая рук"
+                }
+            ]
+        },
+        {
+            "eng": "complete",
+            "rus": "полный"
+        },
+        {
+            "eng": "continue",
+            "rus": "Продолжать"
+        },
+        {
+            "eng": "delay",
+            "rus": "задержка"
+        },
+        {
+            "eng": "end",
+            "rus": "конец"
+        },
+        {
+            "eng": "finish",
+            "rus": "Конец"
+        },
+        {
+            "eng": "get",
+            "rus": "получить,становиться"
+        },
+        {
+            "eng": "go on",
+            "rus": "продолжай",
+            "examples": [
+                {
+                    "eng": "go",
+                    "rus": "идти"
+                }
+            ]
+        },
+        {
+            "eng": "grow",
+            "rus": "расти"
+        },
+        {
+            "eng": "interrupt",
+            "rus": "прерывание"
+        },
+        {
+            "eng": "last",
+            "rus": "последний"
+        },
+        {
+            "eng": "postpone",
+            "rus": "откладывать"
+        },
+        {
+            "eng": "prepare",
+            "rus": "подготовить"
+        },
+        {
+            "eng": "put off",
+            "rus": "откладывать",
+            "examples": [
+                {
+                    "eng": "put",
+                    "rus": "положил"
+                }
+            ]
+        },
+        {
+            "eng": "repeat",
+            "rus": "повторение"
+        },
+        {
+            "eng": "resume",
+            "rus": "продолжить"
+        },
+        {
+            "eng": "start",
+            "rus": "Начало"
+        },
+        {
+            "eng": "stop",
+            "rus": "стоп"
+        },
+        {
+            "eng": "suspend",
+            "rus": "приостановить"
+        },
+        {
+            "eng": "take",
+            "rus": "принимать"
+        }
+    ]
+}
