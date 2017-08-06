@@ -1,0 +1,121 @@
+
+{
+    "lines": [
+        {
+            "eng": "advance",
+            "rus": "продвигаться"
+        },
+        {
+            "eng": "arrive",
+            "rus": "прибывать"
+        },
+        {
+            "eng": "attain",
+            "rus": "достигать"
+        },
+        {
+            "eng": "come",
+            "rus": "приехать"
+        },
+        {
+            "eng": "come across",
+            "rus": "встречаться",
+            "examples": [
+                {
+                    "eng": "come",
+                    "rus": "приехать"
+                }
+            ]
+        },
+        {
+            "eng": "cross",
+            "rus": "пересекать"
+        },
+        {
+            "eng": "depart",
+            "rus": "отправляться"
+        },
+        {
+            "eng": "enter",
+            "rus": "входить, вводить"
+        },
+        {
+            "eng": "follow",
+            "rus": "следовать"
+        },
+        {
+            "eng": "go along",
+            "rus": "идти вдоль",
+            "examples": [
+                {
+                    "eng": "go",
+                    "rus": "идти"
+                }
+            ]
+        },
+        {
+            "eng": "go in",
+            "rus": "входить",
+            "examples": [
+                {
+                    "eng": "go",
+                    "rus": "идти"
+                }
+            ]
+        },
+        {
+            "eng": "go out",
+            "rus": "выходить",
+            "examples": [
+                {
+                    "eng": "go",
+                    "rus": "идти"
+                }
+            ]
+        },
+        {
+            "eng": "leave",
+            "rus": "отправляться"
+        },
+        {
+            "eng": "meet",
+            "rus": "встречать"
+        },
+        {
+            "eng": "pass",
+            "rus": "проходить мимо"
+        },
+        {
+            "eng": "reach",
+            "rus": "достигать"
+        },
+        {
+            "eng": "return",
+            "rus": "возвращаться"
+        },
+        {
+            "eng": "run into",
+            "rus": "врезаться в",
+            "examples": [
+                {
+                    "eng": "run",
+                    "rus": "бег"
+                }
+            ]
+        },
+        {
+            "eng": "start",
+            "rus": "отправляться"
+        },
+        {
+            "eng": "turn left",
+            "rus": "повернутьналево",
+            "examples": [
+                {
+                    "eng": "turn",
+                    "rus": "очередь"
+                }
+            ]
+        }
+    ]
+}

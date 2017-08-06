@@ -1,0 +1,53 @@
+
+{
+    "lines": [
+        {
+            "eng": "avoid",
+            "rus": "избегать"
+        },
+        {
+            "eng": "catch",
+            "rus": "поймать"
+        },
+        {
+            "eng": "catch up",
+            "rus": "догонять",
+            "examples": [
+                {
+                    "eng": "catch",
+                    "rus": "поймать"
+                }
+            ]
+        },
+        {
+            "eng": "drive",
+            "rus": "гнать"
+        },
+        {
+            "eng": "escape",
+            "rus": "убежать"
+        },
+        {
+            "eng": "flee",
+            "rus": "спасаться бегством"
+        },
+        {
+            "eng": "leave behind",
+            "rus": "оставлять позади",
+            "examples": [
+                {
+                    "eng": "leave",
+                    "rus": "оставлять"
+                }
+            ]
+        },
+        {
+            "eng": "pursue",
+            "rus": "преследовать"
+        },
+        {
+            "eng": "surpass",
+            "rus": "перегонять"
+        }
+    ]
+}
