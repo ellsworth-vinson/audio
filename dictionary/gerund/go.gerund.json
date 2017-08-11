@@ -1,0 +1,355 @@
+
+{
+    "lines": [
+        {
+            "eng": "boating",
+            "rus": "гребля",
+            "examples": [
+                {
+                    "eng": "go boating",
+                    "rus": "Кататься на лодке"
+                }
+            ]
+        },
+        {
+            "eng": "bowling",
+            "rus": "боулинг",
+            "examples": [
+                {
+                    "eng": "go bowling",
+                    "rus": "играть в боулинг"
+                }
+            ]
+        },
+        {
+            "eng": "bungee jumping",
+            "rus": "прыжки с тарзанки",
+            "examples": [
+                {
+                    "eng": "go bungee jumping",
+                    "rus": "Пойти банджи-джампинг"
+                }
+            ]
+        },
+        {
+            "eng": "camping",
+            "rus": "кемпинг",
+            "examples": [
+                {
+                    "eng": "go camping",
+                    "rus": "Пойти в поход"
+                }
+            ]
+        },
+        {
+            "eng": "canoeing",
+            "rus": "гребля",
+            "examples": [
+                {
+                    "eng": "go canoeing",
+                    "rus": "Кататься на каноэ"
+                }
+            ]
+        },
+        {
+            "eng": "climbing",
+            "rus": "альпинизм",
+            "examples": [
+                {
+                    "eng": "go climbing",
+                    "rus": "Идти по восхождению"
+                }
+            ]
+        },
+        {
+            "eng": "dancing",
+            "rus": "танцы",
+            "examples": [
+                {
+                    "eng": "go dancing",
+                    "rus": "идти танцевать"
+                }
+            ]
+        },
+        {
+            "eng": "fishing",
+            "rus": "ловит рыбу",
+            "examples": [
+                {
+                    "eng": "go fishing",
+                    "rus": "Идти на рыбалку"
+                }
+            ]
+        },
+        {
+            "eng": "hiking",
+            "rus": "пеший туризм",
+            "examples": [
+                {
+                    "eng": "go hiking",
+                    "rus": "отправиться в поход"
+                }
+            ]
+        },
+        {
+            "eng": "horseback riding",
+            "rus": "верховая езда",
+            "examples": [
+                {
+                    "eng": "go horseback riding",
+                    "rus": "пойти на верховую езду"
+                }
+            ]
+        },
+        {
+            "eng": "hunting",
+            "rus": "охота",
+            "examples": [
+                {
+                    "eng": "go hunting",
+                    "rus": "Идти на охоту"
+                }
+            ]
+        },
+        {
+            "eng": "jogging",
+            "rus": "бег трусцой",
+            "examples": [
+                {
+                    "eng": "go jogging",
+                    "rus": "Бегать трусцой"
+                }
+            ]
+        },
+        {
+            "eng": "kayaking",
+            "rus": "каякинг",
+            "examples": [
+                {
+                    "eng": "go kayaking",
+                    "rus": "Кататься на байдарках"
+                }
+            ]
+        },
+        {
+            "eng": "mountain climbing",
+            "rus": "скалолазание",
+            "examples": [
+                {
+                    "eng": "go mountain climbing",
+                    "rus": "Идти по альпинизму"
+                }
+            ]
+        },
+        {
+            "eng": "paragliding",
+            "rus": "парапланеризм",
+            "examples": [
+                {
+                    "eng": "go paragliding",
+                    "rus": "Идти на парапланеризм"
+                }
+            ]
+        },
+        {
+            "eng": "parasailing",
+            "rus": "парасейлинг",
+            "examples": [
+                {
+                    "eng": "go parasailing",
+                    "rus": "Идти парасейлинг"
+                }
+            ]
+        },
+        {
+            "eng": "rollerblading",
+            "rus": "кататься на роликах",
+            "examples": [
+                {
+                    "eng": "go rollerblading",
+                    "rus": "покататься на роликах"
+                }
+            ]
+        },
+        {
+            "eng": "running",
+            "rus": "Бег",
+            "examples": [
+                {
+                    "eng": "go running",
+                    "rus": "Бегать"
+                }
+            ]
+        },
+        {
+            "eng": "sailing",
+            "rus": "парусный спорт",
+            "examples": [
+                {
+                    "eng": "go sailing",
+                    "rus": "ходить под парусом"
+                }
+            ]
+        },
+        {
+            "eng": "scuba diving",
+            "rus": "подводное плавание с аквалангом",
+            "examples": [
+                {
+                    "eng": "go scuba diving",
+                    "rus": "заниматься подводным плаваньем"
+                }
+            ]
+        },
+        {
+            "eng": "shopping",
+            "rus": "поход по магазинам",
+            "examples": [
+                {
+                    "eng": "go shopping",
+                    "rus": "идти за покупками"
+                }
+            ]
+        },
+        {
+            "eng": "sightseeing",
+            "rus": "осмотр достопримечательностей",
+            "examples": [
+                {
+                    "eng": "go sightseeing",
+                    "rus": "осмотреть достопримечательности"
+                }
+            ]
+        },
+        {
+            "eng": "skateboarding",
+            "rus": "скейтбординга",
+            "examples": [
+                {
+                    "eng": "go skateboarding",
+                    "rus": "заниматься скейтбордингом"
+                }
+            ]
+        },
+        {
+            "eng": "skating",
+            "rus": "катание на коньках",
+            "examples": [
+                {
+                    "eng": "go skating",
+                    "rus": "поехали кататься"
+                }
+            ]
+        },
+        {
+            "eng": "skiing",
+            "rus": "горнолыжный спорт",
+            "examples": [
+                {
+                    "eng": "go skiing",
+                    "rus": "кататься на лыжах"
+                }
+            ]
+        },
+        {
+            "eng": "skydiving",
+            "rus": "затяжные прыжки с парашютом",
+            "examples": [
+                {
+                    "eng": "go skydiving",
+                    "rus": "Прыгать с парашютом"
+                }
+            ]
+        },
+        {
+            "eng": "sledding",
+            "rus": "катание на санях",
+            "examples": [
+                {
+                    "eng": "go sledding",
+                    "rus": "Кататься на санях"
+                }
+            ]
+        },
+        {
+            "eng": "snorkeling",
+            "rus": "подводное плавание",
+            "examples": [
+                {
+                    "eng": "go snorkeling",
+                    "rus": "Пойти на подводное плавание"
+                }
+            ]
+        },
+        {
+            "eng": "snowboarding",
+            "rus": "катание на сноуборде",
+            "examples": [
+                {
+                    "eng": "go snowboarding",
+                    "rus": "пошли кататься на сноуборде"
+                }
+            ]
+        },
+        {
+            "eng": "spearfishing",
+            "rus": "подводная охота",
+            "examples": [
+                {
+                    "eng": "go spearfishing",
+                    "rus": "Идти подводной охотой"
+                }
+            ]
+        },
+        {
+            "eng": "surfing",
+            "rus": "серфинг",
+            "examples": [
+                {
+                    "eng": "go surfing",
+                    "rus": "Серфить"
+                }
+            ]
+        },
+        {
+            "eng": "trekking",
+            "rus": "треккинг",
+            "examples": [
+                {
+                    "eng": "go trekking",
+                    "rus": "Идти по треккингу"
+                }
+            ]
+        },
+        {
+            "eng": "water skiing",
+            "rus": "водные лыжи",
+            "examples": [
+                {
+                    "eng": "go water skiing",
+                    "rus": "покататься на водных лыжах"
+                }
+            ]
+        },
+        {
+            "eng": "window shopping",
+            "rus": "рассматривание ветрин",
+            "examples": [
+                {
+                    "eng": "go window shopping",
+                    "rus": "Ходить по магазинам"
+                }
+            ]
+        },
+        {
+            "eng": "windsurfing",
+            "rus": "виндсерфинг",
+            "examples": [
+                {
+                    "eng": "go windsurfing",
+                    "rus": "Пойти на виндсерфинг"
+                }
+            ]
+        }
+    ]
+}

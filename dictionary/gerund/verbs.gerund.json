@@ -1,0 +1,75 @@
+
+{
+    "lines": [
+        {
+            "eng": "advise",
+            "rus": "советовать",
+            "examples": [
+                {
+                    "eng": "I advised seeing a doctor.",
+                    "rus": "Я посоветовал сходить к врачу."
+                },
+                {
+                    "eng": "I advised them to see a doctor.",
+                    "rus": "Я посоветовал им сходить к врачу."
+                }
+            ]
+        },
+        {
+            "eng": "allow",
+            "rus": "позволять, разрешать",
+            "examples": [
+                {
+                    "eng": "Ireland doesn't allow people to smoke in bars.",
+                    "rus": "В Ирландии людям не разрешается курить в барах."
+                },
+                {
+                    "eng": "Ireland doesn't allow smoking in bars.",
+                    "rus": "В Ирландии не разрешается курить в барах."
+                }
+            ]
+        },
+        {
+            "eng": "encourage",
+            "rus": "поощрять, одобрять",
+            "examples": [
+                {
+                    "eng": "He encourages eating healthy foods.",
+                    "rus": "Он одобряет здоровую пищу."
+                },
+                {
+                    "eng": "He encourages his patients to eat healthy foods.",
+                    "rus": "Он одобряет здоровую пищу."
+                }
+            ]
+        },
+        {
+            "eng": "permit",
+            "rus": "разрешать, позволять",
+            "examples": [
+                {
+                    "eng": "California doesn't permit fishing without a fishing license.",
+                    "rus": "В Калифорнии не разрешается рыбачить без лицензии."
+                },
+                {
+                    "eng": "California doesn't permit people to fish without a fishing license.",
+                    "rus": "В Калифорнии людям не разрешается рыбачить без лицензии."
+                }
+            ]
+        },
+        {
+            "eng": "require",
+            "rus": "требовать, требоваться, быть необходимым",
+            "examples": [
+                {
+                    "eng": "The certificate requires completing two courses.",
+                    "rus": "Для получения этого сертификата требуется завершить два курса."
+                },
+                {
+                    "eng": "The certificate requires students to complete two courses.",
+                    "rus": "Для получения этого сертификата студентам необходимо завершить два курса."
+                }
+            ]
+        }
+    ]
+}

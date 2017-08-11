@@ -1,0 +1,497 @@
+
+{
+    "lines": [
+        {
+            "eng": "admit",
+            "rus": "признавать",
+            "examples": [
+                {
+                    "eng": "He admitted cheating on the test.",
+                    "rus": "Он признал, что смошенничал во время теста."
+                }
+            ]
+        },
+        {
+            "eng": "advise",
+            "rus": "советовать"
+        },
+        {
+            "eng": "allow",
+            "rus": "позволять, разрешать",
+            "examples": [
+                {
+                    "eng": "Ireland doesn't allow smoking in bars.",
+                    "rus": "В Ирландии не разрешается курить в барах."
+                }
+            ]
+        },
+        {
+            "eng": "anticipate",
+            "rus": "ожидать, рассчитывать",
+            "examples": [
+                {
+                    "eng": "I anticipated arriving late.",
+                    "rus": "Я ожидал, что прибуду поздно."
+                }
+            ]
+        },
+        {
+            "eng": "appreciate",
+            "rus": "ценить, быть благодарным",
+            "examples": [
+                {
+                    "eng": "I appreciated her helping me.",
+                    "rus": "Я был благодарен ей за помощь мне."
+                }
+            ]
+        },
+        {
+            "eng": "avoid",
+            "rus": "избегать",
+            "examples": [
+                {
+                    "eng": "He avoided talking to her.",
+                    "rus": "Он избегал разговоров с ней."
+                }
+            ]
+        },
+        {
+            "eng": "begin",
+            "rus": "начинать",
+            "examples": [
+                {
+                    "eng": "I began learning Chinese.",
+                    "rus": "Я начал учить китайский."
+                }
+            ]
+        },
+        {
+            "eng": "can't bear",
+            "rus": "не выносить, не терпеть",
+            "examples": [
+                {
+                    "eng": "He can't bear having so much responsibility.",
+                    "rus": "Он терпеть не может такой ответственности."
+                }
+            ]
+        },
+        {
+            "eng": "can't help",
+            "rus": "не избежать, не удержаться",
+            "examples": [
+                {
+                    "eng": "He can't help talking so loudly.",
+                    "rus": "Он не может не говорить так громко."
+                }
+            ]
+        },
+        {
+            "eng": "can't stand",
+            "rus": "не выносить, не терпеть",
+            "examples": [
+                {
+                    "eng": "He can't stand her smoking in the office.",
+                    "rus": "Он терпеть не может, когда она курит в офисе."
+                }
+            ]
+        },
+        {
+            "eng": "cease",
+            "rus": "приостанавливать, прекращать",
+            "examples": [
+                {
+                    "eng": "The government ceased providing free healthcare.",
+                    "rus": "Правительство перестало обеспечивать бесплатное здравоохранение."
+                }
+            ]
+        },
+        {
+            "eng": "complete",
+            "rus": "заканчивать, завершать",
+            "examples": [
+                {
+                    "eng": "He completed renovating the house.",
+                    "rus": "Он закончил ремонт дома."
+                }
+            ]
+        },
+        {
+            "eng": "consider",
+            "rus": "рассматривать, обдумывать"
+        },
+        {
+            "eng": "continue",
+            "rus": "продолжать",
+            "examples": [
+                {
+                    "eng": "He continued talking.",
+                    "rus": "Он продолжал говорить."
+                }
+            ]
+        },
+        {
+            "eng": "delay",
+            "rus": "задерживать",
+            "examples": [
+                {
+                    "eng": "He delayed doing his taxes.",
+                    "rus": "Он задержал выплату налогов."
+                }
+            ]
+        },
+        {
+            "eng": "deny",
+            "rus": "отрицать",
+            "examples": [
+                {
+                    "eng": "He denied committing the crime.",
+                    "rus": "Он отрицал, что совершил это преступление."
+                }
+            ]
+        },
+        {
+            "eng": "despise",
+            "rus": "не терпеть, ненавидеть",
+            "examples": [
+                {
+                    "eng": "She despises waking up early.",
+                    "rus": "Ей очень не нравится рано вставать."
+                }
+            ]
+        },
+        {
+            "eng": "discuss",
+            "rus": "обсуждать",
+            "examples": [
+                {
+                    "eng": "We discussed working at the company.",
+                    "rus": "Мы обсудили работу в этой фирме."
+                }
+            ]
+        },
+        {
+            "eng": "dislike",
+            "rus": "не любить, не нравиться",
+            "examples": [
+                {
+                    "eng": "She dislikes working after 5 PM.",
+                    "rus": "Ей не нравится работать после 5 часов вечера."
+                }
+            ]
+        },
+        {
+            "eng": "don't mind",
+            "rus": "не возражать, быть не против",
+            "examples": [
+                {
+                    "eng": "I don't mind helping you.",
+                    "rus": "Я не против того, чтобы помочь вам."
+                }
+            ]
+        },
+        {
+            "eng": "encourage",
+            "rus": "поощрять, одобрять",
+            "examples": [
+                {
+                    "eng": "He encourages eating healthy foods.",
+                    "rus": "Он одобряет здоровую пищу."
+                }
+            ]
+        },
+        {
+            "eng": "enjoy",
+            "rus": "получать удовольствие, наслаждаться",
+            "examples": [
+                {
+                    "eng": "We enjoy hiking.",
+                    "rus": "Нам нравятся пешие прогулки."
+                }
+            ]
+        },
+        {
+            "eng": "finish",
+            "rus": "заканчивать, завершать",
+            "examples": [
+                {
+                    "eng": "He finished doing his homework.",
+                    "rus": "Он закончил делать домашние задания."
+                }
+            ]
+        },
+        {
+            "eng": "hate",
+            "rus": "не любить, ненавидеть",
+            "examples": [
+                {
+                    "eng": "I hate cleaning the bathroom.",
+                    "rus": "Я ненавижу чистить ванную комнату."
+                }
+            ]
+        },
+        {
+            "eng": "involve",
+            "rus": "подразумевать, предполагать",
+            "examples": [
+                {
+                    "eng": "The job involves traveling to Japan once a month.",
+                    "rus": "Предполагается, что на этой работе нужно ездить в Японию раз в месяц."
+                }
+            ]
+        },
+        {
+            "eng": "keep",
+            "rus": "продолжать делать, не останавливаться",
+            "examples": [
+                {
+                    "eng": "She kept interrupting me.",
+                    "rus": "Она все меня прерывала."
+                }
+            ]
+        },
+        {
+            "eng": "like",
+            "rus": "любить, нравиться",
+            "examples": [
+                {
+                    "eng": "She likes listening to music.",
+                    "rus": "Ей нравится слушать музыку."
+                }
+            ]
+        },
+        {
+            "eng": "love",
+            "rus": "любить, обожать",
+            "examples": [
+                {
+                    "eng": "I love swimming.",
+                    "rus": "Я обожаю плавать."
+                }
+            ]
+        },
+        {
+            "eng": "mention",
+            "rus": "упоминать",
+            "examples": [
+                {
+                    "eng": "He mentioned going to that college.",
+                    "rus": "Он упомянул, что учится в том колледже."
+                }
+            ]
+        },
+        {
+            "eng": "mind",
+            "rus": "возражать, быть против"
+        },
+        {
+            "eng": "miss",
+            "rus": "скучать",
+            "examples": [
+                {
+                    "eng": "She misses living near the beach.",
+                    "rus": "Она скучает по тому времени, когда жила у пляжа."
+                }
+            ]
+        },
+        {
+            "eng": "need",
+            "rus": "нуждаться, требоваться",
+            "examples": [
+                {
+                    "eng": "The aquarium needs cleaning.",
+                    "rus": "Аквариум нужно почистить."
+                }
+            ]
+        },
+        {
+            "eng": "permit",
+            "rus": "разрешать, позволять",
+            "examples": [
+                {
+                    "eng": "California does not permit smoking in restaurants.",
+                    "rus": "В Калифорнии не разрешается курить в ресторанах."
+                }
+            ]
+        },
+        {
+            "eng": "postpone",
+            "rus": "отложить, перенести",
+            "examples": [
+                {
+                    "eng": "He postponed returning to Paris.",
+                    "rus": "Он отложил возвращение в Париж."
+                }
+            ]
+        },
+        {
+            "eng": "practice",
+            "rus": "практиковаться, упражняться",
+            "examples": [
+                {
+                    "eng": "She practiced singing the song.",
+                    "rus": "Она упражнялась в исполнении песни."
+                }
+            ]
+        },
+        {
+            "eng": "prefer",
+            "rus": "предпочитать",
+            "examples": [
+                {
+                    "eng": "He prefers sitting at the back of the movie theater.",
+                    "rus": "В кинотеатре он предпочитает сидеть на задних рядах."
+                }
+            ]
+        },
+        {
+            "eng": "propose",
+            "rus": "предлагать",
+            "examples": [
+                {
+                    "eng": "I proposed having lunch at the beach.",
+                    "rus": "Я предложил пообедать на пляже."
+                }
+            ]
+        },
+        {
+            "eng": "quit",
+            "rus": "переставать, прекращать, бросать",
+            "examples": [
+                {
+                    "eng": "She quit worrying about the problem.",
+                    "rus": "Она перестала волноваться об этой проблеме."
+                }
+            ]
+        },
+        {
+            "eng": "recall",
+            "rus": "вспоминать, воскрешать",
+            "examples": [
+                {
+                    "eng": "Tom recalled using his credit card at the store.",
+                    "rus": "Том вспомнил, как воспользовался кредитной карточкой в магазине."
+                }
+            ]
+        },
+        {
+            "eng": "recollect",
+            "rus": "вспоминать, припоминать",
+            "examples": [
+                {
+                    "eng": "She recollected living in Kenya.",
+                    "rus": "Она вспомнила, как жила в Кении."
+                }
+            ]
+        },
+        {
+            "eng": "recommend",
+            "rus": "рекомендовать, советовать",
+            "examples": [
+                {
+                    "eng": "Tony recommended taking the train.",
+                    "rus": "Тони посоветовал ехать поездом."
+                }
+            ]
+        },
+        {
+            "eng": "regret",
+            "rus": "жалеть, сожалеть",
+            "examples": [
+                {
+                    "eng": "She regretted saying that.",
+                    "rus": "Она пожалела, что сказала это."
+                }
+            ]
+        },
+        {
+            "eng": "require",
+            "rus": "требовать, требоваться, быть необходимым",
+            "examples": [
+                {
+                    "eng": "The certificate requires completing two courses.",
+                    "rus": "Для получения этого сертификата требуется завершить два курса."
+                }
+            ]
+        },
+        {
+            "eng": "resent",
+            "rus": "негодовать, возмущаться",
+            "examples": [
+                {
+                    "eng": "Nick resented Debbie's being there.",
+                    "rus": "Ник возмущался тем, что там находилась Дэбби."
+                }
+            ]
+        },
+        {
+            "eng": "resist",
+            "rus": "воздержаться",
+            "examples": [
+                {
+                    "eng": "He resisted asking for help.",
+                    "rus": "Он не стал просить помощи."
+                }
+            ]
+        },
+        {
+            "eng": "risk",
+            "rus": "рисковать",
+            "examples": [
+                {
+                    "eng": "He risked being caught.",
+                    "rus": "Он рисковал быть пойманным."
+                }
+            ]
+        },
+        {
+            "eng": "start",
+            "rus": "начинать",
+            "examples": [
+                {
+                    "eng": "He started studying harder.",
+                    "rus": "Он начал учиться прилежнее."
+                }
+            ]
+        },
+        {
+            "eng": "stop",
+            "rus": "прекращать, заканчивать, завершать",
+            "examples": [
+                {
+                    "eng": "She stopped working at 5 o'clock.",
+                    "rus": "Она заканчивает работу в 5 часов."
+                }
+            ]
+        },
+        {
+            "eng": "suggest",
+            "rus": "предлагать",
+            "examples": [
+                {
+                    "eng": "They suggested staying at the hotel.",
+                    "rus": "Они предложили остановиться в гостинице."
+                }
+            ]
+        },
+        {
+            "eng": "try",
+            "rus": "пробовать, попробовать, пытаться",
+            "examples": [
+                {
+                    "eng": "Sam tried opening the lock with a paperclip.",
+                    "rus": "Сэм попробовал открыть замок скрепкой для бумаги."
+                }
+            ]
+        },
+        {
+            "eng": "understand",
+            "rus": "понимать",
+            "examples": [
+                {
+                    "eng": "I understand his quitting.",
+                    "rus": "Я понимаю, почему он бросил."
+                }
+            ]
+        }
+    ]
+}

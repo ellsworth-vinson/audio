@@ -1,0 +1,289 @@
+
+{
+    "lines": [
+        {
+            "eng": "accustomed to",
+            "rus": "привыкший к",
+            "examples": [
+                {
+                    "eng": "He is accustomed to having his own office.",
+                    "rus": "Он привык иметь свой собственный офис."
+                }
+            ]
+        },
+        {
+            "eng": "addicted to",
+            "rus": "склонный к",
+            "examples": [
+                {
+                    "eng": "She is addicted to watching TV.",
+                    "rus": "Она привыкла смотреть телевизор."
+                }
+            ]
+        },
+        {
+            "eng": "afraid of",
+            "rus": "боящийся, испуганный",
+            "examples": [
+                {
+                    "eng": "She is afraid of speaking in public.",
+                    "rus": "Она боится выступать перед публикой."
+                }
+            ]
+        },
+        {
+            "eng": "anxious about",
+            "rus": "беспокоящийся о, волнующийся о",
+            "examples": [
+                {
+                    "eng": "Norma is anxious about making the presentation.",
+                    "rus": "Норма волнуется о презентации."
+                }
+            ]
+        },
+        {
+            "eng": "bored of",
+            "rus": "скучающий",
+            "examples": [
+                {
+                    "eng": "I am bored of doing the same old job.",
+                    "rus": "Мне надоело делать одну и ту же работу."
+                }
+            ]
+        },
+        {
+            "eng": "capable of",
+            "rus": "способный на",
+            "examples": [
+                {
+                    "eng": "He is capable of winning a gold medal.",
+                    "rus": "Он способен выиграть золотую медаль."
+                }
+            ]
+        },
+        {
+            "eng": "concerned about",
+            "rus": "озабоченный, взволнованный"
+        },
+        {
+            "eng": "content with",
+            "rus": "довольный",
+            "examples": [
+                {
+                    "eng": "Tim is content with winning second place.",
+                    "rus": "Тим доволен тем, что занял второе место."
+                }
+            ]
+        },
+        {
+            "eng": "dedicated to",
+            "rus": "преданный, посвященный",
+            "examples": [
+                {
+                    "eng": "The organization is dedicated to ending poverty.",
+                    "rus": "Эта организация посвящена борьбе с бедностью."
+                }
+            ]
+        },
+        {
+            "eng": "devoted to",
+            "rus": "посвященный",
+            "examples": [
+                {
+                    "eng": "The money will be devoted to protecting the environment.",
+                    "rus": "Деньги будут посвящены защите окружающей среды."
+                }
+            ]
+        },
+        {
+            "eng": "disappointed with",
+            "rus": "разочарованный",
+            "examples": [
+                {
+                    "eng": "Fiona was disappointed with coming in third place.",
+                    "rus": "Фиона была разочарована тем, что заняла третье место."
+                }
+            ]
+        },
+        {
+            "eng": "discouraged by",
+            "rus": "обескураженный, расхалаженный",
+            "examples": [
+                {
+                    "eng": "He was discouraged by not getting the job.",
+                    "rus": "Он был обескуражен тем, что не получил работу."
+                }
+            ]
+        },
+        {
+            "eng": "excited about",
+            "rus": "взволнованный",
+            "examples": [
+                {
+                    "eng": "The researcher was excited about going to Africa.",
+                    "rus": "Исследователь был взволнован поездкой в Африку."
+                }
+            ]
+        },
+        {
+            "eng": "famous for",
+            "rus": "знаменитый, известный",
+            "examples": [
+                {
+                    "eng": "That actor is famous for being extremely weird.",
+                    "rus": "Этот актер известен тем, что он ведет себя чрезвычайно необычно."
+                }
+            ]
+        },
+        {
+            "eng": "fond of",
+            "rus": "любить, нравиться",
+            "examples": [
+                {
+                    "eng": "She is fond of having picnics.",
+                    "rus": "Ей нравится устраивать пикники."
+                }
+            ]
+        },
+        {
+            "eng": "frightened of",
+            "rus": "испуганный, напуганный, бояться",
+            "examples": [
+                {
+                    "eng": "She is frightened of being alone at night.",
+                    "rus": "Она боится оставаться ночью одна."
+                }
+            ]
+        },
+        {
+            "eng": "guilty of",
+            "rus": "виновный в",
+            "examples": [
+                {
+                    "eng": "The banker was guilty of stealing money.",
+                    "rus": "Банкир был виновен в краже денег."
+                }
+            ]
+        },
+        {
+            "eng": "happy about",
+            "rus": "счастливый, довольный, радостный",
+            "examples": [
+                {
+                    "eng": "He was happy about winning the lottery.",
+                    "rus": "Он был счастлив, что выиграл лотерею."
+                }
+            ]
+        },
+        {
+            "eng": "interested in",
+            "rus": "заинтересованный в",
+            "examples": [
+                {
+                    "eng": "She is interested in becoming a doctor.",
+                    "rus": "Она заинтересована стать врачом."
+                }
+            ]
+        },
+        {
+            "eng": "involved in",
+            "rus": "вовлеченный в, впутанный в",
+            "examples": [
+                {
+                    "eng": "He was involved in making the movie.",
+                    "rus": "Он был вовлечен в производство фильма."
+                }
+            ]
+        },
+        {
+            "eng": "known for",
+            "rus": "известный",
+            "examples": [
+                {
+                    "eng": "She was known for causing problems.",
+                    "rus": "Все знали, что она создавала много проблем."
+                }
+            ]
+        },
+        {
+            "eng": "opposed to",
+            "rus": "враждебный, настроенный против",
+            "examples": [
+                {
+                    "eng": "They are opposed to building a new road in the park.",
+                    "rus": "Они против строительства новой дороги в парке."
+                }
+            ]
+        },
+        {
+            "eng": "proud of",
+            "rus": "гордый",
+            "examples": [
+                {
+                    "eng": "He was proud of having completed the marathon.",
+                    "rus": "Он был горд тем, что пробежал весь марафон."
+                }
+            ]
+        },
+        {
+            "eng": "responsible for",
+            "rus": "ответственный за",
+            "examples": [
+                {
+                    "eng": "He is responsible for causing the damage.",
+                    "rus": "Он ответственен за нанесенное повреждение."
+                }
+            ]
+        },
+        {
+            "eng": "scared of",
+            "rus": "испуганный, напуганный, бояться",
+            "examples": [
+                {
+                    "eng": "Tina is scared of being alone at night.",
+                    "rus": "Тина боится оставаться ночью одна."
+                }
+            ]
+        },
+        {
+            "eng": "terrified of",
+            "rus": "ужасаться, быть в ужасе",
+            "examples": [
+                {
+                    "eng": "The surfer is terrified of being attacked by a shark.",
+                    "rus": "Серфер ужасно боится нападения акулы."
+                }
+            ]
+        },
+        {
+            "eng": "tired from",
+            "rus": "усталый от, утомленный",
+            "examples": [
+                {
+                    "eng": "She is tired from working all day.",
+                    "rus": "Она устала от того, что ходила весь день."
+                }
+            ]
+        },
+        {
+            "eng": "tired of",
+            "rus": "усталый, надоесть",
+            "examples": [
+                {
+                    "eng": "Margaret is tired of making dinner every night.",
+                    "rus": "Маргарет надоело каждый вечер готовить ужин."
+                }
+            ]
+        },
+        {
+            "eng": "worried about",
+            "rus": "волнующийся о, беспокоящийся о",
+            "examples": [
+                {
+                    "eng": "The hikers were worried about not having enough water.",
+                    "rus": "Путешественники беспокоились о том, что им не хватит воды."
+                }
+            ]
+        }
+    ]
+}

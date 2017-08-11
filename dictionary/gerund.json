@@ -1,0 +1,34 @@
+{
+  "lines": {
+    "All": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.wav.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.example.wav.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.json"
+    },
+    "adjective + preposition + gerund": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.wav.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.example.wav.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/adjective.preposition.gerund.json"
+    },
+    "go + gerund": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.wav.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.example.wav.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/go.gerund.json"
+    },
+    "noun + preposition + gerund": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.wav.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.example.wav.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/noun.preposition.gerund.json"
+    },
+    "verbs + gerund": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.wav.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.example.wav.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/verbs.gerund.json"
+    },
+    "verbs + only gerund": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.wav.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.example.wav.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/verbs.only.gerund.json"
+    }
+  }  
+}
