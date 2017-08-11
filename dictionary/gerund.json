@@ -1,6 +1,6 @@
 {
   "lines": {
-    " All": {
+    "-All-": {
       "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.wav.json",
       "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.example.wav.json",
       "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.json"
