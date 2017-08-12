@@ -22,6 +22,16 @@
             ]
         },
         {
+            "eng": "addiction [to]",
+            "rus": "пристрасте к",
+            "examples": [
+                {
+                    "eng": "His addiction to surfing the Internet is a problem.",
+                    "rus": "Его пристрастие к интернету становится проблемой."
+                }
+            ]
+        },
+        {
             "eng": "addiction to",
             "rus": "пристрасте к",
             "examples": [
@@ -38,6 +48,16 @@
                 {
                     "eng": "He admitted cheating on the test.",
                     "rus": "Он признал, что смошенничал во время теста."
+                }
+            ]
+        },
+        {
+            "eng": "advantage [of]",
+            "rus": "преимущество",
+            "examples": [
+                {
+                    "eng": "He has the advantage of speaking English fluently.",
+                    "rus": "У него есть преимущество в том, что он бегло говорит по-английски."
                 }
             ]
         },
@@ -94,6 +114,16 @@
             ]
         },
         {
+            "eng": "anxiety [about]",
+            "rus": "беспокойство о, тревога о, волнение о",
+            "examples": [
+                {
+                    "eng": "Her anxiety about speaking in public caused her to lose the job.",
+                    "rus": "Из-за волнения говорить перед публикой она потеряла работу."
+                }
+            ]
+        },
+        {
             "eng": "anxiety about",
             "rus": "беспокойство о, тревога о, волнение о"
         },
@@ -134,6 +164,16 @@
                 {
                     "eng": "I began learning Chinese.",
                     "rus": "Я начал учить китайский."
+                }
+            ]
+        },
+        {
+            "eng": "belief [in]",
+            "rus": "вера в",
+            "examples": [
+                {
+                    "eng": "His belief in not harming animals was something he learned from his mother.",
+                    "rus": "Его вере в то, что нельзя вредить животным, он научился у своей матери."
                 }
             ]
         },
@@ -332,6 +372,16 @@
             ]
         },
         {
+            "eng": "dedication [to]",
+            "rus": "преданность, посвященность",
+            "examples": [
+                {
+                    "eng": "His dedication to teaching was impressive.",
+                    "rus": "Его посвященность обучению была впечатляющей."
+                }
+            ]
+        },
+        {
             "eng": "dedication to",
             "rus": "преданность, посвященность",
             "examples": [
@@ -348,6 +398,16 @@
                 {
                     "eng": "He delayed doing his taxes.",
                     "rus": "Он задержал выплату налогов."
+                }
+            ]
+        },
+        {
+            "eng": "delay [in]",
+            "rus": "задержка в",
+            "examples": [
+                {
+                    "eng": "The delay in processing the visa caused problems.",
+                    "rus": "Задержка в обработке визы вызвала проблемы."
                 }
             ]
         },
@@ -388,6 +448,16 @@
                 {
                     "eng": "The money will be devoted to protecting the environment.",
                     "rus": "Деньги будут посвящены защите окружающей среды."
+                }
+            ]
+        },
+        {
+            "eng": "devotion [to]",
+            "rus": "преданность",
+            "examples": [
+                {
+                    "eng": "His devotion to biking allowed him to win the competition.",
+                    "rus": "Его преданность езде на велосипеде позволила ему выиграть соревнования."
                 }
             ]
         },
@@ -486,6 +556,16 @@
             ]
         },
         {
+            "eng": "experience [in]",
+            "rus": "опыт в",
+            "examples": [
+                {
+                    "eng": "She has a great deal of experience in introducing new products to international markets.",
+                    "rus": "У нее много опыта в том, что касается внедрения новых продуктов на международные рынки."
+                }
+            ]
+        },
+        {
             "eng": "experience in",
             "rus": "опыт в",
             "examples": [
@@ -502,6 +582,16 @@
                 {
                     "eng": "That actor is famous for being extremely weird.",
                     "rus": "Этот актер известен тем, что он ведет себя чрезвычайно необычно."
+                }
+            ]
+        },
+        {
+            "eng": "fear [of]",
+            "rus": "страх, боязнь",
+            "examples": [
+                {
+                    "eng": "His fear of flying made travel difficult.",
+                    "rus": "Из-за его боязни летать перелет быть трудным."
                 }
             ]
         },
@@ -540,6 +630,16 @@
             ]
         },
         {
+            "eng": "fondness [for]",
+            "rus": "любовь к",
+            "examples": [
+                {
+                    "eng": "Her fondness for traveling led to her career in the travel industry.",
+                    "rus": "Ее любовь к путешествиям привела ее к работе в области туризма."
+                }
+            ]
+        },
+        {
             "eng": "fondness for",
             "rus": "любовь к",
             "examples": [
@@ -566,6 +666,16 @@
                 {
                     "eng": "The banker was guilty of stealing money.",
                     "rus": "Банкир был виновен в краже денег."
+                }
+            ]
+        },
+        {
+            "eng": "habit [of]",
+            "rus": "привычка",
+            "examples": [
+                {
+                    "eng": "His habit of smoking in restaurants caused many problems in California.",
+                    "rus": "Его привычка курить в ресторанах причинила ему много проблем в Калифорнии."
                 }
             ]
         },
@@ -626,6 +736,16 @@
                 {
                     "eng": "go hunting",
                     "rus": "Идти на охоту"
+                }
+            ]
+        },
+        {
+            "eng": "interest [in]",
+            "rus": "интерес в",
+            "examples": [
+                {
+                    "eng": "Her career as a pilot evolved out of her interest in flying.",
+                    "rus": "Ее карьера пилота развивалась из-за ее стремления летать."
                 }
             ]
         },
@@ -694,6 +814,16 @@
             ]
         },
         {
+            "eng": "knowledge [of]",
+            "rus": "знание",
+            "examples": [
+                {
+                    "eng": "Her knowledge of climbing helped her during the competition.",
+                    "rus": "Знание скалолазания помогло ей во время соревнований."
+                }
+            ]
+        },
+        {
             "eng": "knowledge of",
             "rus": "знание",
             "examples": [
@@ -734,12 +864,32 @@
             ]
         },
         {
+            "eng": "love [of]",
+            "rus": "любовь к",
+            "examples": [
+                {
+                    "eng": "His love of singing developed when he was a child.",
+                    "rus": "Его любовь к пению развилась когда он был ребенком."
+                }
+            ]
+        },
+        {
             "eng": "love of",
             "rus": "любовь к",
             "examples": [
                 {
                     "eng": "His love of singing developed when he was a child.",
                     "rus": "Его любовь к пению развилась когда он был ребенком."
+                }
+            ]
+        },
+        {
+            "eng": "memory [of]",
+            "rus": "память, воспоминание",
+            "examples": [
+                {
+                    "eng": "Their memories of traveling in Africa will stay with them forever.",
+                    "rus": "Воспоминания о путешествии в Африке навсегда останутся с ними."
                 }
             ]
         },
@@ -876,12 +1026,32 @@
             ]
         },
         {
+            "eng": "preference [for]",
+            "rus": "предпочтение",
+            "examples": [
+                {
+                    "eng": "I think his preference for speaking his native language is natural.",
+                    "rus": "Мне кажется, что то, что он предпочитает говорить на родном языке, естественно."
+                }
+            ]
+        },
+        {
             "eng": "preference for",
             "rus": "предпочтение",
             "examples": [
                 {
                     "eng": "I think his preference for speaking his native language is natural.",
                     "rus": "Мне кажется, что то, что он предпочитает говорить на родном языке, естественно."
+                }
+            ]
+        },
+        {
+            "eng": "process [of]",
+            "rus": "процесс, ход, течение",
+            "examples": [
+                {
+                    "eng": "The process of painting such a large mural is more complicated than you might think.",
+                    "rus": "Нарисовать такую большую фреску гораздо сложнее, чем кажется."
                 }
             ]
         },
@@ -926,12 +1096,32 @@
             ]
         },
         {
+            "eng": "reaction [to]",
+            "rus": "реакция на",
+            "examples": [
+                {
+                    "eng": "His reaction to winning the prize was quite funny.",
+                    "rus": "Его реакция на то, что он получил приз, была очень забавной."
+                }
+            ]
+        },
+        {
             "eng": "reaction to",
             "rus": "реакция на",
             "examples": [
                 {
                     "eng": "His reaction to winning the prize was quite funny.",
                     "rus": "Его реакция на то, что он получил приз, была очень забавной."
+                }
+            ]
+        },
+        {
+            "eng": "reason [for]",
+            "rus": "причина для, основание для, повод для",
+            "examples": [
+                {
+                    "eng": "The main reason for taking the course is to improve your language skills.",
+                    "rus": "Главной причиной для прохождения этих курсов является практика языка."
                 }
             ]
         },
@@ -986,6 +1176,16 @@
             ]
         },
         {
+            "eng": "regret [for]",
+            "rus": "сожаление о, раскаяние за",
+            "examples": [
+                {
+                    "eng": "The criminal's regret for committing the crime did not convince the judge.",
+                    "rus": "Раскаяние преступника за совершение преступления не убедило судью."
+                }
+            ]
+        },
+        {
             "eng": "regret for",
             "rus": "сожаление о, раскаяние за",
             "examples": [
@@ -996,12 +1196,32 @@
             ]
         },
         {
+            "eng": "report [on]",
+            "rus": "доклад на, сообщение на",
+            "examples": [
+                {
+                    "eng": "The magazine's report on choosing the right car was not well researched.",
+                    "rus": "Статья в журнале о выборе правильного автомобиля была плохо подготовлена."
+                }
+            ]
+        },
+        {
             "eng": "report on",
             "rus": "доклад на, сообщение на",
             "examples": [
                 {
                     "eng": "The magazine's report on choosing the right car was not well researched.",
                     "rus": "Статья в журнале о выборе правильного автомобиля была плохо подготовлена."
+                }
+            ]
+        },
+        {
+            "eng": "reputation [for]",
+            "rus": "репутация за",
+            "examples": [
+                {
+                    "eng": "Her reputation for lying is well known.",
+                    "rus": "Ее репутация лжеца хорошо известна."
                 }
             ]
         },
@@ -1046,6 +1266,16 @@
                 {
                     "eng": "He resisted asking for help.",
                     "rus": "Он не стал просить помощи."
+                }
+            ]
+        },
+        {
+            "eng": "responsibility [for]",
+            "rus": "ответственность за",
+            "examples": [
+                {
+                    "eng": "His responsibility for completing the project on time was acknowledged by the company.",
+                    "rus": "Его ответственность за то, что проект был завершен вовремя, была оценена компанией."
                 }
             ]
         },
@@ -1276,6 +1506,16 @@
                 {
                     "eng": "go surfing",
                     "rus": "Серфить"
+                }
+            ]
+        },
+        {
+            "eng": "talent [for]",
+            "rus": "талант к",
+            "examples": [
+                {
+                    "eng": "His talent for learning languages was impressive.",
+                    "rus": "Его талант к изучению языков очень впечатлял."
                 }
             ]
         },
