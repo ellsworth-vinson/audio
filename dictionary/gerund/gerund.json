@@ -179,7 +179,13 @@
         },
         {
             "eng": "bungee jumping",
-            "rus": "прыжки с тарзанки"
+            "rus": "прыжки с тарзанки",
+            "examples": [
+                {
+                    "eng": "go bungee jumping",
+                    "rus": "Пойти банджи-джампинг"
+                }
+            ]
         },
         {
             "eng": "camping",
@@ -273,7 +279,13 @@
         },
         {
             "eng": "concerned about",
-            "rus": "озабоченный, взволнованный"
+            "rus": "озабоченный, взволнованный",
+            "examples": [
+                {
+                    "eng": "Nancy was concerned about being late.",
+                    "rus": "Нэнси волновалась из-за опоздания."
+                }
+            ]
         },
         {
             "eng": "consider",

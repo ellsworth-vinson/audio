@@ -63,7 +63,13 @@
         },
         {
             "eng": "concerned about",
-            "rus": "озабоченный, взволнованный"
+            "rus": "озабоченный, взволнованный",
+            "examples": [
+                {
+                    "eng": "Nancy was concerned about being late.",
+                    "rus": "Нэнси волновалась из-за опоздания."
+                }
+            ]
         },
         {
             "eng": "content with",

@@ -2,7 +2,7 @@
 {
     "lines": [
         {
-            "eng": "addiction to",
+            "eng": "addiction [to]",
             "rus": "пристрасте к",
             "examples": [
                 {
@@ -12,15 +12,27 @@
             ]
         },
         {
-            "eng": "advantage of",
-            "rus": "преимущество"
+            "eng": "advantage [of]",
+            "rus": "преимущество",
+            "examples": [
+                {
+                    "eng": "He has the advantage of speaking English fluently.",
+                    "rus": "У него есть преимущество в том, что он бегло говорит по-английски."
+                }
+            ]
         },
         {
-            "eng": "anxiety about",
-            "rus": "беспокойство о, тревога о, волнение о"
+            "eng": "anxiety [about]",
+            "rus": "беспокойство о, тревога о, волнение о",
+            "examples": [
+                {
+                    "eng": "Her anxiety about speaking in public caused her to lose the job.",
+                    "rus": "Из-за волнения говорить перед публикой она потеряла работу."
+                }
+            ]
         },
         {
-            "eng": "belief in",
+            "eng": "belief [in]",
             "rus": "вера в",
             "examples": [
                 {
@@ -30,7 +42,7 @@
             ]
         },
         {
-            "eng": "dedication to",
+            "eng": "dedication [to]",
             "rus": "преданность, посвященность",
             "examples": [
                 {
@@ -40,7 +52,7 @@
             ]
         },
         {
-            "eng": "delay in",
+            "eng": "delay [in]",
             "rus": "задержка в",
             "examples": [
                 {
@@ -50,7 +62,7 @@
             ]
         },
         {
-            "eng": "devotion to",
+            "eng": "devotion [to]",
             "rus": "преданность",
             "examples": [
                 {
@@ -60,7 +72,7 @@
             ]
         },
         {
-            "eng": "experience in",
+            "eng": "experience [in]",
             "rus": "опыт в",
             "examples": [
                 {
@@ -70,11 +82,17 @@
             ]
         },
         {
-            "eng": "fear of",
-            "rus": "страх, боязнь"
+            "eng": "fear [of]",
+            "rus": "страх, боязнь",
+            "examples": [
+                {
+                    "eng": "His fear of flying made travel difficult.",
+                    "rus": "Из-за его боязни летать перелет быть трудным."
+                }
+            ]
         },
         {
-            "eng": "fondness for",
+            "eng": "fondness [for]",
             "rus": "любовь к",
             "examples": [
                 {
@@ -84,7 +102,7 @@
             ]
         },
         {
-            "eng": "habit of",
+            "eng": "habit [of]",
             "rus": "привычка",
             "examples": [
                 {
@@ -94,11 +112,17 @@
             ]
         },
         {
-            "eng": "interest in",
-            "rus": "интерес в"
+            "eng": "interest [in]",
+            "rus": "интерес в",
+            "examples": [
+                {
+                    "eng": "Her career as a pilot evolved out of her interest in flying.",
+                    "rus": "Ее карьера пилота развивалась из-за ее стремления летать."
+                }
+            ]
         },
         {
-            "eng": "knowledge of",
+            "eng": "knowledge [of]",
             "rus": "знание",
             "examples": [
                 {
@@ -108,7 +132,7 @@
             ]
         },
         {
-            "eng": "love of",
+            "eng": "love [of]",
             "rus": "любовь к",
             "examples": [
                 {
@@ -118,7 +142,7 @@
             ]
         },
         {
-            "eng": "memory of",
+            "eng": "memory [of]",
             "rus": "память, воспоминание",
             "examples": [
                 {
@@ -128,7 +152,7 @@
             ]
         },
         {
-            "eng": "preference for",
+            "eng": "preference [for]",
             "rus": "предпочтение",
             "examples": [
                 {
@@ -138,7 +162,7 @@
             ]
         },
         {
-            "eng": "process of",
+            "eng": "process [of]",
             "rus": "процесс, ход, течение",
             "examples": [
                 {
@@ -148,7 +172,7 @@
             ]
         },
         {
-            "eng": "reaction to",
+            "eng": "reaction [to]",
             "rus": "реакция на",
             "examples": [
                 {
@@ -158,7 +182,7 @@
             ]
         },
         {
-            "eng": "reason for",
+            "eng": "reason [for]",
             "rus": "причина для, основание для, повод для",
             "examples": [
                 {
@@ -168,7 +192,7 @@
             ]
         },
         {
-            "eng": "regret for",
+            "eng": "regret [for]",
             "rus": "сожаление о, раскаяние за",
             "examples": [
                 {
@@ -178,7 +202,7 @@
             ]
         },
         {
-            "eng": "report on",
+            "eng": "report [on]",
             "rus": "доклад на, сообщение на",
             "examples": [
                 {
@@ -188,7 +212,7 @@
             ]
         },
         {
-            "eng": "reputation for",
+            "eng": "reputation [for]",
             "rus": "репутация за",
             "examples": [
                 {
@@ -198,7 +222,7 @@
             ]
         },
         {
-            "eng": "responsibility for",
+            "eng": "responsibility [for]",
             "rus": "ответственность за",
             "examples": [
                 {
@@ -218,7 +242,7 @@
             ]
         },
         {
-            "eng": "talent for",
+            "eng": "talent [for]",
             "rus": "талант к",
             "examples": [
                 {
