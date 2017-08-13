@@ -29,6 +29,11 @@
       "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.wav.json",
       "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/gerund.{ph}.example.wav.json",
       "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/verbs.only.gerund.json"
+    },
+    "exercises 1": {
+      "meta1_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/exercises.{ph}.wav.json",
+      "meta2_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/exercises.{ph}.example.wav.json",
+      "data_url": "https://raw.githubusercontent.com/ellsworth-vinson/audio/master/dictionary/gerund/exercises1.json"
     }
   }  
 }

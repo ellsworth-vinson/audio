@@ -1,0 +1,45 @@
+
+{
+    "lines": [
+        {
+            "eng": "i am tired of telling them about it",
+            "rus": "Я устал рассказывать им об этом",
+            "examples": [
+                {
+                    "eng": "about",
+                    "rus": "около"
+                },
+                {
+                    "eng": "telling",
+                    "rus": "говоря"
+                },
+                {
+                    "eng": "them",
+                    "rus": "их"
+                },
+                {
+                    "eng": "tired",
+                    "rus": "устала"
+                }
+            ]
+        },
+        {
+            "eng": "i couldn't help laughing",
+            "rus": "Я не мог не рассмеяться",
+            "examples": [
+                {
+                    "eng": "could",
+                    "rus": "мог"
+                },
+                {
+                    "eng": "help",
+                    "rus": "Помогите"
+                },
+                {
+                    "eng": "laughing",
+                    "rus": "смеющийся"
+                }
+            ]
+        }
+    ]
+}
