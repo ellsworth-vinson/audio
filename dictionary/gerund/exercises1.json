@@ -2,6 +2,80 @@
 {
     "lines": [
         {
+            "eng": "at last we succeeded in getting the necessary information",
+            "rus": "Наконец, нам удалось получить необходимую информацию",
+            "examples": [
+                {
+                    "eng": "getting",
+                    "rus": "получение"
+                },
+                {
+                    "eng": "necessary",
+                    "rus": "необходимо"
+                },
+                {
+                    "eng": "succeeded",
+                    "rus": "удалось"
+                },
+                {
+                    "eng": "we",
+                    "rus": "мы"
+                }
+            ]
+        },
+        {
+            "eng": "he left the room without saying anything",
+            "rus": "Он вышел из комнаты, ничего не сказав",
+            "examples": [
+                {
+                    "eng": "anything",
+                    "rus": "что-нибудь"
+                },
+                {
+                    "eng": "he",
+                    "rus": "он"
+                },
+                {
+                    "eng": "left",
+                    "rus": "оставил"
+                },
+                {
+                    "eng": "room",
+                    "rus": "комната"
+                },
+                {
+                    "eng": "saying",
+                    "rus": "поговорка"
+                },
+                {
+                    "eng": "without",
+                    "rus": "без"
+                }
+            ]
+        },
+        {
+            "eng": "i am tired of doing this work",
+            "rus": "Я устал от этой работы",
+            "examples": [
+                {
+                    "eng": "doing",
+                    "rus": "дела"
+                },
+                {
+                    "eng": "this",
+                    "rus": "это"
+                },
+                {
+                    "eng": "tired",
+                    "rus": "устала"
+                },
+                {
+                    "eng": "work",
+                    "rus": "Работа"
+                }
+            ]
+        },
+        {
             "eng": "i am tired of telling them about it",
             "rus": "Я устал рассказывать им об этом",
             "examples": [
@@ -38,6 +112,28 @@
                 {
                     "eng": "laughing",
                     "rus": "смеющийся"
+                }
+            ]
+        },
+        {
+            "eng": "i couldn't help telling them about it",
+            "rus": "Я не мог не рассказать им об этом",
+            "examples": [
+                {
+                    "eng": "about",
+                    "rus": "около"
+                },
+                {
+                    "eng": "could",
+                    "rus": "мог"
+                },
+                {
+                    "eng": "telling",
+                    "rus": "говоря"
+                },
+                {
+                    "eng": "them",
+                    "rus": "их"
                 }
             ]
         }
